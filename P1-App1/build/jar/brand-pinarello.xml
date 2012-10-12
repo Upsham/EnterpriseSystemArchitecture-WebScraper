@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<brand>
+    <manufacturer>pinarello</manufacturer>
+    <model>
+        <name>pinarello dogma 60 1 dura ace di2 road bike</name>
+        <price>$14,500</price>
+        <year>2010</year>
+        <frame>
+            <material> 60HM1K Monocoque Carbon</material>
+        </frame>
+        <fork>
+            <material> Onda Carbon 60HM1K 1â€? 1/8 &amp;#8211; 1â€? 1/4 integral system</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Dura-Ace Di2</components>
+        <components name="Saddle"> Selle Italia MOST XLR &amp;#8211; White</components>
+        <components name="Stem"> MOST Talon Integrated &amp;#8211; White</components>
+        <components name="Brake Calipers"> Shimano Dura-Ace 7900</components>
+        <components name="Headset"> Pinarello Integrated</components>
+        <components name="Handlebars"> MOST Talon Integrated &amp;#8211; White</components>
+        <components name="Seatpost"> Most Aero Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.39</current>
+            <votes>56.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>pinarello dogma 60 1 super record 11 road bike</name>
+        <price>$11,000</price>
+        <year>2010</year>
+        <frame>
+            <material> 60HM1K Monocoque Carbon</material>
+        </frame>
+        <fork>
+            <material> Onda Carbon 60HM1K 1â€? 1/8 &amp;#8211; 1â€? 1/4 integral system</material>
+        </fork>
+        <components name="Brake Levers"> Campagnolo Super Record 11s</components>
+        <components name="Saddle"> Selle Italia MOST XLR</components>
+        <components name="Stem"> MOST Talon Integrated</components>
+        <components name="Brake Calipers"> Campagnolo Super Record 11s</components>
+        <components name="Headset"> Pinarello Integrated</components>
+        <components name="Handlebars"> MOST Talon Integrated</components>
+        <components name="Seatpost"> Most Aero Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.85</current>
+            <votes>13.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>pinarello prince dura ace di2 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Pinarello Prince with custom internal cable routing for Di2</material>
+        </frame>
+        <fork>
+            <material> Pinarello Prince Onda</material>
+        </fork>
+        <components name="Brake Levers"> Campagnolo Super Record 11s</components>
+        <components name="Saddle"> M.O.s.t. XLR carbon/carbon rails</components>
+        <components name="Stem"> MOST Talon Integrated</components>
+        <components name="Brake Calipers"> Campagnolo Super Record 11s</components>
+        <components name="Brakes"> Shimano Dura Ace 7900</components>
+        <components name="Handlebar"> M.O.s.t. Talon integrated with stem</components>
+        <components name="Headset"> Pinarello 1 1/8&amp;#8243; top and 1 1/4&amp;#8243; lower</components>
+        <components name="Handlebars"> MOST Talon Integrated</components>
+        <components name="Seatpost"> M.O.s.t. carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.5</current>
+            <votes>2.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>pinarello fp7 sram red road bike</name>
+        <price>$6,000</price>
+        <year>2010</year>
+        <frame>
+            <material> 46HM3K Carbon</material>
+        </frame>
+        <fork>
+            <material> MoST Onda FPK Fork</material>
+        </fork>
+        <components name="Brake Levers"> SRAM Red</components>
+        <components name="Saddle"> MOst Leopard</components>
+        <components name="Stem"> MOst Tigermax 3K</components>
+        <components name="Brake Calipers"> SRAM Red</components>
+        <components name="Brakes"> Shimano Dura Ace 7900</components>
+        <components name="Handlebar"> M.O.s.t. Talon integrated with stem</components>
+        <components name="Headset"> MoST Integrated Headset</components>
+        <components name="Handlebars"> MOst Xylon C-Alu</components>
+        <components name="Seatpost"> MOst C-Max &amp;#8211; 31.6</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>pinarello fp7 chorus road bike</name>
+        <price>$6,000</price>
+        <year>2010</year>
+        <frame>
+            <material> 46HM3K Carbon</material>
+        </frame>
+        <fork>
+            <material> MoST Onda FPK Fork</material>
+        </fork>
+        <components name="Brake Levers"> Campagnolo Chorus 11s</components>
+        <components name="Saddle"> MOst Leopard</components>
+        <components name="Stem"> MOst Tigermax 3K</components>
+        <components name="Brake Calipers"> Campagnolo Chorus 11s</components>
+        <components name="Brakes"> Shimano Dura Ace 7900</components>
+        <components name="Handlebar"> M.O.s.t. Talon integrated with stem</components>
+        <components name="Headset"> MoST Integrated Headset</components>
+        <components name="Handlebars"> MOst Xylon C-Alu</components>
+        <components name="Seatpost"> MOst C-Max &amp;#8211; 31.6</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.29</current>
+            <votes>7.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>pinarello fp7 dura ace road bike</name>
+        <price>$7,000</price>
+        <year>2010</year>
+        <frame>
+            <material> 46HM3K Carbon</material>
+        </frame>
+        <fork>
+            <material> MoST Onda FPK Fork</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Dura-Ace 7900</components>
+        <components name="Saddle"> MOst Leopard</components>
+        <components name="Stem"> MOst Tigermax 3K</components>
+        <components name="Brake Calipers"> Shimano Dura-Ace 7900</components>
+        <components name="Brakes"> Shimano Dura Ace 7900</components>
+        <components name="Handlebar"> M.O.s.t. Talon integrated with stem</components>
+        <components name="Headset"> MoST Integrated Headset</components>
+        <components name="Handlebars"> MOst Xylon 6061</components>
+        <components name="Seatpost"> MOst C-Max &amp;#8211; 31.6</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.0</current>
+            <votes>5.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>pinarello fp3 ultegra road bike</name>
+        <price>$3,800</price>
+        <year>2010</year>
+        <frame>
+            <material> 30HM12K Carbon</material>
+        </frame>
+        <fork>
+            <material> MoST Onda Fork</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Ultegra 6700</components>
+        <components name="Saddle"> MOst Leopard</components>
+        <components name="Stem"> MOst Tigermax 3K</components>
+        <components name="Brake Calipers"> MOst B-Max Force</components>
+        <components name="Brakes"> Shimano Dura Ace 7900</components>
+        <components name="Handlebar"> M.O.s.t. Talon integrated with stem</components>
+        <components name="Headset"> MoST Integrated Headset</components>
+        <components name="Handlebars"> MOst Xylon 6061</components>
+        <components name="Seatpost"> MOst C-Max &amp;#8211; 31.6</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.24</current>
+            <votes>108.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>pinarello fp3 ultegra womens road bike</name>
+        <price>$3,800</price>
+        <year>2010</year>
+        <frame>
+            <material> 30HM12K Carbon</material>
+        </frame>
+        <fork>
+            <material> MoST Onda FPK Fork</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Ultegra 6700</components>
+        <components name="Saddle"> MOst Leopard</components>
+        <components name="Stem"> MOst Tigermax 3K</components>
+        <components name="Brake Calipers"> Shimano Ultegra 6700</components>
+        <components name="Brakes"> Shimano Dura Ace 7900</components>
+        <components name="Handlebar"> M.O.s.t. Talon integrated with stem</components>
+        <components name="Headset"> MoST Integrated Headset</components>
+        <components name="Handlebars"> MOst Xylon 6061</components>
+        <components name="Seatpost"> MOst C-Max &amp;#8211; 31.6</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>pinarello fp3 centaur road bike</name>
+        <price>$3,800</price>
+        <year>2010</year>
+        <frame>
+            <material> 30HM12K Carbon</material>
+        </frame>
+        <fork>
+            <material> MoST Onda Fork</material>
+        </fork>
+        <components name="Brake Levers"> Campagnolo Centaur 10s</components>
+        <components name="Saddle"> MOst Leopard</components>
+        <components name="Stem"> MOst Tigermax 3K</components>
+        <components name="Brake Calipers"> MOst B-Max Force</components>
+        <components name="Brakes"> Shimano Dura Ace 7900</components>
+        <components name="Handlebar"> M.O.s.t. Talon integrated with stem</components>
+        <components name="Headset"> MoST Integrated Headset</components>
+        <components name="Handlebars"> MOst Xylon 6061</components>
+        <components name="Seatpost"> MOst C-Max &amp;#8211; 31.6</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.2</current>
+            <votes>10.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>pinarello fp2 ultegra road bike</name>
+        <price>$2,950</price>
+        <year>2010</year>
+        <frame>
+            <material> 24HM12K Carbon</material>
+        </frame>
+        <fork>
+            <material> MoST Onda Fork</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Ultegra 6700</components>
+        <components name="Saddle"> MOst Leopald</components>
+        <components name="Stem"> MOst 4bolt</components>
+        <components name="Brake Calipers"> MOst B-Max Force</components>
+        <components name="Brakes"> Shimano Dura Ace 7900</components>
+        <components name="Handlebar"> M.O.s.t. Talon integrated with stem</components>
+        <components name="Headset"> MoST Integrated Headset</components>
+        <components name="Handlebars"> MOst DB</components>
+        <components name="Seatpost"> MOst C-Max &amp;#8211; 31.6</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.67</current>
+            <votes>98.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>pinarello fp2 rival road bike</name>
+        <price>$2,600</price>
+        <year>2010</year>
+        <frame>
+            <material> 24HM12K Carbon</material>
+        </frame>
+        <fork>
+            <material> MoST Onda Fork</material>
+        </fork>
+        <components name="Brake Levers"> SRAM Rival</components>
+        <components name="Saddle"> MOst Leopald</components>
+        <components name="Stem"> MOst 4bolt</components>
+        <components name="Brake Calipers"> MOst B-Max Force</components>
+        <components name="Brakes"> Shimano Dura Ace 7900</components>
+        <components name="Handlebar"> M.O.s.t. Talon integrated with stem</components>
+        <components name="Headset"> MoST Integrated Headset</components>
+        <components name="Handlebars"> MOst DB</components>
+        <components name="Seatpost"> MOst C-Max &amp;#8211; 31.6</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.44</current>
+            <votes>32.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>pinarello fp1 road bike</name>
+        <price>$1,950</price>
+        <year>2010</year>
+        <frame>
+            <material> 6061T6 Triple Butted Aluminum</material>
+        </frame>
+        <fork>
+            <material> MoST Onda Fork</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105</components>
+        <components name="Saddle"> MOst Leopald</components>
+        <components name="Stem"> MOst 4bolt</components>
+        <components name="Brake Calipers"> MOst</components>
+        <components name="Brakes"> Shimano Dura Ace 7900</components>
+        <components name="Handlebar"> M.O.s.t. Talon integrated with stem</components>
+        <components name="Headset"> MoST Integrated Headset</components>
+        <components name="Handlebars"> MOst DB</components>
+        <components name="Seatpost"> MOst C-Max &amp;#8211; 31.6</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.61</current>
+            <votes>75.0</votes>
+        </rating>
+    </model>
+</brand>

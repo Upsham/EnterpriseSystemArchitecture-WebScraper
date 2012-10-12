@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<brand>
+    <manufacturer>jamis</manufacturer>
+    <model>
+        <name>jamis xenith sl di2 road bike</name>
+        <price>$11,000.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Ultra-high modulus carbon fiber, FEA optimized, Advanced EPS forming system, HTR resin system, Omniad fiber lay-up, tri-oval shaped top and down tubes with SST tubing diameters, 1 1/8-1 1/2â€? head tube, BB30 OS BB shell, asymmetrical chainstays, twin seat stays, forged one-piece dropouts with replaceable derailleur hanger, double water bottle bosses</material>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Jamis Xenith SL level, ultra-high modulus carbon fiber, FEA optimized, HTR resin system1.5â€? hollow formed crown, monocoque one-piece forming technology, carbon dropouts with stainless axle interfaces</material>
+        </fork>
+        <components name="Seat Post"> Ritchey Superlogic carbon 1 bolt, 350mm x 31.6mm, with 7075 alloy double-bolt seat post clamp</components>
+        <components name="Brakeset"> Shimano Dura Ace BR-7900 calipers with Dura Ace ST-7900 STI carbon levers</components>
+        <components name="Saddle"> Selle San Marco Aspide Carbon FX with carbon rails</components>
+        <components name="Stem"> Ritchey WCS Carbon 4-Axis, 6D x 90mm (48/51), 100mm (54/56), 120mm (58/61)</components>
+        <components name="Handlebar"> Ritchey Superlogic Carbon Logic II, 400mm (48/51), 420mm (54/56), 440mm (58/61)</components>
+        <components name="Headset"> Ritchey WCS Carbon, integrated, sealed bearing, 1 1/8-1 1/2â€?</components>
+        <components name="Grips"> Jamis suede bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis xenith sl road bike</name>
+        <price>$8775.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Ultra-high modulus carbon fiber, FEA optimized, Advanced EPS forming system, HTR resin system, Omniad fiber lay-up, tri-oval shaped top and down tubes with SST tubing diameters, 1 1/8-1 1/2â€? head tube, BB30 OS BB shell, asymmetrical chainstays, twin seat stays, forged one-piece dropouts with replaceable derailleur hanger, double water bottle bosses</material>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Jamis Xenith SL level, ultra-high modulus carbon fiber, FEA optimized, HTR resin system1.5â€? hollow formed crown, monocoque one-piece forming technology, carbon dropouts with stainless axle interfaces</material>
+        </fork>
+        <components name="Seat Post"> Ritchey Superlogic carbon 1 bolt, 350mm x 31.6mm, with 7075 alloy double-bolt seat post clamp</components>
+        <components name="Brakeset"> Shimano Dura Ace BR-7900 calipers with Dura Ace ST-7900 STI carbon levers</components>
+        <components name="Saddle"> Selle San Marco Aspide Carbon FX with carbon rails</components>
+        <components name="Stem"> Ritchey WCS Carbon 4-Axis, 6D x 90mm (48/51), 100mm (54/56), 120mm (58/61)</components>
+        <components name="Handlebar"> Ritchey Superlogic Carbon Logic II, 400mm (48/51), 420mm (54/56), 440mm (58/61)</components>
+        <components name="Headset"> Ritchey WCS Carbon, integrated, sealed bearing, 1 1/8-1 1/2â€?</components>
+        <components name="Grips"> Jamis suede bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.31</current>
+            <votes>13.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis xenith team road bike</name>
+        <price>$5575.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Ultra-high modulus carbon fiber, FEA optimized, Advanced EPS forming system, HTR resin system, Omniad fiber lay-up, tri-oval shaped top and down tubes with SST tubing diameters, 1 1/8-1 1/2â€? head tube, BB30 OS BB shell, asymmetrical chainstays, twin seat stays, forged one-piece dropouts with replaceable derailleur hanger, double water bottle bosses</material>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Jamis Xenith SL level, ultra-high modulus carbon fiber, FEA optimized, HTR resin system1.5â€? hollow formed crown, monocoque one-piece forming technology, carbon dropouts with stainless axle interfaces</material>
+        </fork>
+        <components name="Seat Post"> Ritchey Pro carbon, 31.6mm x 350mm, with 7075 alloy double-bolt seat post clamp</components>
+        <components name="Brakeset"> SRAM Red dual-pivot claipers with Red carbon levers</components>
+        <components name="Saddle"> Selle San Marco Aspide with hollow cro-moly rails</components>
+        <components name="Stem"> Ritchey WCS 4-Axis, 3D net forged 2014 alloy, 6D x 90mm (48/51), 100mm (54/56), 120mm (58/61)</components>
+        <components name="Handlebar"> Ritchey WCS Logic II, triple-butted 7050 aluminum, 31.8mm, , 400mm (48/51), 420mm (54/56), 440mm (58/61)</components>
+        <components name="Headset"> Ritchey Pro, integrated, sealed bearing, 1 1/8-1 1/2â€?</components>
+        <components name="Grips"> Jamis suede bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.59</current>
+            <votes>17.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis xenith team femme womens road bike</name>
+        <price>$5575.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Ultra-high modulus carbon fiber, FEA optimized, Advanced EPS forming system, HTR resin system, Omniad fiber lay-up, tri-oval shaped top and down tubes with SST tubing diameters, 1 1/8-1 1/2â€? head tube, BB30 OS BB shell, asymmetrical chainstays, twin seat stays, forged one-piece dropouts with replaceable derailleur hanger, double water bottle bosses</material>
+            <size>44</size>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+        </frame>
+        <fork>
+            <material> Jamis Xenith SL level, ultra-high modulus carbon fiber, FEA optimized, HTR resin system1.5â€? hollow formed crown, monocoque one-piece forming technology, carbon dropouts with stainless axle interfaces</material>
+        </fork>
+        <components name="Seat Post"> Ritchey Pro carbon, 31.6mm x 350mm, with 7075 alloy double-bolt seat post clamp</components>
+        <components name="Brakeset"> SRAM Red dual-pivot claipers with Red carbon levers</components>
+        <components name="Saddle"> Selle San Marco Aspide Glamour Arrowhead with hollow cro-moly rails</components>
+        <components name="Stem"> Ritchey WCS 4-Axis, 3D net forged 2014 alloy, 6D x 70mm (44), 80mm (48), 90mm (51), 100mm (54)</components>
+        <components name="Handlebar"> Ritchey WCS Logic II, triple-butted 7050 aluminum, 31.8mm, 380mm (44), 400mm (48/51), 420mm (54)</components>
+        <components name="Headset"> Ritchey Pro, integrated, sealed bearing, 1 1/8-1 1/2â€?</components>
+        <components name="Grips"> Jamis suede bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis xenith pro road bike</name>
+        <price>$3475.00</price>
+        <year>2010</year>
+        <frame>
+            <material> High modulus carbon fiber, Dyad fiber lay-up, tri-oval shaped top and down tubes with SST tubing diameters, 1 1/8-1 1/2â€? head tube, BB30 OS BB shell, asymmetrical chainstays, twin seat stays, forged one-piece dropouts with replaceable derailleur hanger, double water bottle bosses</material>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Jamis Xenith Pro level, high modulus carbon fiber, 1.5â€? hollow formed crown, monocoque one-piece forming technology, carbon dropouts with stainless axle interfaces</material>
+        </fork>
+        <components name="Seat Post"> Ritchey Pro carbon, 31.6mm x 350mm, with 7075 alloy double-bolt seat post clamp</components>
+        <components name="Brakeset"> SRAM Force dual-pivot calipers with Force carbon levers</components>
+        <components name="Saddle"> Selle San Marco Aspide with hollow cro-moly rails</components>
+        <components name="Stem"> Ritchey Pro 4-axis, 3D net forged 6061, 6D x 90mm (48/51), 100mm (54/56), 120mm (58/61)</components>
+        <components name="Handlebar"> Ritchey Pro Logic II, 7075 triple-butted aluminum, 31.8mm, 400mm (48/51), 420mm (54/56), 440mm (58/61)</components>
+        <components name="Headset"> Ritchey Pro, integrated, sealed bearing, 1 1/8-1 1/2â€?</components>
+        <components name="Grips"> Jamis suede bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis xenith race road bike</name>
+        <price>$2675.00</price>
+        <year>2010</year>
+        <frame>
+            <material> High modulus carbon fiber, Dyad fiber lay-up, tri-oval shaped top and down tubes with SST tubing diameters, 1 1/8-1 1/2â€? head tube, BB30 OS BB shell, asymmetrical chainstays, twin seat stays, forged one-piece dropouts with replaceable derailleur hanger, double water bottle bosses</material>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Jamis full carbon composite, 1.5â€? Hollow formed crown, monocoque one-piece forming technology, carbon dropouts with stainless axle interfaces</material>
+        </fork>
+        <components name="Seat Post"> Jamis carbon fiber micro-adjust, 300mm x 31.6mm, with 7075 alloy double-bolt seat post clamp</components>
+        <components name="Brakeset"> Tektro R530 forged alloy dual pivot calipers with Kool Stop pads, Shimano Ultegra ST-6700 STI levers</components>
+        <components name="Saddle"> Selle San Marco Ponza with microfiber cover and hollow cro-mo rails</components>
+        <components name="Stem"> Ritchey Comp, 3D net forged 6061 alloy, 6D x 90mm (48/51), 100mm (54/56) 120mm (58/61)</components>
+        <components name="Handlebar"> Ritchey Comp Logic II, double-butted 6061, 31.8mm, 400mm (48/51), 420mm (54/56), 440mm (58/61)</components>
+        <components name="Headset"> Ritchey Pro, integrated, sealed bearing, 1 1/8-1 1/2â€?</components>
+        <components name="Grips"> Jamis suede bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.77</current>
+            <votes>39.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis xenith race femme womens road bike</name>
+        <price>$2675.00</price>
+        <year>2010</year>
+        <frame>
+            <material> High modulus carbon fiber, Dyad fiber lay-up, tri-oval shaped top and down tubes with SST tubing diameters, 1 1/8-1 1/2â€? head tube, BB30 OS BB shell, asymmetrical chainstays, twin seat stays, forged one-piece dropouts with replaceable derailleur hanger, double water bottle bosses</material>
+            <size>44</size>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+        </frame>
+        <fork>
+            <material> Jamis full carbon composite, 1.5â€? Hollow formed crown, monocoque one-piece forming technology, carbon dropouts with stainless axle interfaces</material>
+        </fork>
+        <components name="Seat Post"> Jamis carbon fiber micro-adjust, 300mm x 31.6mm, with 7075 alloy double-bolt seat post clamp</components>
+        <components name="Brakeset"> Tektro R530 forged alloy dual pivot calipers with Kool Stop pads, Shimano Ultegra ST-6700 STI levers</components>
+        <components name="Saddle"> Selle San Marco Ischia Glamour with hollow cro-moly rails for women</components>
+        <components name="Stem"> Ritchey Comp, 3D net forged 6061 alloy, 6D x 90mm (44/48/51), 100mm (54)</components>
+        <components name="Handlebar"> Ritchey Comp Logic II, double-butted 6061, 31.8mm, 380mm (44/48), 400mm (51), 420mm (54)</components>
+        <components name="Headset"> Ritchey Pro, integrated, sealed bearing, 1 1/8-1 1/2â€?</components>
+        <components name="Grips"> Jamis suede bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis xenith comp road bike</name>
+        <price>$1950.00</price>
+        <year>2010</year>
+        <frame>
+            <material> High modulus carbon fiber, Dyad fiber lay-up, tri-oval shaped top and down tubes with SST tubing diameters, 1 1/8-1 1/2â€? head tube, BB30 OS BB shell, asymmetrical chainstays, twin seat stays, forged one-piece dropouts with replaceable derailleur hanger, double water bottle bosses</material>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Jamis Comp level, full carbon composite, 1.5â€? hollow formed crown, carbon dropouts</material>
+        </fork>
+        <components name="Seat Post"> Jamis carbon fiber micro-adjust, 300mm x 31.6mm with 7075 alloy double bolt seat post clamp</components>
+        <components name="Brakeset"> Shimano BR560 dual pivot calipers w/105 STI levers levers</components>
+        <components name="Saddle"> Selle San Marco Ponza</components>
+        <components name="Stem"> Easton EA30, 6Ëš x 90mm (48/51), 105mm (54/56), 120mm (58/61)</components>
+        <components name="Handlebar"> Easton EA30 31.8mm x 400mm (48/51), 420mm (54/56), 440mm (58/61)</components>
+        <components name="Headset"> Ritchey Pro, integrated, sealed bearing, 1 1/8-1 1/2â€?</components>
+        <components name="Grips"> Jamis non-slip gel tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.61</current>
+            <votes>38.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis xenith comp femme womens road bike</name>
+        <price>$1950.00</price>
+        <year>2010</year>
+        <frame>
+            <material> High modulus carbon fiber, Dyad fiber lay-up, tri-oval shaped top and down tubes with SST tubing diameters, 1 1/8-1 1/2â€? head tube, BB30 OS BB shell, asymmetrical chainstays, twin seat stays, forged one-piece dropouts with replaceable derailleur hanger, double water bottle bosses</material>
+            <size>44</size>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+        </frame>
+        <fork>
+            <material> Jamis Comp level, full carbon composite, 1.5â€? hollow formed crown, carbon dropouts</material>
+        </fork>
+        <components name="Seat Post"> Jamis carbon fiber micro-adjust, 300mm x 31.6mm with 7075 alloy double bolt seat post clamp</components>
+        <components name="Brakeset"> Shimano BR560 dual pivot calipers w/ST-R700 levers</components>
+        <components name="Saddle"> Selle San Marco Ischia W</components>
+        <components name="Stem"> Easton EA30, 6Ëš x 75mm (44/48), 90mm (51), 105mm (54)</components>
+        <components name="Handlebar"> Easton EA30 31.8mm x 380mm (44/48), 400mm (51/54)</components>
+        <components name="Headset"> Ritchey Pro, integrated, sealed bearing, 1 1/8-1 1/2â€?</components>
+        <components name="Grips"> Jamis non-slip gel tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis xenith endura 2 road bike</name>
+        <price>$2975.00</price>
+        <year>2010</year>
+        <frame>
+            <material> High modulus carbon fiber, Dyad fiber lay-up, tri-oval shaped top and down tubes with SST tubing diameters, 1 1/8-1 1/2â€? head tube, BB30 OS BB shell, asymmetrical chainstays, twin seat stays with rack mounts, forged one-piece dropouts with replaceable derailleur hanger and eyelet, double water bottle bosses</material>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Jamis full carbon composite, 1.5â€? hollow formed crown, alloy dropouts with one eyelet</material>
+        </fork>
+        <components name="Seat Post"> Ritchey Pro Carbon, 31.6mm x 350mm, with 7075 alloy double-bolt seat post clamp</components>
+        <components name="Brakeset"> Shimano BR650 long reach dual pivot calipers with Ultegra ST-6700 STI levers</components>
+        <components name="Saddle"> Selle San Marco Ponza Power with hollow cro-moly rails</components>
+        <components name="Stem"> Ritchey Comp, 3D net forged 6061 alloy, 6D x 90mm (48/51), 100mm (54/56), 120mm (58/61)</components>
+        <components name="Handlebar"> Ritchey Biomax Comp, 31.8mm x 400mm (48/51), 420mm (54/56), 440mm (58/61)</components>
+        <components name="Headset"> Ritchey Pro, integrated, sealed bearing, 1 1/8-1 1/2â€?</components>
+        <components name="Grips"> Jamis suede bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis xenith endura 1 road bike</name>
+        <price>$1995.00</price>
+        <year>2010</year>
+        <frame>
+            <material> High modulus carbon fiber composite, Dyad fiber lay-up, tri-oval shaped top and down tubes with SST tubing diameters, 1 1/8-1 1/2â€? head tube, BB30 OS BB shell, asymmetrical chainstays, twin seat stays with rack mounts, forged one-piece dropouts with replaceable derailleur hanger and eyelet, double water bottle bosses</material>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Jamis full carbon composite, 1.5â€? hollow formed crown, alloy dropouts with one eyelet</material>
+        </fork>
+        <components name="Seat Post"> Jamis carbon fiber micro-adjust, 300mm x 31.6mm, with 7075 alloy double-bolt seat post clamp</components>
+        <components name="Brakeset"> Tektro R358 forged, long reach, dual-pivot calipers with Shimano 105 ST-5600 STI levers</components>
+        <components name="Saddle"> Selle San Marco Ponza Power</components>
+        <components name="Stem"> Ritchey Road, 6061 alloy, 6D x 90mm (48/51), 100mm (54/56), 120mm (58/61)</components>
+        <components name="Handlebar"> Ritchey Biomax, 31.8mm x 400mm (48/51), 420mm (54/56), 440mm (58/61)</components>
+        <components name="Headset"> FSA integrated, sealed bearing, 1 1/8-1 1/2â€?</components>
+        <components name="Grips"> Jamis suede bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis xenith endura 1 femme womens road bike</name>
+        <price>$1995.00</price>
+        <year>2010</year>
+        <frame>
+            <material> High modulus carbon fiber composite, Dyad fiber lay-up, tri-oval shaped top and down tubes with SST tubing diameters, 1 1/8-1 1/2â€? head tube, BB30 OS BB shell, asymmetrical chainstays, twin seat stays with rack mounts, forged one-piece dropouts with replaceable derailleur hanger and eyelet, double water bottle bosses</material>
+            <size>44</size>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+        </frame>
+        <fork>
+            <material> Jamis full carbon composite, 1.5â€? hollow formed crown, alloy dropouts with one eyelet</material>
+        </fork>
+        <components name="Seat Post"> Jamis carbon fiber micro-adjust, 300mm x 31.6mm, with 7075 alloy double-bolt seat post clamp</components>
+        <components name="Brakeset"> Tektro R358 forged, long reach, dual-pivot calipers with Shimano ST-R700 STI short-reach levers</components>
+        <components name="Saddle"> Selle San Marco Ischia Glamour for women</components>
+        <components name="Stem"> Ritchey Road, 6061 alloy, 6D x 90mm (44/48/51), 100mm (54)</components>
+        <components name="Handlebar"> Ritchey Biomax, 31.8mm x 380mm (44/48), 400mm (51), 420mm (54)</components>
+        <components name="Headset"> FSA integrated, sealed bearing, 1 1/8-1 1/2â€?</components>
+        <components name="Grips"> Jamis suede bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis supernova road bike</name>
+        <price>$2575.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Kinesium high-strength alloy triple-butted main frame, hydroformed top tube for comfortable portage, butted chainstays, carbon fiber seat stays, replaceable derailleur hanger, single eyelet</material>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Ritchey Pro Carbon Cross, full carbon monocoque construction, 45mm offset</material>
+        </fork>
+        <components name="Seat Post"> Ritchey Pro Road, 300 x 27.2mm, CNC alloy clamp with integrated cable hanger/adjuster</components>
+        <components name="Brakeset"> TRP Eurox CNCâ€™d wide profile cantilevers with in-place cartridge pads, stainless hardware, red anodized</components>
+        <components name="Saddle"> Selle San Marco Ponza Power with hollow cro-moly rails</components>
+        <components name="Stem"> Ritchey Pro Road 4-Axis, 31.8mm x 6, 90mm (48/51), 100mm (54/56), 120mm (58/61)</components>
+        <components name="Handlebar"> Ritchey Pro Road, 31.8mm, 400mm (49/52), 420mm (54/56), 440mm (58/61)</components>
+        <components name="Headset"> FSA IS-3-CX type with integrated cable hanger</components>
+        <components name="Grips"> Jamis suede bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis nova pro road bike</name>
+        <price>$1575.00</price>
+        <year>2010</year>
+        <frame>
+            <material> 7005 aluminum double-butted main frame, hydroformed top tube for comfortable portage, carbon fiber seat stays, replaceable derailleur hanger, single eyelet</material>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Full carbon composite cyclocross fork with forged alloy dropouts</material>
+        </fork>
+        <components name="Seat Post"> Ritchey Road, 300 x 27.2mm, CNC alloy clamp with integrated cable hanger/adjuster</components>
+        <components name="Brakeset"> Tektro Oryx cantilevers with Shimano 105 ST-5600 levers</components>
+        <components name="Saddle"> Selle San Marco Ponza Power</components>
+        <components name="Stem"> Ritchey Comp Road 3D net-forged, 6D x 90mm (48/51), 100mm (54/56), 120mm (58/61)</components>
+        <components name="Handlebar"> Ritchey Comp Logic II Road, 31.8mm, 400mm (48/51), 420mm (54/56), 440mm (58/61)</components>
+        <components name="Headset"> FSA IS-3-CX type with integrated cable hanger</components>
+        <components name="Grips"> Jamis suede bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis nova race road bike</name>
+        <price>$1175.00</price>
+        <year>2010</year>
+        <frame>
+            <material> 7005 aluminum double-butted main frame, hydroformed top tube for comfortable portage, replaceable derailleur hanger, single eyelet</material>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Full carbon composite cyclocross fork with forged alloy dropouts</material>
+        </fork>
+        <components name="Seat Post"> Ritchey Road, 300 x 27.2mm, alloy clamp with cromo seat pin</components>
+        <components name="Brakeset"> Tektro Oryx cantilevers with Shimano Tiagra ST-4500 levers</components>
+        <components name="Saddle"> Selle San Marco Ishia</components>
+        <components name="Stem"> Ritchey Road, 6D x 90mm (48/51), 100mm (54/56), 120mm (58/61)</components>
+        <components name="Handlebar"> Ritchey Road, 31.8mm, 400mm (48/51), 420mm (54/56), 440mm (58/61)</components>
+        <components name="Headset"> FSA Integrated with alloy cable hanger</components>
+        <components name="Grips"> Jamis suede bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.54</current>
+            <votes>26.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis ventura elite road bike</name>
+        <price>$1875.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Kinesis Superlight 7005 triple-butted main frame, carbon fiber monostay, SST tubing diameters, sloping top tube frame design, replaceable derailleur hanger</material>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Full carbon composite straight blade road fork, forged alloy dropouts</material>
+        </fork>
+        <components name="Seat Post"> Jamis carbon fiber micro-adjust, 300mm x 27.2mm with alloy clamp</components>
+        <components name="Brakeset"> Tektro R530 forged dual-pivot calipers with Swiss Stop cartridge pads, Shimano Ultegra ST-6700 STI levers</components>
+        <components name="Saddle"> Selle San Marco Ponza with hollow cro-moly rails</components>
+        <components name="Stem"> Ritchey Pro 4-axis, 3D net forged 6061, 6D x 90mm (48/51), 100mm (54/56), 120mm (58/61)</components>
+        <components name="Handlebar"> Ritchey Pro Logic II, 7075 triple butted aluminum, 31.8mm, 400mm (48/51), 420mm (54/56,) 440mm (58/61)</components>
+        <components name="Headset"> FSA Integrated, threadless, 1 1/8â€?</components>
+        <components name="Grips"> Jamis suede bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.89</current>
+            <votes>19.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis ventura race road bike</name>
+        <price>$1350.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Kinesis 7005 double-butted main frame, carbon fiber monostay, SST tubing diameters, sloping top tube frame design, replaceable derailleur hanger</material>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Full carbon composite straight blade road fork, forged alloy dropouts</material>
+        </fork>
+        <components name="Seat Post"> Jamis carbon fiber micro-adjust, 300mm x 27.2mm with alloy clamp</components>
+        <components name="Brakeset"> Tektro dual-pivot calipers with Shimano â€˜105â€™ ST-5600 STI levers</components>
+        <components name="Saddle"> Selle San Marco Ponza Power</components>
+        <components name="Stem"> Ritchey Comp, 3D net forged 6061 alloy, 6D x 90mm (48/51), 105mm (54/56), 120mm (58/61)</components>
+        <components name="Handlebar"> Ritchey Comp Logic II, double butted 6061, 31.8mm, 400mm (48/51), 420mm (54/56) 440mm (58/61)</components>
+        <components name="Headset"> FSA Integrated, threadless, 1 1/8â€?</components>
+        <components name="Grips"> Jamis suede bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.9</current>
+            <votes>42.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis ventura race femme womens road bike</name>
+        <price>$1350.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Kinesis 7005 double-butted main frame, carbon fiber monostay, SST tubing diameters, sloping top tube frame design, replaceable derailleur hanger</material>
+            <size>44</size>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+        </frame>
+        <fork>
+            <material> Full carbon composite straight blade road fork, forged alloy dropouts</material>
+        </fork>
+        <components name="Seat Post"> Jamis carbon fiber micro-adjust, 300mm x 27.2mm with alloy clamp</components>
+        <components name="Brakeset"> Tektro dual-pivot calipers with Shimano ST-R700 STI levers</components>
+        <components name="Saddle"> Selle San Marco Ischia Glamour</components>
+        <components name="Stem"> Ritchey Comp, 3D net forged 6061 alloy, 6 x 90mm (44/48), 100mm (51/54)</components>
+        <components name="Handlebar"> Ritchey Comp Logic II, double butted 6061, 31.8mm, 380mm (44/48), 400mm (51/54)</components>
+        <components name="Headset"> FSA Integrated, threadless, 1 1/8â€?</components>
+        <components name="Grips"> Jamis suede bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis ventura comp road bike</name>
+        <price>$875.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Kinesis 7005 double-butted main frame, SST tubing diameters, sloping top tube frame design, replaceable derailleur hanger</material>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Full carbon composite straight blade road fork, forged alloy dropouts</material>
+        </fork>
+        <components name="Seat Post"> Ritchey Road, 2 bolt, 300mm x 27.2mm with alloy clamp</components>
+        <components name="Brakeset"> Tektro dual-pivot calipers with Shimano Sora ST-3400 STI levers</components>
+        <components name="Saddle"> Selle San Marco Ischia</components>
+        <components name="Stem"> Ritchey Road 6D x 90mm (48/51) 100mm (54/56), 120mm (58/61)</components>
+        <components name="Handlebar"> Ritchey Road, 31.8mm, 400mm (48/51) 420mm (54/56), 440mm (58/61)</components>
+        <components name="Headset"> FSA Integrated, threadless, 1 1/8â€?</components>
+        <components name="Grips"> Jamis suede bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.48</current>
+            <votes>31.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis ventura comp femme womens road bike</name>
+        <price>$875.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Kinesis 7005 double-butted main frame, SST tubing diameters, sloping top tube frame design, replaceable derailleur hanger</material>
+            <size>44</size>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+        </frame>
+        <fork>
+            <material> Full carbon composite straight blade road fork, forged alloy dropouts</material>
+        </fork>
+        <components name="Seat Post"> Ritchey Road, 2 bolt, 300mm x 27.2mm with alloy clamp</components>
+        <components name="Brakeset"> Tektro dual-pivot calipers with Shimano Sora ST-3400 STI levers</components>
+        <components name="Saddle"> Selle San Marco Ischia Glamour</components>
+        <components name="Stem"> Ritchey Road, 6D x 90mm (44/48), 100mm (51/54)</components>
+        <components name="Handlebar"> Ritchey Road, 31.8mm, 380mm (44/48), 400mm (51/54)</components>
+        <components name="Headset"> FSA Integrated, threadless, 1 1/8â€?</components>
+        <components name="Grips"> Jamis suede bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis ventura sport road bike</name>
+        <price>$625.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Kinesis 7005 taper-guage aluminum, SST tubing diameters, sloping top tube frame design, replaceable derailleur hanger</material>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Alloy, straight blade Aero Road with cromoly steerer</material>
+        </fork>
+        <components name="Seat Post"> Jamis alloy micro-adjust, 300mm x 27.2mm with alloy clamp</components>
+        <components name="Brakeset"> Tektro dual-pivot calipers with Shimano ST-2300 STI levers</components>
+        <components name="Saddle"> Jamis Road Sport with SL top and satin steel rails</components>
+        <components name="Stem"> Jamis Road, 3D forged, 6D x 80mm (48/51), 100mm (54/56), 120mm (58/61)</components>
+        <components name="Handlebar"> Jamis Road, 31.8mm with anatomic bend, 400mm (48/51), 420mm (54/56), 440mm (58/61)</components>
+        <components name="Headset"> FSA Integrated, threadless, 1 1/8â€?</components>
+        <components name="Grips"> Jamis suede bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.83</current>
+            <votes>82.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis ventura sport femme womens road bike</name>
+        <price>$625.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Kinesis 7005 taper-guage aluminum, SST tubing diameters, sloping top tube frame design, replaceable derailleur hanger</material>
+            <size>44</size>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+        </frame>
+        <fork>
+            <material> Alloy, straight blade Aero Road with cromoly steerer</material>
+        </fork>
+        <components name="Seat Post"> Jamis alloy micro-adjust road, 300mm x 27.2mm with alloy clamp</components>
+        <components name="Brakeset"> Tektro dual-pivot calipers with Shimano ST-2300 STI levers</components>
+        <components name="Saddle"> Jamis Road Sport Femme with SL top and satin steel rails</components>
+        <components name="Stem"> Jamis Forged Road, 6D x 80mm (44/48), 100mm (51/54)</components>
+        <components name="Handlebar"> Jamis Road, 31.8mm with anatomic bend, 380mm (44/48) 400mm (51/54)</components>
+        <components name="Headset"> FSA Integrated, threadless, 1 1/8â€?</components>
+        <components name="Grips"> Jamis suede bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis eclipse road bike</name>
+        <price>$3275.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Reynolds 853 heat-treated, seamless air-hardened chromoly main tubes, SST tubing diameters, sloping top tube design, double-tapered heat-treated stays, reinforced heaad tube collars, Ritchey lost wax socket dropouts</material>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Jamis full carbon fiber with forged alloy dropouts</material>
+        </fork>
+        <components name="Seat Post"> Ritchey WCS Road, 2 Bolt, Wet Black finish, 300mm x 27.2mm with cromo seatpin</components>
+        <components name="Brakeset"> Shimano Ultegra BR-6700 dual-pivot calipers with Ultegra ST-6700 STI levers</components>
+        <components name="Saddle"> Selle San Marco Zoncolan with hollow chromoly rails</components>
+        <components name="Stem"> Ritchey Pro 4 Axis, Custom White finish, 6D x 90mm (48/51), 100mm (54/56) 120mm (58/61)</components>
+        <components name="Handlebar"> Ritchey WCS Logic II, Wet Black finish, 31.8mm, 400mm (48/51), 420mm (54/65) 440mm (58/61)</components>
+        <components name="Headset"> Ritchey Pro Logic Aheadset, 1 1/8â€?</components>
+        <components name="Grips"> Jamis suede bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.72</current>
+            <votes>58.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis quest road bike</name>
+        <price>$1750.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Reynolds 631 seamless air-hardened chromoly main tubes, SST tubing diameters, sloping top tube design, double-tapered heat-treated stays, reinforced head tube collars, lost wax dropouts with single eyelet</material>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Jamis full carbon composite with forged alloy dropouts</material>
+        </fork>
+        <components name="Seat Post"> Ritchey Comp Road, 300mm x 27.2mm with cromo seatpin</components>
+        <components name="Brakeset"> Shimano BR450 long reach dual-pivot calipers with 105 ST-5600 STI levers</components>
+        <components name="Saddle"> Jamis Touring Sport with hollow chromoly rails</components>
+        <components name="Stem"> NVO component F-2, ATS easy height adjust, 6D x 90mm (48/51), 100mm (54/56) 120mm (58/61)</components>
+        <components name="Handlebar"> Ritchey Comp Road BioMax, 31.8mm, 400mm (48/51), 420mm (54/65) 440mm (58/61)</components>
+        <components name="Headset"> Ritchey LB Aheadset, 1 1/8â€?</components>
+        <components name="Grips"> Jamis natural cork bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.16</current>
+            <votes>49.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis satellite road bike</name>
+        <price>$925.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Reynolds 520 double-butted chromoly main tubes featuring, SST tubing diameters, sloping top tube frame design, double-tapered cromo stays, forged dropouts with single eyelets</material>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Full carbon composite road fork with forged alloy dropouts</material>
+        </fork>
+        <components name="Seat Post"> Ritchey Road 300mm x 27.2mm with cromo seatpin</components>
+        <components name="Brakeset"> Tektro R316 long reach dual-pivot calipers with Shimano Sora STI levers</components>
+        <components name="Saddle"> Jamis Touring Sport with satin steel rails</components>
+        <components name="Stem"> NVO Components, TM-3 with ATS easy height adjust, 31.8mm x 6d, 90mm (48/51), 100mm (54/56), 120mm (58/61)</components>
+        <components name="Handlebar"> Ritchey BioMax II Road 31.8mm, 400mm (48/51), 420mm (54/56), 440mm (58/61)</components>
+        <components name="Headset"> Ritchey LB Aheadset, 1 1/8â€?</components>
+        <components name="Grips"> Jamis natural cork bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.78</current>
+            <votes>37.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis satellite femme womens road bike</name>
+        <price>$925.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Reynolds 520 double-butted chromoly main tubes with SST tubing diameters, sloping top tube frame design, double-tapered cromo stays, forged dropouts with single eyelets</material>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+        </frame>
+        <fork>
+            <material> Full carbon composite road fork with forged alloy dropouts</material>
+        </fork>
+        <components name="Seat Post"> Ritchey Road 300mm x 27.2mm with cromo seatpin</components>
+        <components name="Brakeset"> Tektro R316 long reach dual-pivot calipers with Shimano Sora STI levers</components>
+        <components name="Saddle"> Jamis Touring Sport Femme with pressure relief cut-out, satin steel rails</components>
+        <components name="Stem"> NVO Components, TM-3 with ATS easy height adjust, 31.8mm x 6D, 90mm (48/51), 100mm (54)</components>
+        <components name="Handlebar"> Ritchey BioMax II Road, 31.8mm x 380mm (48), 400mm (51/54)</components>
+        <components name="Headset"> Ritchey LB Aheadset, 1 1/8â€?</components>
+        <components name="Grips"> Jamis natural cork bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis quest femme womens road bike</name>
+        <price>$1750.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Reynolds 631 seamless air-hardened chromoly main tubes, SST tubing diameters, sloping top tube design, double-tapered heat-treated stays, reinforced head tube collars, lost wax dropouts with single eyelet</material>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+        </frame>
+        <fork>
+            <material> Jamis full carbon composite with forged alloy dropouts</material>
+        </fork>
+        <components name="Seat Post"> Ritchey Comp Road, 300mm x 27.2mm with cromo seatpin</components>
+        <components name="Brakeset"> Shimano BR450 long reach dual pivot calipers, ST-R700 levers</components>
+        <components name="Saddle"> Jamis Touring Sport Femme with hollow chromoly rails</components>
+        <components name="Stem"> NVO Components, F-2 ATS easy height adjust 6D x 90mm (48/51), 100mm (54)</components>
+        <components name="Handlebar"> Ritchey Comp Road BioMax, 31.8mm, 380mm (48), 400mm (51/54)</components>
+        <components name="Headset"> Ritchey LB Aheadset, 1 1/8â€?</components>
+        <components name="Grips"> Jamis natural cork bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.69</current>
+            <votes>13.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis satellite sport road bike</name>
+        <price>$650.00</price>
+        <year>2010</year>
+        <frame>
+            <material> 4130 double-butted chromoly main tubes with SST tubing diameters, sloping top tube frame design, double-tapered cromo stays, forged dropouts with single eyelets</material>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Full 4130 chromoly unicrown road with D shaped blades, forged dropouts with one eyelet</material>
+        </fork>
+        <components name="Seat Post"> Jamis alloy micro-adjust, 300mm x 27.2mm with cro-mo seat pin</components>
+        <components name="Brakeset"> Tektro R316 long reach dual-pivot calipers with Shimano 2300 STI levers</components>
+        <components name="Saddle"> Jamis Sport Road with satin silver rails</components>
+        <components name="Stem"> Jamis Road 3D forged alloy, 31.8mm x 15d, 90mm (48/51), 100mm (54/56), 120mm (58/61)</components>
+        <components name="Handlebar"> Jamis Road 6061 alloy, 31.8mm with anatomic bend, 400mm (48/51), 420mm (54/56), 440mm (58/61)</components>
+        <components name="Headset"> Ritchey LB Aheadset, 1 1/8â€?</components>
+        <components name="Grips"> Jamis natural cork bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.46</current>
+            <votes>68.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>jamis satellite sport femme womens road bike</name>
+        <price>$650.00</price>
+        <year>2010</year>
+        <frame>
+            <material> 4130 double-butted chromoly main tubes featuring with SST tubing diameters, sloping top tube frame design, double-tapered cromo stays, forged dropouts with single eyelets</material>
+            <size>48</size>
+            <size>51</size>
+            <size>54</size>
+        </frame>
+        <fork>
+            <material> Full 4130 chromoly unicrown road with D-shaped blades, forged dropouts with single eyelet</material>
+        </fork>
+        <components name="Seat Post"> Jamis alloy micro-adjust road, 300mm x 27.2mm with cro-mo seat pin</components>
+        <components name="Brakeset"> Tektro R316 long reach dual-pivot calipers with Shimano 2300 STI levers</components>
+        <components name="Saddle"> Jamis Road Sport Femme saddle with pressure relief cut-out, satin steel rails</components>
+        <components name="Stem"> Jamis Road 3D forged alloy, 31.8mm x 15d, 90mm (48/51), 100mm (54)</components>
+        <components name="Handlebar"> Jamis Road 6061 alloy, 31.8mm with anatomic bend, 380mm (48), 400mm (51/54)</components>
+        <components name="Headset"> Ritchey LB Aheadset, 1 1/8â€?</components>
+        <components name="Grips"> Jamis natural cork bar tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+</brand>

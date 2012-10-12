@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<brand>
+    <manufacturer>colnago</manufacturer>
+    <model>
+        <name>colnago eps road bike</name>
+        <price>$5,499.99</price>
+        <year>2010</year>
+        <frame>
+            <material> HHM-HM Unidirectional Carbon w/ 3K Twill Finish / 100% MADE IN ITALY</material>
+        </frame>
+        <fork>
+            <material> Colnago EPS Full Carbon</material>
+        </fork>
+        <components name="Brake Levers"> Campagnolo Super Record 11s Ultra-Shift</components>
+        <components name="Saddle"> Selle Italia SLR Kit Carbonio Flow &amp;#8211; Black</components>
+        <components name="Stem"> Cinelli Neo CK</components>
+        <components name="Brake Calipers"> Campagnolo Super Record Skeleton</components>
+        <components name="Headset"> Semi-Integrated Colnago C-HS1 &amp;#8211; 1 1/8&amp;#8243; to 1 1/4&amp;#8243;</components>
+        <components name="Handlebars"> Cinelli RAM Bar</components>
+        <components name="Seatpost"> Colnago Carbon 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.3</current>
+            <votes>27.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>colnago c 50 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> 100% Italian Made / ATR Carbon Tubes and Lugs</material>
+        </frame>
+        <fork>
+            <material> Colnago C75 Fork</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Dura-Ace STI</components>
+        <components name="Saddle"> Selle Italia Era</components>
+        <components name="Stem"> Colnago Carbon</components>
+        <components name="Brake Calipers"> Campagnolo Super Record Skeleton</components>
+        <components name="Brakes"> Shimano Dura-Ace STI</components>
+        <components name="Handlebar"> Colnago Carbon</components>
+        <components name="Headset"> Colnago Classic 1 1/8&amp;#8243;</components>
+        <components name="Handlebars"> Cinelli RAM Bar</components>
+        <components name="Seatpost"> Colnago Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>5.0</current>
+            <votes>1.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>colnago clx 2 0 athena chorus 11s road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> CLX 2.0 Carbon</material>
+        </frame>
+        <fork>
+            <material> CLX 2.0 Carbon</material>
+        </fork>
+        <components name="Brake Levers"> Campagnolo Athena 11s</components>
+        <components name="Saddle"> Colnago Z3</components>
+        <components name="Stem"> FSA ST-OS-150-1XTC</components>
+        <components name="Brake Calipers"> Campagnolo Super Record Skeleton</components>
+        <components name="Brakes"> Shimano Dura-Ace STI</components>
+        <components name="Brake"> Colnago X-Brake One</components>
+        <components name="Handlebar"> FSA HB-RD-255S</components>
+        <components name="Headset"> Colnago Classic 1 1/8&amp;#8243;</components>
+        <components name="Handlebars"> Cinelli RAM Bar</components>
+        <components name="Seatpost"> CLX 2.0 Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.06</current>
+            <votes>18.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>colnago clx 2 0 ultegra road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> CLX 2.0 Carbon</material>
+        </frame>
+        <fork>
+            <material> CLX 2.0 Carbon</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Ultegra ST-6700</components>
+        <components name="Saddle"> Colnago Z3</components>
+        <components name="Stem"> FSA-ST-OS-150-1XTC</components>
+        <components name="Brake Calipers"> Campagnolo Super Record Skeleton</components>
+        <components name="Brakes"> Colnago X-Brake One</components>
+        <components name="Brake"> Colnago X-Brake One</components>
+        <components name="Handlebar"> FSA HB-RD-255s</components>
+        <components name="Headset"> Colnago Classic 1 1/8&amp;#8243;</components>
+        <components name="Handlebars"> Cinelli RAM Bar</components>
+        <components name="Seatpost"> CLX 2.0 Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.42</current>
+            <votes>57.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>colnago ace road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Colnago ACE Full Carbon</material>
+        </frame>
+        <fork>
+            <material> ACE Full Carbon</material>
+        </fork>
+        <components name="Brake Levers"> Campagnolo Veloce 10s</components>
+        <components name="Saddle"> Colnago 25</components>
+        <components name="Stem"> FSA OS-150 &amp;#8211; White</components>
+        <components name="Brake Calipers"> Colnago X &amp;#8211; Brake 3</components>
+        <components name="Brakes"> Colnago X-Brake One</components>
+        <components name="Brake"> Colnago X-Brake One</components>
+        <components name="Handlebar"> FSA HB-RD-255s</components>
+        <components name="Headset"> Colnago C-HS</components>
+        <components name="Handlebars"> FSA Wing Pro CT &amp;#8211; White</components>
+        <components name="Seatpost"> SL-250 SBS &amp;#8211; 31.6</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>colnago cross prestige road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Colnago Cross Prestige</material>
+        </frame>
+        <fork>
+            <material> Colnago Carbon</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Di2</components>
+        <components name="Rear Brake"> TRP Euro-X Carbon</components>
+        <components name="Saddle"> ProLogo</components>
+        <components name="Stem"> PRO</components>
+        <components name="Brake Calipers"> Colnago X &amp;#8211; Brake 3</components>
+        <components name="Front Brake"> TRP Euro-X Carbon</components>
+        <components name="Brakes"> Colnago X-Brake One</components>
+        <components name="Brake"> Colnago X-Brake One</components>
+        <components name="Handlebar"> FSA HB-RD-255s</components>
+        <components name="Headset"> Colnago C-HS</components>
+        <components name="Handlebars"> PRO</components>
+        <components name="Seatpost"> Colnago Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.67</current>
+            <votes>6.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>colnago world cup road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> World cup alloy</material>
+        </frame>
+        <fork>
+            <material> World cup</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 ST 5600</components>
+        <components name="Rear Brake"> Shimano Cross BR-R550 A Type</components>
+        <components name="Saddle"> Colnago Z5</components>
+        <components name="Stem"> PRO</components>
+        <components name="Brake Calipers"> Colnago X &amp;#8211; Brake 3</components>
+        <components name="Front Brake"> Shimano Cross BR-R550 A Type</components>
+        <components name="Brakes"> Colnago X-Brake One</components>
+        <components name="Brake"> Colnago X-Brake One</components>
+        <components name="Handlebar"> FSA HB-RD-255s</components>
+        <components name="Headset"> One 1&amp;#8243; 1/8</components>
+        <components name="Handlebars"> FSA HOB-RD 300N</components>
+        <components name="Seatpost"> FSA SP-SL280</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>colnago master 55 road bike</name>
+        <price>$11,699.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Columbus Gilco</material>
+        </frame>
+        <fork>
+            <material> Colnago 1&amp;#8243; Custom Gold Fork</material>
+        </fork>
+        <components name="Brake Levers"> Campagnolo Super Record 11s Ultra-Shift</components>
+        <components name="Rear Brake"> Shimano Cross BR-R550 A Type</components>
+        <components name="Saddle"> Colnago Custom Carbon</components>
+        <components name="Stem"> Colnago Custom &amp;#8211; Deda Alanero</components>
+        <components name="Brake Calipers"> Campagnolo Super Record Skeleton</components>
+        <components name="Front Brake"> Shimano Cross BR-R550 A Type</components>
+        <components name="Brakes"> Colnago X-Brake One</components>
+        <components name="Brake"> Colnago X-Brake One</components>
+        <components name="Handlebar"> FSA HB-RD-255s</components>
+        <components name="Headset"> Campy Record</components>
+        <components name="Handlebars"> Colnago Custom &amp;#8211; Deda Alanero</components>
+        <components name="Seatpost"> Colnago Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>colnago cf 7 road bike</name>
+        <price>$14,999.00</price>
+        <year>2010</year>
+        <frame>
+            <material> HHM-HM Unidirectional Carbon w/ 3K Twill Finish / 100% MADE IN ITALY</material>
+        </frame>
+        <fork>
+            <material> Colnago EPS Full Carbon</material>
+        </fork>
+        <components name="Brake Levers"> Campagnolo Super Record 11s</components>
+        <components name="Rear Brake"> Shimano Cross BR-R550 A Type</components>
+        <components name="Saddle"> Colnago for Ferrari Custom Carbon</components>
+        <components name="Stem"> Colnago for Ferrari Custom Integrated (FSA Plasma)</components>
+        <components name="Brake Calipers"> Campagnolo Super Record 11s</components>
+        <components name="Front Brake"> Shimano Cross BR-R550 A Type</components>
+        <components name="Brakes"> Colnago X-Brake One</components>
+        <components name="Brake"> Colnago X-Brake One</components>
+        <components name="Handlebar"> FSA HB-RD-255s</components>
+        <components name="Headset"> Semi-Integrated Colnago C-HS1 &amp;#8211; 1 1/8&amp;#8243; to 1 1/4&amp;#8243;</components>
+        <components name="Handlebars"> Colnago for Ferrari Custom Integrated (FSA Plasma)</components>
+        <components name="Seatpost"> Colnago Carbon 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.0</current>
+            <votes>10.0</votes>
+        </rating>
+    </model>
+</brand>

@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<brand>
+    <manufacturer>eddy-merckx</manufacturer>
+    <model>
+        <name>eddy merckx emx 5 shimano dura ace compact road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Carbon 46HM 3K</material>
+        </frame>
+        <fork>
+            <material> Carbon 3K 1 1/4</material>
+        </fork>
+        <components name="Stem"> Carbon wrap stem 3K</components>
+        <components name="Seat"> Prologo Scratch Pro saddle</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.04</current>
+            <votes>24.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx emx 5 campagnolo record road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Carbon 46HM 3K</material>
+        </frame>
+        <fork>
+            <material> Carbon 3K 1 1/4</material>
+        </fork>
+        <components name="Stem"> Carbon wrap stem 3K</components>
+        <components name="Seat"> Prologo Scratch Pro saddle</components>
+        <components name="Handlebar"> Carbon wrap handlebar 3K</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>2.2</current>
+            <votes>5.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx emx 5 sram red compact road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Carbon 46HM 3K</material>
+        </frame>
+        <fork>
+            <material> Carbon 3K 1 1/4</material>
+        </fork>
+        <components name="Stem"> Carbon wrap stem 3K</components>
+        <components name="Seat"> Prologo Scratch Pro saddle</components>
+        <components name="Handlebar"> Carbon wrap handlebar 3K</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx emx 3 shimano ultegra road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Carbon 30HM 12K</material>
+        </frame>
+        <fork>
+            <material> Carbon 12K 1 1/4</material>
+        </fork>
+        <components name="Stem"> Carbon wrap system</components>
+        <components name="Seat"> Prologo EMC2 saddle</components>
+        <components name="Handlebar"> Alloy handlebar</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx emx 3 campagnolo athena road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Carbon 30HM 12K</material>
+        </frame>
+        <fork>
+            <material> Carbon 12K 1 1/4</material>
+        </fork>
+        <components name="Stem"> Carbon wrap system</components>
+        <components name="Seat"> Prologo EMC2 saddle</components>
+        <components name="Handlebar"> Alloy handlebar</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.6</current>
+            <votes>15.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx emx 3 sram force road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Carbon 30HM 12K</material>
+        </frame>
+        <fork>
+            <material> Carbon 12K 1 1/4</material>
+        </fork>
+        <components name="Stem"> Carbon wrap system</components>
+        <components name="Seat"> Prologo EMC2 saddle</components>
+        <components name="Handlebar"> Alloy handlebar</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.74</current>
+            <votes>31.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx emx 1 shimano 105 compact road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Carbon 24HM UDM</material>
+        </frame>
+        <fork>
+            <material> Carbon UDM 1 1/4</material>
+        </fork>
+        <components name="Stem"> Alloy stem 3DF</components>
+        <components name="Seat"> Prologo Nago Evo saddle</components>
+        <components name="Handlebar"> Alloy handlebar 6061 DB</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon Wrap 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.59</current>
+            <votes>34.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx emx 1 campagnolo veloce road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Carbon 24HM UDM</material>
+        </frame>
+        <fork>
+            <material> Carbon UDM 1 1/4</material>
+        </fork>
+        <components name="Stem"> Alloy stem 3DF</components>
+        <components name="Seat"> Prologo Nago Evo saddle</components>
+        <components name="Handlebar"> Alloy handlebar 6061 DB</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon Wrap 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.33</current>
+            <votes>9.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx emx 1 sram rival compact road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Carbon 24HM UDM</material>
+        </frame>
+        <fork>
+            <material> Carbon UDM 1 1/4</material>
+        </fork>
+        <components name="Stem"> Alloy stem 3DF</components>
+        <components name="Seat"> Prologo Nago Evo saddle</components>
+        <components name="Handlebar"> Alloy handlebar 6061 DB</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon Wrap 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx efx 1 shimano 105 triple womens road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Carbon 24HM UDM</material>
+        </frame>
+        <fork>
+            <material> Carbon UDM 1 1/4</material>
+        </fork>
+        <components name="Stem"> Alloy stem 3DF</components>
+        <components name="Seat"> Prologo saddle</components>
+        <components name="Handlebar"> Alloy handlebar 6061 DB</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon Wrap 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx efx 1 campagnolo veloce triple womens road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Carbon 24HM UDM</material>
+        </frame>
+        <fork>
+            <material> Carbon UDM 1 1/4</material>
+        </fork>
+        <components name="Stem"> Alloy stem 3DF</components>
+        <components name="Seat"> Prologo saddle</components>
+        <components name="Handlebar"> Alloy handlebar 6061 DB</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon Wrap 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx efx 1 sram rival compact womens road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Carbon 24HM UDM</material>
+        </frame>
+        <fork>
+            <material> Carbon UDM 1 1/4</material>
+        </fork>
+        <components name="Stem"> Alloy stem 3DF</components>
+        <components name="Seat"> Prologo saddle</components>
+        <components name="Handlebar"> Alloy handlebar 6061 DB</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon wrap 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx amx 5 shimano dura ace compact road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Scandium 7000 TB + Carbon SS</material>
+        </frame>
+        <fork>
+            <material> Carbon 3K 1 1/4</material>
+        </fork>
+        <components name="Saddle"> Prologo Scratch Pro saddle</components>
+        <components name="Stem"> Carbon stem 3K</components>
+        <components name="Seat"> Prologo saddle</components>
+        <components name="Handlebar"> Carbon handlebar 3K</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx amx 5 campagnolo record road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Scandium 7000 TB + Carbon SS</material>
+        </frame>
+        <fork>
+            <material> Carbon 3K 1 1/4</material>
+        </fork>
+        <components name="Saddle"> Prologo Scratch Pro saddle</components>
+        <components name="Stem"> Carbon stem 3K</components>
+        <components name="Seat"> Prologo saddle</components>
+        <components name="Handlebar"> Carbon handlebar 3K</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.5</current>
+            <votes>14.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx amx 5 sram red compact road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Scandium 7000 TB + Carbon SS</material>
+        </frame>
+        <fork>
+            <material> Carbon 3K 1 1/4</material>
+        </fork>
+        <components name="Saddle"> Prologo Scratch Pro saddle</components>
+        <components name="Stem"> Carbon stem 3K</components>
+        <components name="Seat"> Prologo saddle</components>
+        <components name="Handlebar"> Carbon handlebar 3K</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx amx 4 shimano ultegra compact road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Scandium 7000 TB</material>
+        </frame>
+        <fork>
+            <material> Carbon 3K 1 1/4</material>
+        </fork>
+        <components name="Saddle"> Prologo Scratch Pro saddle</components>
+        <components name="Stem"> Carbon stem 3K</components>
+        <components name="Seat"> Prologo Nago Evo saddle</components>
+        <components name="Handlebar"> Carbon handlebar 3K</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx amx 4 campagnolo athena carbon road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Scandium 7000 TB</material>
+        </frame>
+        <fork>
+            <material> Carbon 3K 1 1/4</material>
+        </fork>
+        <components name="Saddle"> Prologo Scratch Pro saddle</components>
+        <components name="Stem"> Carbon stem 3K</components>
+        <components name="Seat"> Prologo Nago Evo saddle</components>
+        <components name="Handlebar"> Carbon handlebar 3K</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx amx 4 sram force compact road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Scandium 7000 TB</material>
+        </frame>
+        <fork>
+            <material> Carbon 3K 1 1/4</material>
+        </fork>
+        <components name="Saddle"> Prologo Scratch Pro saddle</components>
+        <components name="Stem"> Carbon stem 3K</components>
+        <components name="Seat"> Prologo Nago Evo saddle</components>
+        <components name="Handlebar"> Carbon handlebar 3K</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx afx 4 shimano ultegra compact womens road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Scandium 7000 TB</material>
+        </frame>
+        <fork>
+            <material> Carbon 3K 1 1/4</material>
+        </fork>
+        <components name="Saddle"> Prologo Scratch Pro saddle</components>
+        <components name="Stem"> Carbon stem 3K</components>
+        <components name="Seat"> Prologo Nago Evo Saddle</components>
+        <components name="Handlebar"> Carbon handlebar 3K</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx afx 4 campagnolo athena carbon womens road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Scandium 7000 TB</material>
+        </frame>
+        <fork>
+            <material> Carbon 3K 1 1/4</material>
+        </fork>
+        <components name="Saddle"> Prologo Scratch Pro saddle</components>
+        <components name="Stem"> Carbon stem 3K</components>
+        <components name="Seat"> Prologo Nago Evo Saddle</components>
+        <components name="Handlebar"> Carbon handlebar 3K</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx afx 4 sram force compact womens road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Scandium 7000 TB</material>
+        </frame>
+        <fork>
+            <material> Carbon 3K 1 1/4</material>
+        </fork>
+        <components name="Saddle"> Prologo Scratch Pro saddle</components>
+        <components name="Stem"> Carbon stem 3K</components>
+        <components name="Seat"> Prologo Nago Evo Saddle</components>
+        <components name="Handlebar"> Carbon handlebar 3K</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx amx 2 shimano 105 compact road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Alloy 7046 TB</material>
+        </frame>
+        <fork>
+            <material> Carbon 1 1/4</material>
+        </fork>
+        <components name="Saddle"> Prologo Scratch Pro saddle</components>
+        <components name="Stem"> Alloy stem 3DF</components>
+        <components name="Seat"> Prologo saddle</components>
+        <components name="Handlebar"> Alloy handlebar 6061 DB</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon wrap 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.0</current>
+            <votes>23.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx amx 2 campagnolo veloce road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Alloy 7046 TB</material>
+        </frame>
+        <fork>
+            <material> Carbon 1 1/4</material>
+        </fork>
+        <components name="Saddle"> Prologo Scratch Pro saddle</components>
+        <components name="Stem"> Alloy stem 3DF</components>
+        <components name="Seat"> Prologo saddle</components>
+        <components name="Handlebar"> Alloy handlebar 6061 DB</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon wrap 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.89</current>
+            <votes>19.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx amx 2 sram rival compact road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Alloy 7046 TB</material>
+        </frame>
+        <fork>
+            <material> Carbon 1 1/4</material>
+        </fork>
+        <components name="Saddle"> Prologo Scratch Pro saddle</components>
+        <components name="Stem"> Alloy stem 3DF</components>
+        <components name="Seat"> Prologo saddle</components>
+        <components name="Handlebar"> Alloy handlebar 6061 DB</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Carbon wrap 3K</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.33</current>
+            <votes>6.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx amx 1 shimano tiagra compact road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Alloy 7000 TB</material>
+        </frame>
+        <fork>
+            <material> Carbon 1 1/8</material>
+        </fork>
+        <components name="Saddle"> Prologo Scratch Pro saddle</components>
+        <components name="Stem"> Alloy stem 3DF</components>
+        <components name="Seat"> Prologo saddle</components>
+        <components name="Handlebar"> Alloy handlebar 6061 DB</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Alloy 6061 3DF</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.47</current>
+            <votes>73.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>eddy merckx afx 1 shimano tiagra triple womens road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Alloy 7000 TB</material>
+        </frame>
+        <fork>
+            <material> Carbon 1 1/8</material>
+        </fork>
+        <components name="Saddle"> Prologo Scratch Pro saddle</components>
+        <components name="Stem"> Alloy stem 3DF</components>
+        <components name="Seat"> Prologo saddle</components>
+        <components name="Handlebar"> Alloy handlebar 6061 DB</components>
+        <components name="Handlebars"> Carbon wrap handlebar 3K</components>
+        <components name="Seatpost"> Alloy 6061 3DF</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+</brand>

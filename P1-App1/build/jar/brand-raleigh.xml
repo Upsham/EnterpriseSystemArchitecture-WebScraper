@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<brand>
+    <manufacturer>raleigh</manufacturer>
+    <model>
+        <name>raleigh team road bike</name>
+        <price>$1,800</price>
+        <year>2010</year>
+        <frame>
+            <material> HM2 High Modulus Monocoque Carbon w/BB30 Bottom Bracket, Tapered Headtube, Carbon Dropouts</material>
+            <size>50</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+            <size>62</size>
+        </frame>
+        <fork>
+            <material> Carbon Monocoque 1-1/8 to 1.5 Taper</material>
+        </fork>
+        <components name="Brake Levers"> SRAM Red</components>
+        <components name="Stem"> FSA OS99 CSI</components>
+        <components name="Extras"> Water Bottle Mounts, Cateye Reflector Set</components>
+        <components name="Seat"> Selle Italia SLR Kit Carbonio</components>
+        <components name="Brakes"> SRAM Red</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact</components>
+        <components name="Headset"> FSA Carbon Integrated Cartridge Bearings</components>
+        <components name="Grips"> Raleigh Gel Tape w/SRAM White Hoods</components>
+        <components name="Seatpost"> FSA K-Force Light</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.93</current>
+            <votes>29.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>raleigh prestige road bike</name>
+        <price>$1,800</price>
+        <year>2010</year>
+        <frame>
+            <material> HM2 High Modulus Monocoque Carbon w/BB30 Bottom Bracket, Tapered Headtube, Carbon Dropouts</material>
+            <size>50</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+            <size>62</size>
+        </frame>
+        <fork>
+            <material> Carbon Monocoque 1-1/8 to 1.5 Taper</material>
+        </fork>
+        <components name="Brake Levers"> SRAM Force</components>
+        <components name="Stem"> FSA OS99</components>
+        <components name="Extras"> Water Bottle Mounts, Cateye Reflector Set</components>
+        <components name="Seat"> Selle San Marco Ponza w/Hollow Chromo Rails</components>
+        <components name="Brakes"> SRAM Rival</components>
+        <components name="Handlebar"> FSA Carbon Pro Compact</components>
+        <components name="Headset"> FSA Integrated Cartridge Bearings</components>
+        <components name="Grips"> Raleigh Gel Tape</components>
+        <components name="Seatpost"> FSA SL240 CSI</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.4</current>
+            <votes>5.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>raleigh competition road bike</name>
+        <price>$1,800</price>
+        <year>2010</year>
+        <frame>
+            <material> HM2 High Modulus Monocoque Carbon w/BB30 Bottom Bracket, Tapered Headtube, Carbon Dropouts</material>
+            <size>50</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+            <size>62</size>
+        </frame>
+        <fork>
+            <material> Carbon Monocoque 1-1/8 to 1.5 Taper</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 STI</components>
+        <components name="Stem"> Avenir 200 Series, 3D Forged 31.8</components>
+        <components name="Extras"> Water Bottle Mounts, Cateye Reflector Set</components>
+        <components name="Seat"> Selle San Marco Ponza w/Hollow Chromo Rails</components>
+        <components name="Brakes"> Tektro Dual Pivot w/Cartridge Pads</components>
+        <components name="Handlebar"> FSA Wing Compact 6061 Double Butted 31.8</components>
+        <components name="Headset"> FSA Integrated Cartridge Bearings</components>
+        <components name="Grips"> Raleigh Gel Tape</components>
+        <components name="Seatpost"> Avenir 200 Series 31.6x350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.84</current>
+            <votes>25.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>raleigh grand sport road bike</name>
+        <price>$1,100</price>
+        <year>2010</year>
+        <frame>
+            <material> Atomic 13 SL, Hydroformed Butted Aluminum, Campy Style Drop-in Headset</material>
+            <size>47</size>
+            <size>50</size>
+            <size>53</size>
+            <size>56</size>
+            <size>59</size>
+            <size>62</size>
+        </frame>
+        <fork>
+            <material> Carbon Composite w/Alloy Steer Tube</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 2200 STI</components>
+        <components name="Stem"> Avenir 200 Series, 3D Forged 31.8</components>
+        <components name="Extras"> Rack and Fender Mounts, Water Bottle Mounts, Cateye Reflector Set</components>
+        <components name="Seat"> Avenir 200 Series</components>
+        <components name="Brakes"> Tektro Dual Pivot w/Cartridge Pads</components>
+        <components name="Handlebar"> Avenir 200 Series Road, 31.8</components>
+        <components name="Headset"> FSA Integrated Cartridge Bearings</components>
+        <components name="Grips"> Raleigh Gel Tape</components>
+        <components name="Seatpost"> Avenir 200 Series 31.6x350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.3</current>
+            <votes>44.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>raleigh sport road bike</name>
+        <price>$700</price>
+        <year>2010</year>
+        <frame>
+            <material> Atomic 13 SL, Hydroformed Butted Tubing w/Replaceable Hanger</material>
+            <size>47</size>
+            <size>50</size>
+            <size>53</size>
+            <size>56</size>
+            <size>59</size>
+            <size>62</size>
+        </frame>
+        <fork>
+            <material> Chromo Road</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 2300 STI</components>
+        <components name="Stem"> Alloy 3D Forged Ahead</components>
+        <components name="Extras"> Rack and Fender mounts, Cateye Reflector Set, Clear Coat, Owners Manual</components>
+        <components name="Seat"> Avenir 200 Series</components>
+        <components name="Brakes"> Tektro Dual Pivot</components>
+        <components name="Handlebar"> Alloy Road</components>
+        <components name="Headset"> FSA Integrated Cartridge Bearings</components>
+        <components name="Grips"> Raleigh Gel Tape</components>
+        <components name="Seatpost"> Alloy Micro Adjust 27.2x350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.52</current>
+            <votes>46.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>raleigh rx 1 0 road bike</name>
+        <price>$1,800</price>
+        <year>2010</year>
+        <frame>
+            <material> Atomic 13 SL Butted Alloy w/BB30 Bottom Bracket, Integrated Headtube</material>
+            <size>50</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+        </frame>
+        <fork>
+            <material> Easton EC70 X Carbon Cross w/Alloy Steer Tube</material>
+        </fork>
+        <components name="Brake Levers"> SRAM Rival</components>
+        <components name="Stem"> Avenir 200 Series, 3D Forged 31.8</components>
+        <components name="Extras"> Rack and Fender Mounts, Water Bottle Mounts, Cateye Reflector Set</components>
+        <components name="Seat"> Avenir 200 Series Mountain</components>
+        <components name="Brakes"> Tektro CR720 Retro-style Canti</components>
+        <components name="Handlebar"> FSA Omega Compact 31.8</components>
+        <components name="Headset"> FSA Integrated Cartridge Bearings w/Cable Guide</components>
+        <components name="Grips"> Raleigh Gel Tape</components>
+        <components name="Seatpost"> Avenir 100 Series 27.2x350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>raleigh record ace road bike</name>
+        <price>$1,800</price>
+        <year>2010</year>
+        <frame>
+            <material> Lugged Reynolds 520 Butted Chromo</material>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+        </frame>
+        <fork>
+            <material> Flat Crown Lugged 4130 Chromo Road</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Ultegra STI</components>
+        <components name="Stem"> Avenir 200 Series, 3D Forged 31.8</components>
+        <components name="Extras"> Water Bottle Mounts, Cateye Reflector Set</components>
+        <components name="Seat"> Brooks Swift w/Chromo Rails</components>
+        <components name="Brakes"> Tektro Dual Pivot w/Cartridge Pads</components>
+        <components name="Handlebar"> FSA Omega Compact 31.8</components>
+        <components name="Headset"> Ahead 1-1/8&amp;#8243; w/Alloy Cup/Sealed Cartridge Bearing</components>
+        <components name="Grips"> Gel Tape</components>
+        <components name="Seatpost"> Avenir 200 Series 27.2x350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.45</current>
+            <votes>29.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>raleigh clubman road bike</name>
+        <price>$1,100</price>
+        <year>2010</year>
+        <frame>
+            <material> Reynolds 520 Butted Chromo Tubing</material>
+            <size>50</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+            <size>62</size>
+        </frame>
+        <fork>
+            <material> Lugged 4130 Chromo Road</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Tiagra STI</components>
+        <components name="Stem"> Alloy 3D Forged Ahead 26.0</components>
+        <components name="Extras"> Lezyne Pressure Drive S Pump, Fenders, Cateye Reflector Set</components>
+        <components name="Seat"> Brooks Swift w/Chromo Rails</components>
+        <components name="Brakes"> Tektro Dual Pivot Long Reach w/Cartridge Pads</components>
+        <components name="Handlebar"> Classic Aluminum Drop 26.0</components>
+        <components name="Headset"> Ahead 1-1/8&amp;#8243; w/Alloy Cup/Sealed Cartridge Bearing</components>
+        <components name="Grips"> Gel Tape</components>
+        <components name="Seatpost"> Alloy Micro Adjust 27.2x350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.28</current>
+            <votes>36.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>raleigh sojourn road bike</name>
+        <price>$1,800</price>
+        <year>2010</year>
+        <frame>
+            <material> Reynold 520 Butted Chromo w/CNC Dropouts, Spoke Holders, Pump Peg</material>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+            <size>62</size>
+        </frame>
+        <fork>
+            <material> 4130 Chromo Cross w/Disc Mounts</material>
+        </fork>
+        <components name="Brake Levers"> Tektro R200 Aero Road</components>
+        <components name="Stem"> Alloy Ahead 2-bolt</components>
+        <components name="Extras"> SKS Fenders, Lezyne Road Drive Pump, Water Bottle Mounts, Rack, Cateye Reflector Set, Bell</components>
+        <components name="Seat"> Brooks B17 Aged</components>
+        <components name="Brakes"> Avid BB5 Road 160/140mm Rotor</components>
+        <components name="Handlebar"> WTB Mtn Drop, 31.8</components>
+        <components name="Headset"> Threadless 1-1/8&amp;#8243;</components>
+        <components name="Grips"> Brooks Leather, Dark Brown</components>
+        <components name="Seatpost"> Alloy Micro Adjust 27.2x350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.5</current>
+            <votes>6.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>raleigh one way road bike</name>
+        <price>$1,100</price>
+        <year>2010</year>
+        <frame>
+            <material> Reynold 520 Butted Chromo Dropouts w/Chain Tensioners</material>
+            <size>50</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+        </frame>
+        <fork>
+            <material> Lugged 4130 Classic Chromo Cross</material>
+        </fork>
+        <components name="Brake Levers"> Tektro R200 Aero Road</components>
+        <components name="Stem"> Alloy Forged Ahead 2-bolt</components>
+        <components name="Extras"> Lezyne Pressure Drive S Pump, Fenders, Water Bottle Mounts, Cateye Reflector Set, Bell</components>
+        <components name="Seat"> Brooks B17 Aged</components>
+        <components name="Brakes"> Tektro Oryx Canti</components>
+        <components name="Handlebar"> Alloy Road</components>
+        <components name="Headset"> Ahead 1-1/8&amp;#8243; w/Alloy Cup/Sealed Cartridge Bearing</components>
+        <components name="Grips"> Gel Tape</components>
+        <components name="Seatpost"> Alloy Micro Adjust 27.2x350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+</brand>

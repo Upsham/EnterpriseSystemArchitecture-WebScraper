@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<brand>
+    <manufacturer>wilier</manufacturer>
+    <model>
+        <name>wilier cento 1 super record road bike</name>
+        <price>$9,500</price>
+        <year>2010</year>
+        <frame>
+            <material> Wilier Cento 1 Full Carbon</material>
+        </frame>
+        <fork>
+            <material> Wilier Cento 1 Full Carbon</material>
+        </fork>
+        <components name="Brake Levers"> Super-Record</components>
+        <components name="Stem"> Ritchey WCS Wet Black Alu</components>
+        <components name="Brakes Rear"> Super-Record</components>
+        <components name="Seat"> Selle Italia SL</components>
+        <components name="Brakes"> Super-Record</components>
+        <components name="Handlebar"> Ritchey WCS</components>
+        <components name="Headset"> Ritchey WCS Carbon</components>
+        <components name="Grips"> GIST</components>
+        <components name="Seatpost"> Ritchey WCS Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.82</current>
+            <votes>28.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>wilier imperiale chorus road bike</name>
+        <price>$6,500</price>
+        <year>2010</year>
+        <frame>
+            <material> Full Carbon Monocoque, &amp;#8220;Wind Friendly&amp;#8221; Styling</material>
+        </frame>
+        <fork>
+            <material> Full Carbon Aero</material>
+        </fork>
+        <components name="Brake Levers"> Chorus</components>
+        <components name="Stem"> Ritchey Pro Wet Black Alu</components>
+        <components name="Brakes Rear"> Chorus</components>
+        <components name="Seat"> Selle Italia SL</components>
+        <components name="Brakes"> Chorus</components>
+        <components name="Handlebar"> Ritchey Pro</components>
+        <components name="Headset"> Ritchey Pro</components>
+        <components name="Grips"> GIST</components>
+        <components name="Seatpost"> Integrated Aero Seatmast</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.77</current>
+            <votes>31.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>wilier izoard athena road bike</name>
+        <price>$4,500</price>
+        <year>2010</year>
+        <frame>
+            <material> Izoard, Full Carbon</material>
+        </frame>
+        <fork>
+            <material> Izoard, Full Carbon</material>
+        </fork>
+        <components name="Brake Levers"> Athena</components>
+        <components name="Stem"> Ritchey Pro</components>
+        <components name="Brakes Rear"> Athena</components>
+        <components name="Seat"> Selle Italia SL</components>
+        <components name="Brakes"> Athena</components>
+        <components name="Handlebar"> Ritchey Comp</components>
+        <components name="Headset"> Ritchey Pro</components>
+        <components name="Grips"> GIST</components>
+        <components name="Seatpost"> Ritchey Carbon Pro</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.95</current>
+            <votes>21.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>wilier izoard centaur road bike</name>
+        <price>$3,600</price>
+        <year>2010</year>
+        <frame>
+            <material> Izoard, Full Carbon</material>
+        </frame>
+        <fork>
+            <material> Izoard, Full Carbon</material>
+        </fork>
+        <components name="Brake Levers"> Centaur</components>
+        <components name="Stem"> Ritchey Comp</components>
+        <components name="Brakes Rear"> Centaur</components>
+        <components name="Seat"> Selle Italia Filante</components>
+        <components name="Brakes"> Centaur</components>
+        <components name="Handlebar"> Ritchey Comp</components>
+        <components name="Headset"> Ritchey Pro</components>
+        <components name="Grips"> GIST</components>
+        <components name="Seatpost"> Ritchey Carbon Pro</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.09</current>
+            <votes>56.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>wilier mortirolo veloce road bike</name>
+        <price>$2,700</price>
+        <year>2010</year>
+        <frame>
+            <material> Mortirolo, Full Carbon</material>
+        </frame>
+        <fork>
+            <material> Mortirolo, Full Carbon</material>
+        </fork>
+        <components name="Brake Levers"> Veloce</components>
+        <components name="Stem"> Ritchey Comp</components>
+        <components name="Brakes Rear"> Veloce</components>
+        <components name="Seat"> Selle Italia Filante</components>
+        <components name="Brakes"> Veloce</components>
+        <components name="Handlebar"> Ritchey Alu</components>
+        <components name="Headset"> Ritchey Pro</components>
+        <components name="Grips"> GIST</components>
+        <components name="Seatpost"> Ritchey Carbon Pro</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.0</current>
+            <votes>6.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>wilier mortirolo mirage road bike</name>
+        <price>$2,200</price>
+        <year>2010</year>
+        <frame>
+            <material> Mortirolo, Full Carbon</material>
+        </frame>
+        <fork>
+            <material> Mortirolo, Full Carbon</material>
+        </fork>
+        <components name="Brake Levers"> Mirage</components>
+        <components name="Stem"> Ritchey Comp</components>
+        <components name="Brakes Rear"> Mirage</components>
+        <components name="Seat"> Selle Italia XR</components>
+        <components name="Brakes"> Mirage</components>
+        <components name="Handlebar"> Ritchey Alu</components>
+        <components name="Headset"> Ritchey Comp</components>
+        <components name="Grips"> GIST</components>
+        <components name="Seatpost"> Ritchey Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.65</current>
+            <votes>17.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>wilier la triestina mirage road bike</name>
+        <price>$1,700</price>
+        <year>2010</year>
+        <frame>
+            <material> Aluminium with Carbon Seatstays</material>
+        </frame>
+        <fork>
+            <material> Carbon With Alu. Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Mirage</components>
+        <components name="Stem"> Ritchey Alloy</components>
+        <components name="Brakes Rear"> Veloce Black</components>
+        <components name="Seat"> Selle Italia XR</components>
+        <components name="Brakes"> Veloce Black</components>
+        <components name="Handlebar"> Ritchey Alloy</components>
+        <components name="Headset"> FSA Integrated</components>
+        <components name="Grips"> GIST</components>
+        <components name="Seatpost"> Ritchey Alu</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.8</current>
+            <votes>82.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>wilier lavaredo mirage road bike</name>
+        <price>$1,500</price>
+        <year>2010</year>
+        <frame>
+            <material> Aluminium</material>
+        </frame>
+        <fork>
+            <material> Carbon / Alu. Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Mirage</components>
+        <components name="Stem"> Ritchey Comp</components>
+        <components name="Brakes Rear"> Veloce</components>
+        <components name="Seat"> Selle Italia QBIK</components>
+        <components name="Brakes"> Veloce</components>
+        <components name="Handlebar"> Ritchey Alu</components>
+        <components name="Headset"> FSA Integrated</components>
+        <components name="Grips"> GIST</components>
+        <components name="Seatpost"> Ritchey Alu</components>
+        <rating>
+            <max>5.0</max>
+            <current>5.0</current>
+            <votes>1.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>wilier escape xenon road bike</name>
+        <price>$1,200</price>
+        <year>2010</year>
+        <frame>
+            <material> Aluminium</material>
+        </frame>
+        <fork>
+            <material> Carbon / Alu. Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Xenon 9 Speed</components>
+        <components name="Stem"> ITM Road</components>
+        <components name="Brakes Rear"> Miche</components>
+        <components name="Seat"> Selle Italia QBIK</components>
+        <components name="Brakes"> Miche</components>
+        <components name="Handlebar"> ITM Road</components>
+        <components name="Headset"> FSA Integrated</components>
+        <components name="Grips"> GIST</components>
+        <components name="Seatpost"> ITM Road</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>wilier mimosa road bike</name>
+        <price>$3,300</price>
+        <year>2010</year>
+        <frame>
+            <material> Mimosa, Full Carbon</material>
+        </frame>
+        <fork>
+            <material> Mimosa, Full Carbon</material>
+        </fork>
+        <components name="Brake Levers"> Veloce</components>
+        <components name="Stem"> FSA Omega Compact</components>
+        <components name="Brakes Rear"> Veloce</components>
+        <components name="Seat"> Selle Italia X2 Lady</components>
+        <components name="Brakes"> Athena</components>
+        <components name="Handlebar"> FSA Omega Compact</components>
+        <components name="Headset"> Ritchey Pro</components>
+        <components name="Grips"> GIST</components>
+        <components name="Seatpost"> Ritchey Carbon Pro</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>wilier mortirolo womens road bike</name>
+        <price>$2,300</price>
+        <year>2010</year>
+        <frame>
+            <material> Mortirolo, Full Carbon</material>
+        </frame>
+        <fork>
+            <material> Mortirolo, Full Carbon</material>
+        </fork>
+        <components name="Brake Levers"> Mirage</components>
+        <components name="Stem"> FSA Omega Compact</components>
+        <components name="Brakes Rear"> Mirage</components>
+        <components name="Seat"> Selle Italia X2 Lady</components>
+        <components name="Brakes"> Mirage</components>
+        <components name="Handlebar"> FSA Omega Compact</components>
+        <components name="Headset"> Ritchey Comp</components>
+        <components name="Grips"> GIST</components>
+        <components name="Seatpost"> Ritchey Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+</brand>

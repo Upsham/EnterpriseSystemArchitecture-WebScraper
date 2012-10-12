@@ -1,0 +1,2296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bikeList>
+    <brand>
+        <manufacturer>bmc</manufacturer>
+        <model>
+            <name>bmc team machine slr01 super record 11 road bike</name>
+            <price>$6940</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Team Machine SLR 01</material>
+            </frame>
+            <fork>
+                <material> BMC TCC Full Carbon Fiber Fork</material>
+            </fork>
+            <components name="Brake Levers">Campagnolo Super Record 11 Ultra Shift Ergopower Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Campagnolo Super Record 11 Skeleton</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Seatpost">BMC TCC Angle-Locking Carbon Fiber</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc team machine slr01 record 11 road bike</name>
+            <price>$6,598</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Team Machine SLR 01</material>
+            </frame>
+            <fork>
+                <material> BMC TCC Full Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">Campagnolo Super Record 11 Ultra Ergopower Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Campagnolo Record 11 Skeleton</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8&amp;#8243; Headset</components>
+            <components name="Seatpost">BMC TCC Angle-Locking Carbon Fiber Seatpost</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc team machine slr01 chorus 11 road bike</name>
+            <price>$6,097</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Team Machine SLR 01</material>
+            </frame>
+            <fork>
+                <material> BMC TCC Full Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">Campagnolo Chorus 11 Ultra Ergopower Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Campagnolo Chorus 11 Skeleton</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8&amp;#8243; Headset</components>
+            <components name="Seatpost">BMC TCC Angle-Locking Carbon Fiber Seatpost</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc team machine slr01 athena 11 road bike</name>
+            <price>$5,874</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Team Machine SLR 01</material>
+            </frame>
+            <fork>
+                <material> BMC TCC Full Carbon Fiber Fork</material>
+            </fork>
+            <components name="Brake Levers">Campagnolo Athena 11 Ultra Ergopower Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Campagnolo Athena 11 Skeleton</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8&amp;#8243; Headset</components>
+            <components name="Seatpost">BMC TCC Angle-Locking Carbon Fiber Seatpost</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc team machine slr01 dura ace 7970 di2 road bike</name>
+            <price>$8,622</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Team Machine SLR 01</material>
+            </frame>
+            <fork>
+                <material> BMC TCC Full Carbon Fiber Fork</material>
+            </fork>
+            <components name="Brake Levers">Shimano Dura Ace Di2 ST-7970 STI Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Shimano Dura Ace BR-7900 Brake On Calipers OEM</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8&amp;#8243; Headset</components>
+            <components name="Seatpost">BMC TCC Angle-Locking Carbon Fiber Seatpost</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc team machine slr01 dura ace 7900 road bike</name>
+            <price>$6,608</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Team Machine SLR 01</material>
+            </frame>
+            <fork>
+                <material> BMC TCC Full Carbon Fiber Fork</material>
+            </fork>
+            <components name="Brake Levers">Shimano Dura Ace ST-7970 STI Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Shimano Dura Ace BR-7900 Brake On Calipers OEM</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8&amp;#8243; Headset</components>
+            <components name="Seatpost">BMC TCC Angle-Locking Carbon Fiber Seatpost</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc team machine slr01 ultegra 6700 road bike</name>
+            <price>$5,912</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Team Machine SLR 01</material>
+            </frame>
+            <fork>
+                <material> BMC TCC Full Carbon Fiber Fork</material>
+            </fork>
+            <components name="Brake Levers">Shimano Ultegra ST-6700 STI Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Shimano Ultegra BR-6700 brake calipers</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8&amp;#8243; Headset</components>
+            <components name="Seatpost">BMC TCC Angle-Locking Carbon Fiber Seatpost</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc team machine slr01 105 road bike</name>
+            <price>$5,154</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Team Machine SLR 01</material>
+            </frame>
+            <fork>
+                <material> BMC TCC Full Carbon Fiber Fork</material>
+            </fork>
+            <components name="Brake Levers">Shimano 105 ST-5601-L STI Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Shimano 105 BR-5600-L Brake Calipers</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8&amp;#8243; Headset</components>
+            <components name="Seatpost">BMC TCC Angle-Locking Carbon Fiber Seatpost</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc team machine slr01 sram red road bike</name>
+            <price>$6,116</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Team Machine SLR 01</material>
+            </frame>
+            <fork>
+                <material> BMC TCC Full Carbon Fiber Fork</material>
+            </fork>
+            <components name="Brake Levers">SRAM Red DoubleTap Integrated Shift Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">SRAM Red Brake Calipers</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8&amp;#8243; Headset</components>
+            <components name="Seatpost">BMC TCC Angle-Locking Carbon Fiber Seatpost</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.69</current>
+                <votes>13.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc team machine slr01 sram force road bike</name>
+            <price>$5,515</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Team Machine SLR 01</material>
+            </frame>
+            <fork>
+                <material> BMC TCC Full Carbon Fiber Fork</material>
+            </fork>
+            <components name="Brake Levers">SRAM Force Double Tap Shift Levers (Integrated)</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">SRAM Force Brake Calipers</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8&amp;#8243; Headset</components>
+            <components name="Seatpost">BMC TCC Angle-Locking Carbon Fiber Seatpost</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc team machine slr01 sram rival road bike</name>
+            <price>$5,267</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Team Machine SLR 01</material>
+            </frame>
+            <fork>
+                <material> BMC TCC Full Carbon Fiber Fork</material>
+            </fork>
+            <components name="Brake Levers">SRAM Rival Double Tap Shift Levers (Integrated)</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">SRAM Rival Brake Calipers</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8&amp;#8243; Headset</components>
+            <components name="Seatpost">BMC TCC Angle-Locking Carbon Fiber Seatpost</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc pro machine slc01 super record 11 road bike</name>
+            <price>$6,499</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Pro Machine SLC 01</material>
+            </frame>
+            <fork>
+                <material> Easton EC90 SLX Full Carbon Fiber Fork</material>
+            </fork>
+            <components name="Brake Levers">Campagnolo Super Record 11 Ultra Shift Ergopower Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Campagnolo Super Record 11 Skeleton</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8&amp;#8243; Headset</components>
+            <components name="Seatpost">Easton EC70 Full Carbon Fiber Seatpost</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc pro machine slc01 record 11 road bike</name>
+            <price>$6,032</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Pro Machine SLC 01</material>
+            </frame>
+            <fork>
+                <material> Easton EC90 SLX Full Carbon Fiber Fork</material>
+            </fork>
+            <components name="Brake Levers">Campagnolo Super Record 11 Ultra Ergopower Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Campagnolo Record 11 Skeleton</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">Easton EC70 Full Carbon Fiber Seatpost</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc pro machine slc01 chorus 11 road bike</name>
+            <price>$5,329</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Pro Machine SLC 01</material>
+            </frame>
+            <fork>
+                <material> Easton EC90 SLX Full Carbon Fiber Fork</material>
+            </fork>
+            <components name="Brake Levers">Campagnolo Chorus 11 Ultra Ergopower Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Campagnolo Chorus 11 Skeleton</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">Easton EC70 Full Carbon Fiber Seatpost</components>
+            <rating>
+                <max>5.0</max>
+                <current>5.0</current>
+                <votes>3.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc pro machine slc01 athena 11 road bike</name>
+            <price>$4,868</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Pro Machine SLC 01</material>
+            </frame>
+            <fork>
+                <material> Easton EC90 SLX Full Carbon Fiber Fork</material>
+            </fork>
+            <components name="Brake Levers">Campagnolo Athena 11 Ultra Ergopower Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Campagnolo Athena 11 Skeleton</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">Easton EC70 Full Carbon Fiber Seatpost</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc pro machine slc01 dura ace 7970 di2 road bike</name>
+            <price>$8,012</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Pro Machine SLC 01</material>
+            </frame>
+            <fork>
+                <material> Easton EC90 SLX Full Carbon Fiber Fork</material>
+            </fork>
+            <components name="Brake Levers">Shimano Dura Ace Di2 ST-7970 STI Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Shimano Dura Ace BR-7900 Brake On Calipers OEM</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">Easton EC70 Full Carbon Fiber Seatpost</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc pro machine slc01 dura ace 7900 road bike</name>
+            <price>$5,998</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Pro Machine SLC 01</material>
+            </frame>
+            <fork>
+                <material> Easton EC90 SLX Full Carbon Fiber Fork</material>
+            </fork>
+            <components name="Brake Levers">Shimano Dura Ace ST-7970 STI Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Shimano Dura Ace BR-7900 Brake On Calipers OEM</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">Easton EC70 Full Carbon Fiber Seatpost</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc pro machine slc01 ultegra 6700 road bike</name>
+            <price>$5,021</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Pro Machine SLC 01</material>
+            </frame>
+            <fork>
+                <material> Easton EC90 SLX Full Carbon Fiber Fork</material>
+            </fork>
+            <components name="Brake Levers">Shimano Ultegra ST-6700 STI Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Shimano Ultegra BR-6700 brake calipers</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">Easton EC70 Full Carbon Fiber Seatpost</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.6</current>
+                <votes>10.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc pro machine slc01 105 road bike</name>
+            <price>$4,716</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Pro Machine SLC 01</material>
+            </frame>
+            <fork>
+                <material> Easton EC90 SLX Full Carbon Fiber Fork</material>
+            </fork>
+            <components name="Brake Levers">Shimano 105 ST-5601-L STI Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Shimano 105 BR-5600-L Brake Calipers</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">Easton EC70 Full Carbon Fiber Seatpost</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc pro machine slc01 sram red road bike</name>
+            <price>$5,666</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Pro Machine SLC 01</material>
+            </frame>
+            <fork>
+                <material> Easton EC90 SLX Full Carbon Fiber Fork</material>
+            </fork>
+            <components name="Brake Levers">SRAM Red DoubleTap Integrated Shift Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">SRAM Red Brake Calipers</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">Easton EC70 Full Carbon Fiber Seatpost</components>
+            <rating>
+                <max>5.0</max>
+                <current>4.44</current>
+                <votes>9.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc pro machine slc01 sram force road bike</name>
+            <price>$4,821</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Pro Machine SLC 01</material>
+            </frame>
+            <fork>
+                <material> Easton EC90 SLX Full Carbon Fiber Fork</material>
+            </fork>
+            <components name="Brake Levers">SRAM Force Double Tap Shift Levers (Integrated)</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">SRAM Force Brake Calipers</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">Easton EC70 Full Carbon Fiber Seatpost</components>
+            <rating>
+                <max>5.0</max>
+                <current>5.0</current>
+                <votes>1.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc pro machine slc01 sram rival road bike</name>
+            <price>$4,460</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Pro Machine SLC 01</material>
+            </frame>
+            <fork>
+                <material> Easton EC90 SLX Full Carbon Fiber Fork</material>
+            </fork>
+            <components name="Brake Levers">SRAM Rival Double Tap Shift Levers (Integrated)</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">SRAM Rival Brake Calipers</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">Easton EC70 Full Carbon Fiber Seatpost</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc race master slx01 super record 11 road bike</name>
+            <price>$5,500</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Race Master SLX 01</material>
+            </frame>
+            <fork>
+                <material> Easton Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">Campagnolo Super Record 11 Ultra Shift Ergopower Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Campagnolo Super Record 11 Skeleton</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc race master slx01 record 11 road bike</name>
+            <price>$5,033</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Race Master SLX 01</material>
+            </frame>
+            <fork>
+                <material> Easton Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">Campagnolo Super Record 11 Ultra Ergopower Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Campagnolo Record 11 Skeleton</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc race master slx01 chorus 11 road bike</name>
+            <price>$4,330</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Race Master SLX 01</material>
+            </frame>
+            <fork>
+                <material> Easton Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">Campagnolo Chorus 11 Ultra Ergopower Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Campagnolo Chorus 11 Skeleton</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc race master slx01 athena 11 road bike</name>
+            <price>$3,869</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Race Master SLX 01</material>
+            </frame>
+            <fork>
+                <material> Easton Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">Campagnolo Athena 11 Ultra Ergopower Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Campagnolo Athena 11 Skeleton</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc race master slx01 dura ace 7970 di2 road bike</name>
+            <price>$7,013</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Race Master SLX 01</material>
+            </frame>
+            <fork>
+                <material> Easton Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">Shimano Dura Ace Di2 ST-7970 STI Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Shimano Dura Ace BR-7900 Brake On Calipers OEM</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc race master slx01 dura ace 7900 2010 road bike</name>
+            <price>$4,999</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Race Master SLX 01</material>
+            </frame>
+            <fork>
+                <material> Easton Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">Shimano Dura Ace ST-7970 STI Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Shimano Dura Ace BR-7900 Brake On Calipers OEM</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc race master slx01 ultegra 6700 road bike</name>
+            <price>$4,022</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Race Master SLX 01</material>
+            </frame>
+            <fork>
+                <material> Easton Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">Shimano Ultegra ST-6700 STI Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Shimano Ultegra BR-6700 brake calipers</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>4.07</current>
+                <votes>15.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc race master slx01 105 road bike</name>
+            <price>$3,717</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Race Master SLX 01</material>
+            </frame>
+            <fork>
+                <material> Easton Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">Shimano 105 ST-5601-L STI Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Shimano 105 BR-5600-L Brake Calipers</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.86</current>
+                <votes>7.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc race master slx01 sram red road bike</name>
+            <price>$4,667</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Race Master SLX 01</material>
+            </frame>
+            <fork>
+                <material> Easton Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">SRAM Red DoubleTap Integrated Shift Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">SRAM Red Brake Calipers</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc race master slx01 sram force road bike</name>
+            <price>$3,822</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Race Master SLX 01</material>
+            </frame>
+            <fork>
+                <material> Easton Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">SRAM Force Double Tap Shift Levers (Integrated)</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">SRAM Force Brake Calipers</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc race master slx01 sram rival road bike</name>
+            <price>$3,461</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Race Master SLX 01</material>
+            </frame>
+            <fork>
+                <material> Easton Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">SRAM Rival Double Tap Shift Levers (Integrated)</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">SRAM Rival Brake Calipers</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc road racer sl01 super record 11 road bike</name>
+            <price>$4,499</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Road Racer SL 01</material>
+            </frame>
+            <fork>
+                <material> Easton Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">Campagnolo Super Record 11 Ultra Shift Ergopower Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Campagnolo Super Record 11 Skeleton</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc road racer sl01 record 11 road bike</name>
+            <price>$4,032</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Road Racer SL 01</material>
+            </frame>
+            <fork>
+                <material> Easton Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">Campagnolo Super Record 11 Ultra Ergopower Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Campagnolo Record 11 Skeleton</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc road racer sl01 chorus 11 road bike</name>
+            <price>$3,329</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Road Racer SL 01</material>
+            </frame>
+            <fork>
+                <material> Easton Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">Campagnolo Chorus 11 Ultra Ergopower Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Campagnolo Chorus 11 Skeleton</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc road racer sl01 athena 11 road bike</name>
+            <price>$2,868</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Road Racer SL 01</material>
+            </frame>
+            <fork>
+                <material> Easton Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">Campagnolo Athena 11 Ultra Ergopower Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Campagnolo Athena 11 Skeleton</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc road racer sl01 dura ace 7970 di2 road bike</name>
+            <price>$6,012</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Road Racer SL 01</material>
+            </frame>
+            <fork>
+                <material> Easton Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">Shimano Dura Ace Di2 ST-7970 STI Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Shimano Dura Ace BR-7900 Brake On Calipers OEM</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc road racer sl01 dura ace 7900 road bike</name>
+            <price>$3,998</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Road Racer SL 01</material>
+            </frame>
+            <fork>
+                <material> Easton Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">Shimano Dura Ace ST-7970 STI Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Shimano Dura Ace BR-7900 Brake On Calipers OEM</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc road racer sl01 ultegra 6700 road bike</name>
+            <price>$3,021</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Road Racer SL 01</material>
+            </frame>
+            <fork>
+                <material> Easton Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">Shimano Ultegra ST-6700 STI Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Shimano Ultegra BR-6700 brake calipers</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc road racer sl01 105 road bike</name>
+            <price>$2,716</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Road Racer SL 01</material>
+            </frame>
+            <fork>
+                <material> Easton Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">Shimano 105 ST-5601-L STI Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">Shimano 105 BR-5600-L Brake Calipers</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc road racer sl01 sram red road bike</name>
+            <price>$3,666</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Road Racer SL 01</material>
+            </frame>
+            <fork>
+                <material> Easton Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">SRAM Red DoubleTap Integrated Shift Levers</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">SRAM Red Brake Calipers</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.4</current>
+                <votes>5.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc road racer sl01 sram force road bike</name>
+            <price>$2,821</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Road Racer SL 01</material>
+            </frame>
+            <fork>
+                <material> Easton Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">SRAM Force Double Tap Shift Levers (Integrated)</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">SRAM Force Brake Calipers</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc road racer sl01 sram rival road bike</name>
+            <price>$2,460</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Road Racer SL 01</material>
+            </frame>
+            <fork>
+                <material> Easton Carbon Fiber</material>
+            </fork>
+            <components name="Brake Levers">SRAM Rival Double Tap Shift Levers (Integrated)</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Saddle">Fizik Pave CX Sport Wingflex</components>
+            <components name="Stem">Easton EA70 Stem</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Brake Calipers">SRAM Rival Brake Calipers</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc street racer sr01 road bike</name>
+            <year>2010</year>
+            <frame>
+                <material> BMC Custom Alloy</material>
+            </frame>
+            <fork>
+                <material> BMC Straightedge 48</material>
+            </fork>
+            <components name="Seat post">Scor MKIII</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Rear Brake">Shimano Ultegra SL</components>
+            <components name="Brake Calipers">SRAM Rival Brake Calipers</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Stem">Scor MKIII</components>
+            <components name="Front Brake">Shimano Ultegra SL</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Handlebars">Scor MKIII</components>
+            <components name="Brake Levers">SRAM Rival Double Tap Shift Levers (Integrated)</components>
+            <components name="Saddle">Scor</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Seatpost">BMC Streampost Carbon</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.58</current>
+                <votes>48.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc street fire ssx01 road bike</name>
+            <year>2010</year>
+            <frame>
+                <material> BMC Street Fire frame</material>
+            </frame>
+            <fork>
+                <material> Easton EC70 AL</material>
+            </fork>
+            <components name="Seat post">Scor MKIII</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Rear Brake">Shimano Ultegra SL</components>
+            <components name="Brake Calipers">SRAM Rival Brake Calipers</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Stem">Easton EA50 OS</components>
+            <components name="Front Brake">Shimano Ultegra SL</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Handlebars">Easton EA50 OS</components>
+            <components name="Brake Levers">SRAM Rival Double Tap Shift Levers (Integrated)</components>
+            <components name="Saddle">Selle Italia X0</components>
+            <components name="Brakes">Shimano 105</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Seatpost">Easton EA50 31.6mm</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.68</current>
+                <votes>73.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>bmc sparkle sp01 womens road bike</name>
+            <price>$2,299.99</price>
+            <year>2010</year>
+            <frame>
+                <material> BMC Custom Alloy</material>
+            </frame>
+            <fork>
+                <material> BMC Straightedge 48 SL</material>
+            </fork>
+            <components name="Seat post">Scor 18k</components>
+            <components name="Saddles">Fizik Pave CX Sport Wingflex</components>
+            <components name="Rear Brake">Tektro R710</components>
+            <components name="Brake Calipers">SRAM Rival Brake Calipers</components>
+            <components name="Handlebar Tape">Cinelli Cork</components>
+            <components name="Stem">Scor 18k</components>
+            <components name="Front Brake">Tektro R710</components>
+            <components name="Stems">Easton EA70 Stem</components>
+            <components name="Headset">FSA Integrated 1-1/8″ Headset</components>
+            <components name="Handlebars">Scor 18k</components>
+            <components name="Brake Levers">SRAM Rival Double Tap Shift Levers (Integrated)</components>
+            <components name="Saddle">Scor Lady</components>
+            <components name="Brakes">Shimano 105</components>
+            <components name="Handlebar">Easton EA70 Handlebar</components>
+            <components name="Seatpost">Easton EA50 31.6mm</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+    </brand>
+    <brand>
+        <manufacturer>fuji</manufacturer>
+        <model>
+            <name>fuji team us united states road bike</name>
+            <year>2010</year>
+            <frame>
+                <material> Monoque C-4 carbon with custom uni-directional carbon strands, Integrated aluminum cupped head tube, Double water bottle mounts.  C-4 carbon stays with shaped ride tuned Energy Transfer Chainstay, cold forged dropout with replaceable hanger</material>
+                <size>49</size>
+                <size>52</size>
+                <size>54</size>
+                <size>56</size>
+                <size>58</size>
+                <size>61</size>
+            </frame>
+            <fork>
+                <material> FC-770 Fuji Bonded Carbon Integrated w/ 1 1/8&amp;#8243; Alloy Steerer</material>
+            </fork>
+            <components name="Brake Levers">Shimano 105 STI</components>
+            <components name="Seat Post">Fuji PRO Alloy, 350mm</components>
+            <components name="Saddle">NEW San Marco Ponza w/Embossed logo and cro-mo rails</components>
+            <components name="Stem">Fuji PRO Alloy 3D forged, +/-7 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 31.8mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji Custom Micro-fibre wrap</components>
+            <components name="Handlebar">Fuji UltraLite 6061 Double Butted, 31.8mm w/Anatomical drops</components>
+            <components name="Headset">Cane Creek 1 1/8&amp;#8243; Integrated, w/ Convex hollow alloy spacer</components>
+            <components name="Brake Set">Shimano BR-R560 dual pivot w/ cartridge pads</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.18</current>
+                <votes>28.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji team intl international road bike</name>
+            <year>2010</year>
+            <frame>
+                <material> Monoque C-4 carbon with 12K weave carbon strands, Integrated aluminum cupped head tube, Double water bottle mounts.  C-4 carbon stays with shaped ride tuned Energy Transfer Chainstay, cold forged dropout with replaceable hanger</material>
+                <size>49</size>
+                <size>52</size>
+                <size>54</size>
+                <size>56</size>
+                <size>58</size>
+                <size>61</size>
+            </frame>
+            <fork>
+                <material> FC-770 Fuji Bonded Carbon Integrated w/ 1 1/8&amp;#8243; Alloy Steerer</material>
+            </fork>
+            <components name="Brake Levers">Shimano Tiagra STI</components>
+            <components name="Seat Post">Fuji PGC 7075 Aluminum 1-Bolt, 300mm</components>
+            <components name="Saddle">NEW Fuji PGC w/CroMoly rails</components>
+            <components name="Stem">Fuji PGC 7075 Aluminum 31.8mm Road,+/-6 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 31.8mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji Custom Micro-fiber wrap</components>
+            <components name="Handlebar">Fuji PGC Double Butted 7075 Aluminum 31.8mm Road</components>
+            <components name="Headset">Cane Creek 1 1/8&amp;#8243; Integrated Road, with convex hollow top cap</components>
+            <components name="Brake Set">Shimano Tiagra dual pivot</components>
+            <rating>
+                <max>5.0</max>
+                <current>4.0</current>
+                <votes>2.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji team pro us united states road bike</name>
+            <year>2010</year>
+            <frame>
+                <material> Monoque C-4 carbon with custom uni-directional carbon strands, Integrated aluminum cupped head tube, Double water bottle mounts.  C-4 carbon stays with shaped ride tuned Energy Transfer Chainstay, cold forged dropout with replaceable hanger</material>
+                <size>49</size>
+                <size>52</size>
+                <size>54</size>
+                <size>56</size>
+                <size>58</size>
+                <size>61</size>
+            </frame>
+            <fork>
+                <material> FC-440 Fuji Carbon Monocoque Integrated 1 1/8&amp;#8243; Carbon steerer</material>
+            </fork>
+            <components name="Brake Levers">Shimano Ultegra STI</components>
+            <components name="Seat Post">Fuji Pro Carbon wrapped Al, 300mm</components>
+            <components name="Saddle">NEW San Marco Ponza w/Embossed logo and cro-mo rails</components>
+            <components name="Stem">Fuji PRO Alloy 3D forged, +/-7 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 31.8mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji Custom Micro-fibre wrap</components>
+            <components name="Handlebar">Fuji UltraLite 6061 Double Butted, 31.8mm w/Anatomical drops</components>
+            <components name="Headset">Cane Creek 1 1/8&amp;#8243; Integrated, w/ Convex hollow alloy spacer</components>
+            <components name="Brake Set">Shimano Ultegra dual pivot w/cartridge pad</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.6</current>
+                <votes>80.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji team pro intl international road bike</name>
+            <year>2010</year>
+            <frame>
+                <material> Monoque C-4 carbon with 12K weave carbon strands, Integrated aluminum cupped head tube, Double water bottle mounts.  C-4 carbon stays with shaped ride tuned Energy Transfer Chainstay, cold forged dropout with replaceable hanger</material>
+                <size>49</size>
+                <size>52</size>
+                <size>54</size>
+                <size>56</size>
+                <size>58</size>
+                <size>61</size>
+            </frame>
+            <fork>
+                <material> FC-770 Fuji Bonded Carbon Integrated w/ 1 1/8&amp;#8243; Alloy Steerer</material>
+            </fork>
+            <components name="Brake Levers">Shimano 105 STI</components>
+            <components name="Seat Post">Fuji PGC 7075 Aluminum 1-Bolt, 300mm</components>
+            <components name="Saddle">NEW Fuji PGC w/CroMoly rails</components>
+            <components name="Stem">Fuji PGC 7075 Aluminum 31.8mm Road,+/-6 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 31.8mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji Custom Micro-fiber wrap</components>
+            <components name="Handlebar">Fuji PGC Double Butted 7075 Aluminum 31.8mm Road</components>
+            <components name="Headset">Cane Creek 1 1/8&amp;#8243; Integrated, w/ Convex hollow alloy spacer</components>
+            <components name="Brake Set">Shimano BR-R560 dual pivot w/ cartridge pads</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.64</current>
+                <votes>28.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji sl 1 rc shimano road bike</name>
+            <price>$6,400</price>
+            <year>2010</year>
+            <frame>
+                <material> C-10 SuperLite Monocoque High Modulus carbon with 3K, Integrated aluminum cupped head tube, Double water bottle mounts.  C-10 SuperLite High Modulus carbon stays with shaped ride tuned Energy Transfer Chainstay, cold forged dropout with replaceable hanger</material>
+                <size>44</size>
+                <size>47</size>
+                <size>50</size>
+                <size>53</size>
+                <size>55</size>
+                <size>58</size>
+            </frame>
+            <fork>
+                <material> Fuji FC-330 Carbon Monocoque Integrated 1 1/8&amp;#8243; Carbon steerer , 350g</material>
+            </fork>
+            <components name="Brake Levers">Shimano Dura Ace STI</components>
+            <components name="Seat Post">Ritchey Carbon WCS Oversize 1-Bolt, 300mm</components>
+            <components name="Saddle">Prologo C.150-Ti Carbon base w/Hollow Ti rail</components>
+            <components name="Stem">Ritchey WCS 4Axis Carbon Alloy Matrix, +/-6 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 34.9mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji Custom Micro-fibre wrap</components>
+            <components name="Handlebar">Ritchey WCS EVO Carbon 31.8mm Road</components>
+            <components name="Headset">Cane Creek IS-8I 1 1/8&amp;#8243; Integrated Road, w/Carbon topcap and InterLoc spacers</components>
+            <components name="Brake Set">Shimano Dura Ace dual pivot w/cartridge pads</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.5</current>
+                <votes>30.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji sl 1 rc sram road bike</name>
+            <price>$6,150</price>
+            <year>2010</year>
+            <frame>
+                <material> C-10 SuperLite Monocoque High Modulus carbon with 3K, Integrated aluminum cupped head tube, Double water bottle mounts.  C-10 SuperLite High Modulus carbon stays with shaped ride tuned Energy Transfer Chainstay, cold forged dropout with replaceable hanger</material>
+                <size>44</size>
+                <size>47</size>
+                <size>50</size>
+                <size>53</size>
+                <size>55</size>
+                <size>58</size>
+            </frame>
+            <fork>
+                <material> Fuji FC-330 Carbon Monocoque Integrated 1 1/8&amp;#8243; Carbon steerer, 350g</material>
+            </fork>
+            <components name="Brake Levers">SRAM RED Double Tap</components>
+            <components name="Seat Post">Ritchey Carbon WCS Oversize 1-Bolt, 300mm</components>
+            <components name="Saddle">Prologo C.ONE50-Ti Carbon base w/Hollow Ti rail</components>
+            <components name="Stem">Ritchey WCS 4Axis Carbon Alloy Matrix, +/-6 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 34.9mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji Custom Micro-fibre wrap</components>
+            <components name="Handlebar">Ritchey WCS EVO Carbon 31.8mm Road</components>
+            <components name="Headset">Cane Creek IS-8I 1 1/8&amp;#8243; Integrated Road, with Carbon convex topcap and InterLoc spacers</components>
+            <components name="Brake Set">SRAM RED dual pivot w/cartridge pads</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.83</current>
+                <votes>41.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji sl 1 rc fuji servetto road bike</name>
+            <price>$6,300</price>
+            <year>2010</year>
+            <frame>
+                <material> C-10 SuperLite Monocoque High Modulus carbon with 3K, Integrated aluminum cupped head tube, Double water bottle mounts.  C-10 SuperLite High Modulus carbon stays with shaped ride tuned Energy Transfer Chainstay, cold forged dropout with replaceable hanger</material>
+                <size>44</size>
+                <size>47</size>
+                <size>50</size>
+                <size>53</size>
+                <size>55</size>
+                <size>58</size>
+            </frame>
+            <fork>
+                <material> Fuji FC-330 Carbon Monocoque Integrated 1 1/8&amp;#8243; Carbon steerer, 350g</material>
+            </fork>
+            <components name="Brake Levers">SRAM RED Double Tap</components>
+            <components name="Seat Post">Oval Concepts R-900 Carbon Oversize 2-Bolt, 300mm</components>
+            <components name="Saddle">Prologo Sctatch Custom Team w/Pro Ti rail</components>
+            <components name="Stem">Oval Concept R-900 Carbon, +/-6 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 34.9mm Laser Etched</components>
+            <components name="Tape/Grip">Prologo Pro Touch Team Micro-fibre wrap</components>
+            <components name="Handlebar">Oval Concept R-900 Carbon 31.8mm Road</components>
+            <components name="Headset">Tange IS-24CL 1 1/8&amp;#8243; Integrated Road, with Carbon convex topcap</components>
+            <components name="Brake Set">SRAM RED dual pivot w/cartridge pads</components>
+            <rating>
+                <max>5.0</max>
+                <current>4.25</current>
+                <votes>4.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji sl 1 pro shimano road bike</name>
+            <price>$3,650</price>
+            <year>2010</year>
+            <frame>
+                <material> C-7 Monocoque High Modulus carbon with UD-Marble finish, Integrated aluminum cupped head tube, Double water bottle mounts.  C-7 High Modulus carbon stays with shaped ride tuned Energy Transfer Chainstay, cold forged dropout with replaceable hanger</material>
+                <size>44</size>
+                <size>47</size>
+                <size>50</size>
+                <size>53</size>
+                <size>55</size>
+                <size>58</size>
+            </frame>
+            <fork>
+                <material> Fuji FC-440 Carbon Monocoque Integrated 1 1/8&amp;#8243; Carbon steerer, 420g</material>
+            </fork>
+            <components name="Brake Levers">NEW Shimano Ultegra STI</components>
+            <components name="Seat Post">Fuji PGC 7075 Aluminum Oversize 1-Bolt, 300mm</components>
+            <components name="Saddle">Prologo Nago EVO</components>
+            <components name="Stem">Fuji PGC 7075 Aluminum, +/-5 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 34.9mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji Custom Micro-fibre wrap</components>
+            <components name="Handlebar">Fuji PGC Double Butted 7075 Aluminum, 31.8mm Road</components>
+            <components name="Headset">Cane Creek IS-2I 1 1/8&amp;#8243; Integrated Road, w/Alloy topcap and InterLoc spacers</components>
+            <components name="Brake Set">NEW Shimano Ultegra dual pivot w/cartridge pads</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.61</current>
+                <votes>69.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji sl 1 pro sram road bike</name>
+            <price>$4,700</price>
+            <year>2010</year>
+            <frame>
+                <material> C-7 Monocoque High Modulus carbon with UD-Marble finish, Integrated aluminum cupped head tube, Double water bottle mounts.  C-7 High Modulus carbon stays with shaped ride tuned Energy Transfer Chainstay, cold forged dropout with replaceable hanger</material>
+                <size>44</size>
+                <size>47</size>
+                <size>50</size>
+                <size>53</size>
+                <size>55</size>
+                <size>58</size>
+            </frame>
+            <fork>
+                <material> Fuji FC-440 Carbon Monocoque Integrated 1 1/8&amp;#8243; Carbon steerer, 420g</material>
+            </fork>
+            <components name="Brake Levers">NEW SRAM Force Double Tap</components>
+            <components name="Seat Post">Fuji PGC 7075 Aluminum Oversize 1-Bolt, 300mm</components>
+            <components name="Saddle">Prologo Nago EVO</components>
+            <components name="Stem">Fuji PGC 7075 Aluminum, +/-5 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 34.9mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji Custom Micro-fibre wrap</components>
+            <components name="Handlebar">Fuji PGC Double Butted 7075 Aluminum, 31.8mm Road</components>
+            <components name="Headset">Cane Creek IS-2I 1 1/8&amp;#8243; Integrated Road w/Alloy convex topcap and InterLoc spacers</components>
+            <components name="Brake Set">NEW SRAM Force dual pivot w/cartridge pads</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.82</current>
+                <votes>50.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji sl 1 comp shimano road bike</name>
+            <price>$2,150</price>
+            <year>2010</year>
+            <frame>
+                <material> Monoque C-4 carbon with 12K weave carbon strands, Integrated aluminum cupped head tube, Double water bottle mounts.  C-4 carbon stays with shaped ride tuned Energy Transfer Chainstay, cold forged dropout with replaceable hanger</material>
+                <size>44</size>
+                <size>47</size>
+                <size>50</size>
+                <size>53</size>
+                <size>55</size>
+                <size>58</size>
+            </frame>
+            <fork>
+                <material> Fuji FC-770 Bonded Carbon Integrated w/ 1 1/8&amp;#8243; Alloy Steerer</material>
+            </fork>
+            <components name="Brake Levers">Shimano 105 STI</components>
+            <components name="Seat Post">Fuji PGC 7075 Aluminum Oversize 1-Bolt, 300mm</components>
+            <components name="Saddle">Prologo Nago PASS</components>
+            <components name="Stem">Fuji PGC 7075 Aluminum, +/-5 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 34.9mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji Custom Micro-fibre wrap</components>
+            <components name="Handlebar">Fuji PGC Double Butted 7075 Aluminum, 31.8mm Road</components>
+            <components name="Headset">Tange IS-24 1 1/8&amp;#8243; Integrated Road w/20mm convex hollow top cap</components>
+            <components name="Brake Set">Shimano 105 dual pivot/cartridge pad</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.76</current>
+                <votes>29.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji sl 1 comp sram road bike</name>
+            <price>$2,250</price>
+            <year>2010</year>
+            <frame>
+                <material> Monoque C-4 carbon with 12K weave carbon strands, Integrated aluminum cupped head tube, Double water bottle mounts.  C-4 carbon stays with shaped ride tuned Energy Transfer Chainstay, cold forged dropout with replaceable hanger</material>
+                <size>44</size>
+                <size>47</size>
+                <size>50</size>
+                <size>53</size>
+                <size>55</size>
+                <size>58</size>
+            </frame>
+            <fork>
+                <material> Fuji FC-770 Bonded Carbon Integrated w/ 1 1/8&amp;#8243; Alloy Steerer</material>
+            </fork>
+            <components name="Brake Levers">SRAM Rival Carbon</components>
+            <components name="Seat Post">Fuji PGC 7075 Aluminum Oversize 1-Bolt, 300mm</components>
+            <components name="Saddle">Prologo Nago PASS</components>
+            <components name="Stem">Fuji PGC 7075 Aluminum, +/-5 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 34.9mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji Custom Micro-fibre wrap</components>
+            <components name="Handlebar">Fuji PGC Double Butted 7075 Aluminum, 31.8mm Road</components>
+            <components name="Headset">Tange IS-24 1 1/8&amp;#8243; Integrated Road w/20mm convex hollow top cap</components>
+            <components name="Brake Set">SRAM Rival dual pivot/cartridge pad</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.64</current>
+                <votes>36.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji sl 1 comp fuji servetto road bike</name>
+            <price>$2,375</price>
+            <year>2010</year>
+            <frame>
+                <material> Monoque C-4 carbon with 12K weave carbon strands, Integrated aluminum cupped head tube, Double water bottle mounts.  C-4 carbon stays with shaped ride tuned Energy Transfer Chainstay, cold forged dropout with replaceable hanger</material>
+                <size>44</size>
+                <size>47</size>
+                <size>50</size>
+                <size>53</size>
+                <size>55</size>
+                <size>58</size>
+            </frame>
+            <fork>
+                <material> Fuji FC-770 Bonded Carbon Integrated w/ 1 1/8&amp;#8243; Alloy Steerer</material>
+            </fork>
+            <components name="Brake Levers">SRAM Rival Carbon</components>
+            <components name="Seat Post">Oval Concept R-300 Aluminum Oversize, 300mm</components>
+            <components name="Saddle">Prologo Nago PASS</components>
+            <components name="Stem">Oval Concept R-300 Aluminum, +/-6 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 34.9mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji Custom Micro-fibre wrap</components>
+            <components name="Handlebar">Oval Concept R-300 Aluminum, 31.8mm Road</components>
+            <components name="Headset">Tange IS-24 1 1/8&amp;#8243; Integrated Road w/20mm convex hollow top cap</components>
+            <components name="Brake Set">SRAM Rival dual pivot/cartridge pad</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.61</current>
+                <votes>56.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji sst 1 0 road bike</name>
+            <price>$6,300</price>
+            <year>2010</year>
+            <frame>
+                <material> NEW Fuji T-T High Modulus C-7 carbon w/RIB Tech, Integrated aluminum cupped head tube w/1 1/4&amp;#8243; lower, Integrates Aero seat tube, Internalcable routing, Oversized PIIS BB shell, Double water bottle mounts.  High Modulus C-7 carbon thin seat stays, Oversized chain stay w/ETC and forged alloy drop out w/replaceable hanger</material>
+                <size>50</size>
+                <size>52</size>
+                <size>54</size>
+                <size>56</size>
+                <size>58</size>
+                <size>60</size>
+            </frame>
+            <fork>
+                <material> NEW Fuji FC-330 Carbon Monocoque w/RIB Tech &amp;#038; Integrated 1 1/8&amp;#8243; Carbon steerer</material>
+            </fork>
+            <components name="Brake Levers">Shimano Dura Ace STI</components>
+            <components name="Seat Post">IST &amp;#8211; Integrated Seat Tube</components>
+            <components name="Saddle">Prologo C.ONE50-Ti Carbon base w/Hollow Ti rail</components>
+            <components name="Stem">Ritchey WCS 4Axis Carbon 31.8mm, +/-6 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Ritchey WCS AERO Stubby Aero</components>
+            <components name="Tape/Grip">Fuji Custom Micro-fibre wrap</components>
+            <components name="Handlebar">Ritchey Carbon WCS EVO SL 31.8mm</components>
+            <components name="Headset">FSA No. 42 1 1/8&amp;#8243;U- 1 1/2&amp;#8243;L Integrated, w/Carbon convex topcap</components>
+            <components name="Brake Set">Shimano Dura Ace dual pivot w/cartridge pads</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.85</current>
+                <votes>74.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji sst 2 0 road bike</name>
+            <price>$3,575</price>
+            <year>2010</year>
+            <frame>
+                <material> NEW Fuji T-T C-4 carbon w/Marble UD carbon, Integrated aluminum cupped head tube w/1 1/4&amp;#8243; lower, Integrates Aero seat tube, Internalcable routing, Oversized PIIS BB shell, Double water bottle mounts.  C-4 carbon thin seat stays, Oversized chain stay w/ETC and forged alloy drop out w/replaceable hanger</material>
+                <size>50</size>
+                <size>52</size>
+                <size>54</size>
+                <size>56</size>
+                <size>58</size>
+                <size>60</size>
+            </frame>
+            <fork>
+                <material> NEW Fuji FC-440 Carbon Monocoque Integrated 1 1/8&amp;#8243; Carbon steerer</material>
+            </fork>
+            <components name="Brake Levers">NEW Shimano Ultegra STI</components>
+            <components name="Seat Post">IST &amp;#8211; Integrated Seat Tube</components>
+            <components name="Saddle">Prologo Nago EVO</components>
+            <components name="Stem">Fuji PGC 7075 Aluminum 31.8mm Road,+/-6 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Ritchey WCS AERO Stubby Aero</components>
+            <components name="Tape/Grip">Fuji Custom Micro-fibre wrap</components>
+            <components name="Handlebar">Fuji PGC Double Butted 7075 Aluminum 31.8mm Road</components>
+            <components name="Headset">FSA No. 42 1 1/8&amp;#8243;U- 1 1/2&amp;#8243;L Integrated, w/Alloy convex topcap</components>
+            <components name="Brake Set">NEW Shimano Ultegra dual pivot w/cartridge pad</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.66</current>
+                <votes>127.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji sst 3 0 road bike</name>
+            <price>$2,575</price>
+            <year>2010</year>
+            <frame>
+                <material> NEW Fuji T-T C-4 carbon w/Marble UD carbon, Integrated aluminum cupped head tube w/1 1/4&amp;#8243; lower, Integrates Aero seat tube, Internalcable routing, Oversized PIIS BB shell, Double water bottle mounts.  C-4 carbon thin seat stays, Oversized chain stay w/ETC and forged alloy drop out w/replaceable hanger</material>
+                <size>50</size>
+                <size>52</size>
+                <size>54</size>
+                <size>56</size>
+                <size>58</size>
+                <size>60</size>
+            </frame>
+            <fork>
+                <material> NEW Fuji FC-440 Carbon Monocoque Integrated 1 1/8&amp;#8243; Carbon steerer</material>
+            </fork>
+            <components name="Brake Levers">Shimano 105 STI</components>
+            <components name="Seat Post">IST &amp;#8211; Integrated Seat Tube</components>
+            <components name="Saddle">Prologo Nago PASS</components>
+            <components name="Stem">Fuji PGC 7075 Aluminum 31.8mm Road,+/-6 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Ritchey WCS AERO Stubby Aero</components>
+            <components name="Tape/Grip">Fuji Custom Micro-fibre wrap</components>
+            <components name="Handlebar">Fuji PGC Double Butted 7075 Aluminum 31.8mm Road</components>
+            <components name="Headset">FSA No. 42 1 1/8&amp;#8243;U- 1 1/2&amp;#8243;L Integrated, w/Alloy convex topcap</components>
+            <components name="Brake Set">Shimano 105 dual pivot w/cartridge pads</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.39</current>
+                <votes>227.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji roubaix acr 1 0 road bike</name>
+            <price>$1,825</price>
+            <year>2010</year>
+            <frame>
+                <material> NEW Fuji Altair 2 custom butted aluminum Integrated 1 1/4&amp;#8243; lower head tube, BB-30 bb shell, Ovalized seat tube, Double water bottle mounts.  Fuji C-4 carbon seat stays, Altair 2 aluminum ETC chain stays, Forged road dropout with replaceable derailleur hanger</material>
+                <size>46</size>
+                <size>49</size>
+                <size>52</size>
+                <size>54</size>
+                <size>56</size>
+                <size>58</size>
+                <size>61</size>
+                <size>64</size>
+            </frame>
+            <fork>
+                <material> NEW FC-770 Fuji Bonded Carbon Integrated w/ 1 1/8&amp;#8243; Alloy Steerer</material>
+            </fork>
+            <components name="Brake Levers">Shimano 105 STI</components>
+            <components name="Seat Post">Fuji CGC Butted Oversize Alloy, 250mm</components>
+            <components name="Saddle">Fuji PGC UltraLite Racing</components>
+            <components name="Stem">Fuji CGC Alloy 3D forged, +/-7 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 34.9mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji custom cork wrap</components>
+            <components name="Handlebar">Fuji CGC Double Butted 6061, 31.8mm w/Anatomical drops</components>
+            <components name="Headset">Tange 1 1/8&amp;#8243;U-1 1/4&amp;#8243;L Integrated Road, with convex hollow top cap</components>
+            <components name="Brake Set">Shimano 105 dual pivot w/cartridge pads</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.62</current>
+                <votes>138.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji roubaix acr 2 0 road bike</name>
+            <price>$1,500</price>
+            <year>2010</year>
+            <frame>
+                <material> NEW Fuji Altair 2 custom butted aluminum Integrated 1 1/4&amp;#8243; lower head tube, BB-30 bb shell, Ovalized seat tube, Double water bottle mounts.  Fuji C-4 carbon seat stays, Altair 2 aluminum ETC chain stays, Forged road dropout with replaceable derailleur hanger,</material>
+                <size>46</size>
+                <size>49</size>
+                <size>52</size>
+                <size>54</size>
+                <size>56</size>
+                <size>58</size>
+                <size>61</size>
+                <size>64</size>
+            </frame>
+            <fork>
+                <material> NEW FC-770 Fuji Bonded Carbon Integrated w/ 1 1/8&amp;#8243; Alloy Steerer</material>
+            </fork>
+            <components name="Brake Levers">Shimano 105 STI</components>
+            <components name="Seat Post">Fuji CGC Butted Oversize Alloy, 250mm</components>
+            <components name="Saddle">Fuji PGC UltraLite Racing</components>
+            <components name="Stem">Fuji CGC Alloy 3D forged, +/-7 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 34.9mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji custom cork wrap</components>
+            <components name="Handlebar">Fuji CGC Double Butted 6061, 31.8mm w/Anatomical drops</components>
+            <components name="Headset">Tange 1 1/8&amp;#8243;U-1 1/4&amp;#8243;L Integrated Road, with convex hollow top cap</components>
+            <components name="Brake Set">Shimano 105 dual pivot w/cartridge pads</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.58</current>
+                <votes>281.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji roubaix acr 3 0 road bike</name>
+            <price>$1,250</price>
+            <year>2010</year>
+            <frame>
+                <material> NEW Fuji Altair 2 custom butted aluminum Integrated 1 1/4&amp;#8243; lower head tube, BB-30 bb shell, Ovalized seat tube, Double water bottle mounts.  Fuji C-4 carbon seat stays, Altair 2 aluminum ETC chain stays, Forged road dropout with replaceable derailleur hanger</material>
+                <size>46</size>
+                <size>49</size>
+                <size>52</size>
+                <size>54</size>
+                <size>56</size>
+                <size>58</size>
+                <size>61</size>
+                <size>64</size>
+            </frame>
+            <fork>
+                <material> NEW FC-770 Fuji Bonded Carbon Integrated w/ 1 1/8&amp;#8243; Alloy Steerer</material>
+            </fork>
+            <components name="Brake Levers">Shimano Tiagra STI</components>
+            <components name="Seat Post">Fuji CGC Butted Oversize Alloy, 250mm</components>
+            <components name="Saddle">Fuji PGC UltraLite Racing</components>
+            <components name="Stem">Fuji CGC Alloy 3D forged, +/-7 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 34.9mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji custom cork wrap</components>
+            <components name="Handlebar">Fuji CGC Double Butted 6061, 31.8mm w/Anatomical drops</components>
+            <components name="Headset">Tange 1 1/8&amp;#8243;U-1 1/4&amp;#8243;L Integrated Road, with convex hollow top cap</components>
+            <components name="Brake Set">Shimano Tiagra dual pivot</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.6</current>
+                <votes>194.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji roubaix 1 0 road bike</name>
+            <price>$1,250</price>
+            <year>2010</year>
+            <frame>
+                <material> NEW Fuji Altair 2 custom butted aluminum, Integrated 1 1/8&amp;#8243; head tube, Standard seat tube &amp;#038; BB shell, Double water bottle mounts.  Fuji Altair 2 aluminum chain stays, Forged road dropout with replaceable derailleur hanger</material>
+                <size>46</size>
+                <size>49</size>
+                <size>52</size>
+                <size>54</size>
+                <size>56</size>
+                <size>58</size>
+                <size>61</size>
+            </frame>
+            <fork>
+                <material> FC-770 Fuji Bonded Carbon Integrated w/ 1 1/8&amp;#8243; Alloy Steerer</material>
+            </fork>
+            <components name="Brake Levers">SRAM Rival Carbon DoubleTap</components>
+            <components name="Seat Post">Fuji CGC Butted Oversize Alloy, 250mm</components>
+            <components name="Saddle">Fuji CGC Racing</components>
+            <components name="Stem">Fuji CGC Alloy 3D forged, +/-7 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 31.8mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji custom cork wrap</components>
+            <components name="Handlebar">Fuji CGC Double Butted 6061, 31.8mm w/Anatomical drops</components>
+            <components name="Headset">Tange IS-24 1 1/8&amp;#8243; Integrated Road</components>
+            <components name="Brake Set">Tektro R-580 dual pivot w/cartridge pads</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.69</current>
+                <votes>166.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji roubaix 2 0 road bike</name>
+            <price>$925</price>
+            <year>2010</year>
+            <frame>
+                <material> NEW Fuji Altair 2 custom butted aluminum, Integrated 1 1/8&amp;#8243; head tube, Standard seat tube &amp;#038; BB shell, Double water bottle mounts.  Fuji Altair 2 aluminum chain stays, Forged road dropout with replaceable derailleur hanger.</material>
+                <size>46</size>
+                <size>49</size>
+                <size>52</size>
+                <size>54</size>
+                <size>56</size>
+                <size>58</size>
+                <size>61</size>
+            </frame>
+            <fork>
+                <material> FC-770 Fuji Bonded Carbon Integrated w/ 1 1/8&amp;#8243; Alloy Steerer</material>
+            </fork>
+            <components name="Brake Levers">Shimano Tiagra STI</components>
+            <components name="Seat Post">Fuji CGC Butted Oversize Alloy, 250mm</components>
+            <components name="Saddle">Fuji CGC Racing</components>
+            <components name="Stem">Fuji CGC Alloy 3D forged, +/-7 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 31.8mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji custom cork wrap</components>
+            <components name="Handlebar">Fuji CGC Double Butted 6061, 31.8mm w/Anatomical drops</components>
+            <components name="Headset">Tange IS-24 1 1/8&amp;#8243; Integrated Road</components>
+            <components name="Brake Set">Tektro R-520 dual pivot w/Cartridge Pads</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.69</current>
+                <votes>204.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji roubaix 3 0 road bike</name>
+            <price>$875</price>
+            <year>2010</year>
+            <frame>
+                <material> NEW Fuji Altair 2 custom butted aluminum, Integrated 1 1/8&amp;#8243; head tube, Standard seat tube &amp;#038; BB shell, Double water bottle mounts.  Fuji Altair 2 aluminum chain stays, Forged road dropout with replaceable derailleur hanger</material>
+                <size>49</size>
+                <size>52</size>
+                <size>54</size>
+                <size>56</size>
+                <size>58</size>
+                <size>61</size>
+            </frame>
+            <fork>
+                <material> FC-770 Fuji Bonded Carbon Integrated w/ 1 1/8&amp;#8243; Alloy Steerer</material>
+            </fork>
+            <components name="Brake set">Tektro R-320 dual pivot</components>
+            <components name="Brake Levers">Shimano Sora STI</components>
+            <components name="Seat Post">Fuji CGC Butted Oversize Alloy, 250mm</components>
+            <components name="Saddle">Fuji CGC Racing</components>
+            <components name="Stem">Fuji CGC Alloy 3D forged, +/-7 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 31.8mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji custom cork wrap</components>
+            <components name="Handlebar">Fuji CGC Double Butted 6061, 31.8mm w/Anatomical drops</components>
+            <components name="Headset">Tange IS-24 1 1/8&amp;#8243; Integrated Road</components>
+            <components name="Brake Set">Tektro R-520 dual pivot w/Cartridge Pads</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.61</current>
+                <votes>94.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji newest 1 0 road bike</name>
+            <price>$1,100</price>
+            <year>2010</year>
+            <frame>
+                <material> Fuji Altair 1 Compact aluminum with Power Diamond shape down tube, Double water bottle mounts.  Fuji Altair 1 aluminum curved seat stay w/rack mount, Forged road dropout with replaceable derailleur hanger</material>
+                <size>42</size>
+                <size>46</size>
+                <size>50</size>
+                <size>54</size>
+                <size>58</size>
+            </frame>
+            <fork>
+                <material> FC-770 Fuji Bonded Carbon Integrated w/ 1 1/8&amp;#8243; Alloy Steerer</material>
+            </fork>
+            <components name="Brake set">Tektro R-320 dual pivot</components>
+            <components name="Brake Levers">Tektro RL-570 Top Mount</components>
+            <components name="Seat Post">Fuji Comp MicroAdjust Forged Alloy, 350mm</components>
+            <components name="Saddle">Fuji Road Sport Anatomical</components>
+            <components name="Stem">Fuji Adjustable Road, 1 1/8&amp;#8243; threadless</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 31.8mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji custom cork wrap</components>
+            <components name="Handlebar">Fuji 6061 Butted Road, 26mm Anatomical Drops</components>
+            <components name="Headset">V.P. 1 1/8&amp;#8243; Standard Semi Cartridge w/Convex Alloy spacer</components>
+            <components name="Brake Set">Tektro R-350 dual pivot</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.4</current>
+                <votes>150.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji newest 2 0 road bike</name>
+            <price>$875</price>
+            <year>2010</year>
+            <frame>
+                <material> Fuji Altair 1 Compact aluminum with Power Diamond shape down tube, Double water bottle mounts.  Fuji Altair 1 aluminum curved seat stay w/rack mount, Forged road dropout with replaceable derailleur hanger</material>
+                <size>42</size>
+                <size>46</size>
+                <size>50</size>
+                <size>54</size>
+                <size>58</size>
+            </frame>
+            <fork>
+                <material> FC-770 Fuji Bonded Carbon Integrated w/ 1 1/8&amp;#8243; Alloy Steerer</material>
+            </fork>
+            <components name="Brake set">Tektro R-310 Forged AL, dual pivot</components>
+            <components name="Brake Levers">Tektro RL-570 Top Mount</components>
+            <components name="Seat Post">Fuji Comp Micro Adjust alloy, 350mm</components>
+            <components name="Saddle">Fuji Road Sport Anatomical</components>
+            <components name="Stem">Fuji Adjustable Road, 1 1/8&amp;#8243; threadless</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 31.8mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji custom cork wrap</components>
+            <components name="Handlebar">Fuji 6061 Butted Road, 26mm Anatomical Drops</components>
+            <components name="Headset">V.P. 1 1/8&amp;#8243; Standard Semi Cartridge w/Convex Alloy spacer</components>
+            <components name="Brake Set">Tektro R-350 dual pivot</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.74</current>
+                <votes>38.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji newest 3 0 road bike</name>
+            <price>$780</price>
+            <year>2010</year>
+            <frame>
+                <material> Fuji Altair 1 Compact aluminum with traditional round down tube, Double water bottle mounts</material>
+                <size>42</size>
+                <size>46</size>
+                <size>50</size>
+                <size>54</size>
+                <size>58</size>
+            </frame>
+            <fork>
+                <material> FC-990 Fuji Bonded Carbon w/ 1 1/8&amp;#8243; Cro-Mo Steerer</material>
+            </fork>
+            <components name="Brake set">Tektro R-310 Forged AL, dual pivot</components>
+            <components name="Brake Levers">Tektro RL-570 Top Mount</components>
+            <components name="Seat Post">Fuji Comp Alloy Micro Adjust, 350mm</components>
+            <components name="Saddle">Fuji Road Sport Anatomical</components>
+            <components name="Stem">Fuji Adjustable Road Aluminum, Removable Clamp</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 31.8mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji custom cork wrap</components>
+            <components name="Handlebar">Fuji Alloy Road</components>
+            <components name="Headset">VP A-88 Sealed 1 1/8&amp;#8243;</components>
+            <components name="Brake Set">Tektro R-310 Forged AL, dual pivot</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.71</current>
+                <votes>156.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji newest 4 0 road bike</name>
+            <price>$550</price>
+            <year>2010</year>
+            <frame>
+                <material> Fuji Altair 1 Compact aluminum with traditional round down tube, Double water bottle mounts.  Fuji Altair 1 aluminum curved seat stay w/rack mount, Forged road dropout with replaceable derailleur hanger</material>
+                <size>42</size>
+                <size>46</size>
+                <size>50</size>
+                <size>54</size>
+                <size>58</size>
+            </frame>
+            <fork>
+                <material> Fuji 1 1/8&amp;#8243; custom tapered Cro-Moly, Aero Road</material>
+            </fork>
+            <components name="Brake set">Tektro R-310 Forged AL, dual pivot</components>
+            <components name="Brake Levers">Tektro RL-570 Top Mount</components>
+            <components name="Seat Post">Fuji Comp Alloy Micro Adjust, 350mm</components>
+            <components name="Saddle">Fuji Road Sport Anatomical Saddle</components>
+            <components name="Stem">Fuji Adjustable Road Aluminum, Removable Clamp</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 31.8mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji custom cork wrap</components>
+            <components name="Handlebar">Fuji Alloy Road</components>
+            <components name="Headset">VP A-88 Sealed 1 1/8&amp;#8243;</components>
+            <components name="Brake Set">Tektro R-310 Forged AL, dual pivot</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.71</current>
+                <votes>68.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji finest 1 0 womens road bike</name>
+            <price>$1,100</price>
+            <year>2010</year>
+            <frame>
+                <material> Fuji Compact Altair 2 lite custom butted aluminum with Diamond down tube, Double water bottle mounts.  Fuji Altair 2 custom tapered aluminum, Fuji forged road dropout with replaceable derailleur hanger</material>
+                <size>44</size>
+                <size>47</size>
+                <size>50</size>
+                <size>53</size>
+            </frame>
+            <fork>
+                <material> FC-770 Fuji Bonded Carbon Integrated w/ 1 1/8&amp;#8243; Alloy Steerer</material>
+            </fork>
+            <components name="Brake set">Tektro R-310 Forged AL, dual pivot</components>
+            <components name="Brake Levers">n/a</components>
+            <components name="Seat Post">Fuji CGC Forged Alloy, 350mm</components>
+            <components name="Saddle">Fuji WoS.O. Specific</components>
+            <components name="Stem">Fuji CGC AL forged , +/-7 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 31.8mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji custom cork wrap</components>
+            <components name="Handlebar">Fuji CGC 6061 Double Butted, 31.8mm w/Anatomical drops</components>
+            <components name="Headset">V.P. 1 1/8&amp;#8243; Standard Semi Cartridge, with convex hollow alloy spacer</components>
+            <components name="Brake Set">Tektro R-310 Forged alloy, Dual Pivot</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.0</current>
+                <votes>49.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji finest 2 0 womens road bike</name>
+            <price>$895</price>
+            <year>2010</year>
+            <frame>
+                <material> Fuji Compact Altair 1 aluminum with Diamond down tube, Double water bottle mounts.  Fuji Altair 1 aluminum, Fuji forged road dropout with replaceable derailleur hanger</material>
+                <size>44</size>
+                <size>47</size>
+                <size>50</size>
+                <size>53</size>
+            </frame>
+            <fork>
+                <material> FC-770 Fuji Bonded Carbon Integrated w/ 1 1/8&amp;#8243; Alloy Steerer</material>
+            </fork>
+            <components name="Brake set">Tektro R-310 Forged AL, dual pivot</components>
+            <components name="Brake Levers">Tektro RL-570 Top Mount</components>
+            <components name="Seat Post">Fuji Comp Micro Adjust alloy, 350mm</components>
+            <components name="Saddle">Fuji WoS.O. Specific</components>
+            <components name="Stem">Fuji Adjustable Road, 1 1/8&amp;#8243; threadless</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 31.8mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji custom cork wrap</components>
+            <components name="Handlebar">Fuji 6061 Butted Road, 26mm Anatomical Drops</components>
+            <components name="Headset">V.P. 1 1/8&amp;#8243; Standard Semi Cartridge, with convex hollow alloy spacer</components>
+            <components name="Brake Set">Tektro R-310 Forged AL, dual pivot</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji finest 3 0 womens road bike</name>
+            <price>$790</price>
+            <year>2010</year>
+            <frame>
+                <material> Fuji Compact Altair 1 aluminum with Diamond down tube, Double water bottle mounts.  Fuji Altair 1 aluminum, Fuji forged road dropout with replaceable derailleur hanger</material>
+                <size>44</size>
+                <size>47</size>
+                <size>50</size>
+                <size>53</size>
+            </frame>
+            <fork>
+                <material> FC-990 Fuji Bonded Carbon Integrated w/ 1 1/8&amp;#8243; Cro-mo Steerer</material>
+            </fork>
+            <components name="Brake set">Tektro R-310 Forged AL, dual pivot</components>
+            <components name="Brake Levers">Tektro RL-570 Top Mount</components>
+            <components name="Seat Post">Fuji Comp Micro Adjust alloy, 350mm</components>
+            <components name="Saddle">Fuji WoS.O. Specific</components>
+            <components name="Stem">Fuji Adjustable Road, 1 1/8&amp;#8243; threadless</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 31.8mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji custom cork wrap</components>
+            <components name="Handlebar">Fuji 6061 Butted Road, 26mm Anatomical Drops</components>
+            <components name="Headset">V.P. 1 1/8&amp;#8243; Standard Semi Cartridge, with convex hollow alloy spacer</components>
+            <components name="Brake Set">Tektro R-310 Forged AL, dual pivot</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.01</current>
+                <votes>70.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji connoisseur road bike</name>
+            <price>$1,000</price>
+            <year>2010</year>
+            <frame>
+                <material> Reynolds 725 Double butted cro-moly.  Fuji Cro-Mo Custom tapered</material>
+                <size>49</size>
+                <size>52</size>
+                <size>54</size>
+                <size>56</size>
+                <size>58</size>
+                <size>61</size>
+            </frame>
+            <fork>
+                <material> Fuji Cro-Mo, 1&amp;#8243; Threaded Lugged</material>
+            </fork>
+            <components name="Brake set">Tektro R-310 Forged AL, dual pivot</components>
+            <components name="Brake Levers">Tektro R200A</components>
+            <components name="Seat Post">Fuji Micro-Adjust Alloy, 27.2,300mm</components>
+            <components name="Saddle">Fuji Classic Comfort w/ Rivet</components>
+            <components name="Stem">Fuji Classic Alloy Quill</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 31.8mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji Custom Classic Eva Foam</components>
+            <components name="Handlebar">Fuji Alloy</components>
+            <components name="Headset">Tange Sealed, 1&amp;#8243; Threaded</components>
+            <components name="Brake Set">Dia-Comp BRS-101, Dual Pivot</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.54</current>
+                <votes>102.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji touring road bike</name>
+            <price>$1,100</price>
+            <year>2010</year>
+            <frame>
+                <material> Fuji Elios 2 custom butted Cro-Moly with outer butted seat tube, Double water bottle mounts.  Fuji Elios 2 custom tapered Cro-Moly with forged dropout, eyelets, spare spoke holder, rack mounts</material>
+                <size>49</size>
+                <size>54</size>
+                <size>56</size>
+                <size>58</size>
+                <size>64</size>
+            </frame>
+            <fork>
+                <material> Fuji 1&amp;#8243; Custom Tapered Cro-Moly, with Low Rider mounts</material>
+            </fork>
+            <components name="Brake set">Tektro R-310 Forged AL, dual pivot</components>
+            <components name="Brake Levers">Shimano Tiagra STI</components>
+            <components name="Seat Post">Fuji Superlite Micro Adjust alloy, 250mm</components>
+            <components name="Saddle">Fuji Road Sport Anatomical Saddle</components>
+            <components name="Stem">Fuji Superlight Road Aluminum, 0 Degree, Removable Clamp</components>
+            <components name="Extras">Alloy rear carrier with stainless hardware</components>
+            <components name="Seat Clamp">Fuji Ultralite alloy, 28.6mm, Laser etched</components>
+            <components name="Tape/Grip">Fuji custom cork wrap</components>
+            <components name="Handlebar">Fuji 6061 Butted Road, Anatomical Drops</components>
+            <components name="Headset">Fuji 1&amp;#8243; Threaded Alloy Road W/Roller Bearing</components>
+            <components name="Brake Set">Tektro Oryx Mini Canti</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.11</current>
+                <votes>75.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji cross rc road bike</name>
+            <price>$2,400</price>
+            <year>2010</year>
+            <frame>
+                <material> NEW A-6 Quaternary phase custom btutted alloy, Flatten top tube &amp;#038; integrated head tube, Double water bottle mounts.  A-6 Quaternary phase custom btutted alloy, forged road dropout with replaceable derailleur hanger</material>
+                <size>49</size>
+                <size>52</size>
+                <size>54</size>
+                <size>56</size>
+                <size>58</size>
+                <size>61</size>
+            </frame>
+            <fork>
+                <material> FC-770 Fuji Bonded Carbon Cross w/ 1 1/8&amp;#8243; Al Steerer</material>
+            </fork>
+            <components name="Brake set">Tektro R-310 Forged AL, dual pivot</components>
+            <components name="Brake Levers">Tektro RL-951 Cross Top Mount</components>
+            <components name="Seat Post">FSA SLK Oversized Carbon, 300mm</components>
+            <components name="Saddle">Fuji PGC UltraLite Racing</components>
+            <components name="Stem">FSA SLK Forged AL, +/-6 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 34.9mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji custom cork wrap</components>
+            <components name="Handlebar">FSA SLK Oversizede Carbon, 31.8mm</components>
+            <components name="Headset">Tange IS-24iLBM 1 1/8&amp;#8243;U-1 1/4&amp;#8243;L Integrated Road</components>
+            <components name="Brake Set">TRP Eurox Cantilevers</components>
+            <rating>
+                <max>5.0</max>
+                <current>0.0</current>
+                <votes>0.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji cross pro road bike</name>
+            <price>$1,575</price>
+            <year>2010</year>
+            <frame>
+                <material> Fuji Altair 2 custom double butted and shaped with PowerDiamond down tube, integrated head tube, Double water bottle mounts.  Fuji custom butted aluminum, Fuji forged road dropout with replaceable derailleur hanger</material>
+                <size>49</size>
+                <size>52</size>
+                <size>54</size>
+                <size>56</size>
+                <size>58</size>
+                <size>61</size>
+            </frame>
+            <fork>
+                <material> FC-770 Fuji Bonded Carbon Cross w/ 1 1/8&amp;#8243; Al Steerer</material>
+            </fork>
+            <components name="Brake set">Tektro R-310 Forged AL, dual pivot</components>
+            <components name="Brake Levers">Tektro RL-721 Cross Top Mount</components>
+            <components name="Seat Post">Fuji PGC Forged Butted 7075 AL, 300mm</components>
+            <components name="Saddle">Fuji UltraLite Racing</components>
+            <components name="Stem">Fuji PGC 3D Forged 7075 AL, +/-5 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 31.8mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji custom cork wrap</components>
+            <components name="Handlebar">Fuji PGC Double Butted 7075 Aluminum</components>
+            <components name="Headset">Tange IS-24 1 1/8&amp;#8243; Integrated Road</components>
+            <components name="Brake Set">Avid Shorty 4 Cantilevers</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.05</current>
+                <votes>22.0</votes>
+            </rating>
+        </model>
+        <model>
+            <name>fuji cross comp road bike</name>
+            <price>$1,225</price>
+            <year>2010</year>
+            <frame>
+                <material> Fuji Altair 1 aluminum with PowerDiamond down tube, Integrated head tube, Double water bottle mounts.  Fuji custom shaped 6000 series aluminum, Fuji forged road dropout with replaceable derailleur hanger</material>
+                <size>49</size>
+                <size>52</size>
+                <size>54</size>
+                <size>56</size>
+                <size>58</size>
+                <size>61</size>
+            </frame>
+            <fork>
+                <material> FC-990 Fuji Bonded Carbon Cross w/ 1 1/8&amp;#8243; Cro-Mo Steerer</material>
+            </fork>
+            <components name="Brake set">Tektro R-310 Forged AL, dual pivot</components>
+            <components name="Brake Levers">Tektro RL-721 Cross Top Mount</components>
+            <components name="Seat Post">Fuji CGC Forged Alloy, 300mm</components>
+            <components name="Saddle">Fuji UltraLite Racing</components>
+            <components name="Stem">Fuji CGC Alloy 3D forged, +/-7 degree</components>
+            <components name="Extras">7075 alloy water bottle bolts</components>
+            <components name="Seat Clamp">Fuji Superlite Alloy, 31.8mm Laser Etched</components>
+            <components name="Tape/Grip">Fuji custom cork wrap</components>
+            <components name="Handlebar">Fuji CGC 6061 Double Butted, 31.8mm w/Anatomical drops</components>
+            <components name="Headset">Tange IS-24 1 1/8&amp;#8243; Integrated Road</components>
+            <components name="Brake Set">Tektro Oryx canti.</components>
+            <rating>
+                <max>5.0</max>
+                <current>3.75</current>
+                <votes>59.0</votes>
+            </rating>
+        </model>
+    </brand>
+</bikeList>

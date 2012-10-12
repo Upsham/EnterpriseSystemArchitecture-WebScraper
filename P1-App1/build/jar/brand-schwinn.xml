@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<brand>
+    <manufacturer>schwinn</manufacturer>
+    <model>
+        <name>schwinn fastback road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Schwinn N&amp;#8217;litened Aluminum with Road Tuned geometry and replaceable derailleur hanger.</material>
+        </frame>
+        <fork>
+            <material> Schwinn N&amp;#8217;Litened Aluminum Unicrown with forged dropouts</material>
+        </fork>
+        <components name="Seat Post"> Alloy micro adjust</components>
+        <components name="Brake Levers"> Shimano 2300 STI</components>
+        <components name="Rear Brake"> Radius AS-2.3D alloy road dual pivot caliper</components>
+        <components name="Saddle"> Road Tuned</components>
+        <components name="Stem"> Road Tuned 1 1/8&amp;#8243; threadless A-head for 31.8 bar</components>
+        <components name="Front Brake"> Radius AS-2.3D alloy road dual pivot caliper</components>
+        <components name="Extras"> alloy seat binder</components>
+        <components name="Handlebar"> Road Tuned 6000 series alloy ergonomic drop bar, 31.8</components>
+        <components name="Headset"> FSA Intellaset 1 1/8&amp;#8243; threadless</components>
+        <components name="Grips"> Road Tuned Gel tap</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.35</current>
+            <votes>43.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>schwinn le tour road bike</name>
+        <price>$699.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Schwinn N&amp;#8217;Litened Aluminum with Bio Tuned Ergonomic geometry and replaceable derailleur hanger.</material>
+        </frame>
+        <fork>
+            <material> Schwinn N&amp;#8217;Litened Aluminum Unicrown with forged dropouts</material>
+        </fork>
+        <components name="Seat Post"> Alloy micro adjust</components>
+        <components name="Brake Levers"> Shimano 2200 STI</components>
+        <components name="Rear Brake"> Tektro R 316 alloy long reach caliper</components>
+        <components name="Saddle"> Bio Tuned with two tone cover</components>
+        <components name="Stem"> Road Tuned 1 1/8&amp;#8243; threadless A-head for 31.8 bar</components>
+        <components name="Front Brake"> Tektro R 316 alloy long reach caliper</components>
+        <components name="Extras"> alloy seat binder</components>
+        <components name="Handlebar"> Road Tuned 6000 series alloy ergonomic drop bar, 31.8</components>
+        <components name="Headset"> FSA 1 1/8&amp;#8243; threadless</components>
+        <components name="Grips"> Road Tuned Gel tap</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.0</current>
+            <votes>4.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>schwinn le tour classic road bike</name>
+        <price>$749.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Reynolds 520 chro-mo steel with Bio Tuned Ergonomic geometry</material>
+        </frame>
+        <fork>
+            <material> Schwinn N&amp;#8217; Gauged Gold Label Chro-mo steel with forged dropouts</material>
+        </fork>
+        <components name="Seat Post"> Alloy micro adjust</components>
+        <components name="Brake Levers"> Shimano Sora STI</components>
+        <components name="Rear Brake"> Radius AS-2.3D alloy road dual pivot caliper</components>
+        <components name="Saddle"> Bio Tuned with Globe System</components>
+        <components name="Stem"> Road Tuned 1 1/8&amp;#8243; treadless A-head for 31.8 bar</components>
+        <components name="Front Brake"> Radius AS-2.3D alloy road dual pivot caliper</components>
+        <components name="Extras"> Seat binder</components>
+        <components name="Handlebar"> Road Tuned 6000 series alloy ergonomic drop bar, 31.8</components>
+        <components name="Headset"> FSA 1 1/8&amp;#8243; threadless</components>
+        <components name="Grips"> Road Tuned Gel tap</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>schwinn le tour elite road bike</name>
+        <price>$1199.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Schwinn N&amp;#8217;Litened Gold Label double butted Aluminum with Black Label Carbon seat stay and Bio Tuned Ergonomic geometry</material>
+        </frame>
+        <fork>
+            <material> Schwinn N&amp;#8217;Litened Black Label Carbon with Cho-Mo steerer and forged dropouts</material>
+        </fork>
+        <components name="Seat Post"> Road Tuned Black Label Carbon with forged alloy head</components>
+        <components name="Brake Levers"> Shimano Tiagra STI</components>
+        <components name="Rear Brake"> Tektro R 538 alloy long reach caliper</components>
+        <components name="Saddle"> Schwinn Bio Tuned with Glob System</components>
+        <components name="Stem"> Road Tuned 1 1/8&amp;#8243; threadless A-head for 31.8 bar</components>
+        <components name="Front Brake"> Tektro R 538 alloy long reach caliper</components>
+        <components name="Extras"> alloy seat binder</components>
+        <components name="Handlebar"> Road Tuned 6000 series alloy ergonomic drop bar, 31.8</components>
+        <components name="Headset"> FSA integrated 1 1/8&amp;#8243; threadless</components>
+        <components name="Grips"> Road Tuned Gel tap</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.29</current>
+            <votes>7.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>schwinn le tour legacy road bike</name>
+        <price>$1199.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Reynolds 520 chro-mo steel with Bio Tuned Ergonomic geometry</material>
+        </frame>
+        <fork>
+            <material> Schwinn N&amp;#8217; Gauged Gold Label Chro-mo steel with forged dropouts</material>
+        </fork>
+        <components name="Seat Post"> Road Tuned Black Label Carbon with forged alloy head</components>
+        <components name="Brake Levers"> Shimano 105 STI</components>
+        <components name="Rear Brake"> Tektro R 358 forged alloy</components>
+        <components name="Saddle"> Schwinn bio Tuned with Globe system</components>
+        <components name="Stem"> Road Tuned 1 1/8&amp;#8243; threadless A-head for 31.8 bar</components>
+        <components name="Front Brake"> Tektro R 358 forged alloy</components>
+        <components name="Extras"> alloy seat binder</components>
+        <components name="Handlebar"> Road Tuned 6000 series alloy ergonomic drop bar, 31.8</components>
+        <components name="Headset"> FSA 1 1/8&amp;#8243; threadless</components>
+        <components name="Grips"> Road Tuned Gel tap</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.71</current>
+            <votes>31.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>schwinn le tour sport road bike</name>
+        <price>$899.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Schwinn N&amp;#8217;Litened Aluminum with Bio Tuned Ergonomic geometry and replaceable derailleur hanger.</material>
+        </frame>
+        <fork>
+            <material> Schwinn N&amp;#8217;Litened Black Label Carbon with forged dropouts</material>
+        </fork>
+        <components name="Seat Post"> Alloy micro adjust</components>
+        <components name="Brake Levers"> Shimano Sora STI</components>
+        <components name="Rear Brake"> Tektro R 316 alloy long reach caliper</components>
+        <components name="Saddle"> Bio Tuned with two tone cover</components>
+        <components name="Stem"> Road Tuned 1 1/8&amp;#8243; treadless A-head for 31.8 bar</components>
+        <components name="Front Brake"> Tektro R 316 alloy long reach caliper</components>
+        <components name="Extras"> alloy seat binder</components>
+        <components name="Handlebar"> Road Tuned 6000 series alloy ergonomic drop bar, 31.8</components>
+        <components name="Headset"> FSA integrated 1 1/8&amp;#8243; threadless</components>
+        <components name="Grips"> Road Tuned Gel tap</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>schwinn le tour sport womens road bike</name>
+        <price>$899.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Schwinn N&amp;#8217;Litened Aluminum with Bio Tuned Ergonomic geometry and replaceable derailleur hanger.</material>
+        </frame>
+        <fork>
+            <material> Schwinn N&amp;#8217;Litened Black Label Carbon with forged dropouts</material>
+        </fork>
+        <components name="Seat Post"> Alloy micro adjust</components>
+        <components name="Brake Levers"> Shimano Sora STI</components>
+        <components name="Rear Brake"> Tektro R 316 alloy long reach caliper</components>
+        <components name="Saddle"> Bio Tuned with two tone cover</components>
+        <components name="Stem"> Road Tuned 1 1/8&amp;#8243; treadless A-head for 31.8 bar</components>
+        <components name="Front Brake"> Tektro R 316 alloy long reach caliper</components>
+        <components name="Extras"> alloy seat binder</components>
+        <components name="Handlebar"> Road Tuned 6000 series alloy ergonomic drop bar, 31.8</components>
+        <components name="Headset"> FSA integrated 1 1/8&amp;#8243; threadless</components>
+        <components name="Grips"> Road Tuned Gel tap</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>schwinn le tour super road bike</name>
+        <price>$1999.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Schwinn N&amp;#8217;Litened Black Label Black Label carbon with Bio Tuned Ergonomic geometry</material>
+        </frame>
+        <fork>
+            <material> Schwinn N&amp;#8217;Litened Black Label Carbon with alloy steerer and forged dropouts</material>
+        </fork>
+        <components name="Seat Post"> Road Tuned Black Label Carbon with forged alloy head</components>
+        <components name="Brake Levers"> Shimano 105 STI</components>
+        <components name="Rear Brake"> Tektro R 556 forged alloy long reach caliper</components>
+        <components name="Saddle"> Schwinn bio Tuned with Globe system</components>
+        <components name="Stem"> Road Tuned 1 1/8&amp;#8243; threadless A-head for 31.8 bar</components>
+        <components name="Front Brake"> Tektro R 556 forged alloy long reach caliper</components>
+        <components name="Extras"> alloy seat binder</components>
+        <components name="Handlebar"> Road Tuned 6000 series alloy ergonomic drop bar, 31.8</components>
+        <components name="Headset"> FSA integrated 1 1/8&amp;#8243; threadless</components>
+        <components name="Grips"> Road Tuned Gel tap</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.51</current>
+            <votes>55.0</votes>
+        </rating>
+    </model>
+</brand>

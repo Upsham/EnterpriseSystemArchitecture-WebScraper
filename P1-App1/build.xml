@@ -1,0 +1,65 @@
+<project name="P1" basedir=".">
+
+    <property name="src.dir"     value="src"/>
+
+    <property name="build.dir"   value="build"/>
+    <property name="classes.dir" value="${build.dir}/classes"/>
+    <property name="jar.dir"     value="${build.dir}/jar"/>
+
+    <property name="main-class"  value="com.acmebicycle.commandlineinterface.Application1"/>
+
+    <target name="clean">
+        <delete dir="${build.dir}"/>
+    </target>
+
+    <target name="compile">
+        <mkdir dir="${classes.dir}"/>
+        <javac srcdir="${src.dir}" destdir="${classes.dir}"/>
+    </target>
+
+    <target name="jar1" depends="compile">
+        <mkdir dir="${jar.dir}"/>
+        <jar destfile="${jar.dir}/Application1.jar" basedir="${classes.dir}">
+            <manifest>
+                <attribute name="Main-Class" value="com.acmebicycle.commandlineinterface.Application1"/>
+            </manifest>
+        </jar>
+    </target>
+	
+    <target name="jar2" depends="compile">
+        <mkdir dir="${jar.dir}"/>
+        <jar destfile="${jar.dir}/Application2.jar" basedir="${classes.dir}">
+            <manifest>
+                <attribute name="Main-Class" value="com.acmebicycle.merge.Application2"/>
+            </manifest>
+        </jar>
+    </target>
+	
+    <target name="jar3" depends="compile">
+        <mkdir dir="${jar.dir}"/>
+        <jar destfile="${jar.dir}/Application3.jar" basedir="${classes.dir}">
+            <manifest>
+                <attribute name="Main-Class" value="com.acmebicycle.transform.Application3"/>
+            </manifest>
+        </jar>
+    </target>
+
+    <target name="runApplication1" depends="jar1">
+        <java jar="${jar.dir}/Application1.jar" fork="true">
+        	<arg line="${jar.dir}/"/>
+        </java>
+    </target>
+	
+    <target name="runApplication2" depends="jar2">
+        <java jar="${jar.dir}/Application2.jar" fork="true">
+        	<arg line="${jar.dir}/"/>
+        </java>
+    </target>
+	
+    <target name="runApplication3" depends="jar3">
+        <java jar="${jar.dir}/Application3.jar" fork="true">
+        	<arg line="${jar.dir}/"/>
+        </java>
+    </target>
+
+</project>

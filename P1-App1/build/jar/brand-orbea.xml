@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<brand>
+    <manufacturer>orbea</manufacturer>
+    <model>
+        <name>orbea orca di2 road bike</name>
+        <price>$9,999</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Orca 2010</material>
+        </frame>
+        <fork>
+            <material> Orbea Orca 2010</material>
+        </fork>
+        <components name="Saddle"> Selle Italia Flite Gel Flow, White</components>
+        <components name="Stem"> Zeus C3 Carbon</components>
+        <components name="Brakes"> Shimano Dura-Ace</components>
+        <components name="Handlebar"> Zeus C3 Carbon</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.6</current>
+            <votes>10.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea orca dura ace road bike</name>
+        <price>$6,749</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Orca 2010</material>
+        </frame>
+        <fork>
+            <material> Orbea Orca 2010</material>
+        </fork>
+        <components name="Saddle"> Selle Italia Flite Gel Flow, White</components>
+        <components name="Stem"> Zeus C3 Carbon</components>
+        <components name="Brakes"> Shimano Dura-Ace</components>
+        <components name="Handlebar"> Zeus C3 Carbon</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.73</current>
+            <votes>15.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea orca ultegra road bike</name>
+        <price>$4,899</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Orca 2010</material>
+        </frame>
+        <fork>
+            <material> Orbea Orca 2010</material>
+        </fork>
+        <components name="Saddle"> Selle Italia Flite Gel Flow, White</components>
+        <components name="Stem"> Zeus C2 Carbon</components>
+        <components name="Brakes"> Shimano Ultegra</components>
+        <components name="Handlebar"> Zeus C2 Carbon</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.66</current>
+            <votes>35.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea orca ultegra triple road bike</name>
+        <price>$4,979</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Orca 2010</material>
+        </frame>
+        <fork>
+            <material> Orbea Orca 2010</material>
+        </fork>
+        <components name="Saddle"> Selle Italia Flite Gel Flow, White</components>
+        <components name="Stem"> Zeus C2 Carbon</components>
+        <components name="Brakes"> Shimano Ultegra</components>
+        <components name="Handlebar"> Zeus C2 Carbon</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea orca red road bike</name>
+        <price>$7,699</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Orca 2010</material>
+        </frame>
+        <fork>
+            <material> Orbea Orca 2010</material>
+        </fork>
+        <components name="Saddle"> Selle Italia Flite Gel Flow, White</components>
+        <components name="Stem"> Zeus C3 Carbon</components>
+        <components name="Brakes"> SRAM Red</components>
+        <components name="Handlebar"> Zeus C3 Carbon</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.93</current>
+            <votes>15.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea orca force road bike</name>
+        <price>$5,069</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Orca 2010</material>
+        </frame>
+        <fork>
+            <material> Orbea Orca 2010</material>
+        </fork>
+        <components name="Saddle"> Selle Italia Flite Gel Flow, White</components>
+        <components name="Stem"> Zeus C2 Carbon</components>
+        <components name="Brakes"> SRAM Force</components>
+        <components name="Handlebar"> Zeus C2 Carbon</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea orca super record road bike</name>
+        <price>$11,499</price>
+        <year>2010</year>
+        <frame>
+            <material> 2010 Orbea Orca</material>
+        </frame>
+        <fork>
+            <material> 2010 Orbea Orca</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Selle Italia SLR XP Flow 10</components>
+        <components name="Stem"> Orca</components>
+        <components name="Brakes"> Campagnolo Super Record</components>
+        <components name="Handlebar"> Orbea Wing Carbon</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Orbea Carbon Pro</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea orca chorus 11 road bike</name>
+        <price>$9,999</price>
+        <year>2010</year>
+        <frame>
+            <material> 2010 Orbea Orca</material>
+        </frame>
+        <fork>
+            <material> 2010 Orbea Orca</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Selle Italia SLR XP Flow 10</components>
+        <components name="Stem"> Orca</components>
+        <components name="Brakes"> Campagnolo Chorus</components>
+        <components name="Handlebar"> Orbea Wing Carbon</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Orbea Carbon Pro</components>
+        <rating>
+            <max>5.0</max>
+            <current>5.0</current>
+            <votes>1.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea liege pro road bike</name>
+        <price>$8,499</price>
+        <year>2010</year>
+        <frame>
+            <material> 2010 Orbea Opal</material>
+        </frame>
+        <fork>
+            <material> n/l</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Wing Alloy</components>
+        <components name="Saddle"> Selle Italia SLR XP Flow 10</components>
+        <components name="Stem"> Orbea Carbon Alloy</components>
+        <components name="Brakes"> Shimano Dura Ace</components>
+        <components name="Handlebar"> FSA Wing Pro</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Orbea Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>5.0</current>
+            <votes>1.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea liege road bike</name>
+        <price>$6,399</price>
+        <year>2010</year>
+        <frame>
+            <material> 2010 Orbea Opal</material>
+        </frame>
+        <fork>
+            <material> n/l</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Carbon</components>
+        <components name="Saddle"> Selle Italia SLR XP Flow 10</components>
+        <components name="Stem"> Orbea Carbon Alloy</components>
+        <components name="Brakes"> Shimano Ultegra</components>
+        <components name="Handlebar"> Orbea Wing Alloy</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Orbea Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea liege euro road bike</name>
+        <price>$5,999</price>
+        <year>2010</year>
+        <frame>
+            <material> 2010 Orbea Opal</material>
+        </frame>
+        <fork>
+            <material> n/l</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Carbon</components>
+        <components name="Saddle"> Selle Italia SLR XP Flow 10</components>
+        <components name="Stem"> Orbea Carbon Alloy</components>
+        <components name="Brakes"> Campagnolo Centaur</components>
+        <components name="Handlebar"> Orbea Wing Alloy</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Orbea Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea vento euro road bike</name>
+        <price>$4,799</price>
+        <year>2010</year>
+        <frame>
+            <material> 2010 Orbea Onix</material>
+        </frame>
+        <fork>
+            <material> n/l</material>
+        </fork>
+        <components name="Bar Tape"> Black</components>
+        <components name="Saddle"> Selle Italia SL</components>
+        <components name="Stem"> Orbea Alloy Pro</components>
+        <components name="Brakes"> Campagnolo Centaur 10</components>
+        <components name="Handlebar"> Orbea Alloy Pro</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea vento road bike</name>
+        <price>$3,999</price>
+        <year>2010</year>
+        <frame>
+            <material> 2010 Orbea Onix, 100% T700 Medium-MOD Carbon</material>
+        </frame>
+        <fork>
+            <material> n/l</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Selle Italia SL 10</components>
+        <components name="Stem"> Orbea Cat II</components>
+        <components name="Brakes"> Shimano Ultegra</components>
+        <components name="Handlebar"> Orbea Cat I</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.14</current>
+            <votes>21.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea bira road bike</name>
+        <price>$2,999</price>
+        <year>2010</year>
+        <frame>
+            <material> 2010 Orbea Onix, 100% T700 Medium-MOD Carbon</material>
+        </frame>
+        <fork>
+            <material> n/l</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Selle Italia SL 10</components>
+        <components name="Stem"> Orbea Cat I</components>
+        <components name="Brakes"> Zeus Pro Silver</components>
+        <components name="Handlebar"> Orbea Cat I</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.76</current>
+            <votes>25.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea udana road bike</name>
+        <price>$1,999</price>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material> n/l</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Selle Italia X2</components>
+        <components name="Stem"> Orbea OS</components>
+        <components name="Brakes"> Zeus Pro</components>
+        <components name="Handlebar"> Orbea Anatomic</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea aspin road bike</name>
+        <price>$1,599</price>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material> n/l</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Selle Italia X2</components>
+        <components name="Stem"> Orbea OS</components>
+        <components name="Brakes"> Zeus Pro</components>
+        <components name="Handlebar"> Orbea Anatomic</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.58</current>
+            <votes>24.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea enol road bike</name>
+        <price>$1,249</price>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material> n/l</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Selle Italia X2</components>
+        <components name="Stem"> Orbea OS</components>
+        <components name="Brakes"> Alu</components>
+        <components name="Handlebar"> Orbea Anatomic</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Orbea Black</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.74</current>
+            <votes>23.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea opal di2 road bike</name>
+        <price>$8,399</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Opal</material>
+        </frame>
+        <fork>
+            <material> Orbea Opal</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Selle Italia Flite Gel Flow, Black</components>
+        <components name="Stem"> Zeus C3 Carbon</components>
+        <components name="Brakes"> Shimano Dura-Ace</components>
+        <components name="Handlebar"> Zeus C3 Carbon</components>
+        <components name="Headset"> 1/1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, Black</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea opal dura ace road bike</name>
+        <price>$5,949</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Opal</material>
+        </frame>
+        <fork>
+            <material> Orbea Opal</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Selle Italia Flite Gel Flow, Black</components>
+        <components name="Stem"> Zeus C3 Carbon</components>
+        <components name="Brakes"> Shimano Dura-Ace</components>
+        <components name="Handlebar"> Zeus C3 Carbon</components>
+        <components name="Headset"> 1/1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, Black</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea opal ultegra road bike</name>
+        <price>$3,969</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Opal</material>
+        </frame>
+        <fork>
+            <material> Orbea Opal</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Selle Italia SLK SE, Black</components>
+        <components name="Stem"> Zeus C2 Alloy</components>
+        <components name="Brakes"> Shimano Ultegra</components>
+        <components name="Handlebar"> Zeus C2 Alloy</components>
+        <components name="Headset"> 1/1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, Black</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.5</current>
+            <votes>30.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea opal ultegra triple road bike</name>
+        <price>$4,049</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Opal</material>
+        </frame>
+        <fork>
+            <material> Orbea Opal</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Selle Italia SLK SE, Black</components>
+        <components name="Stem"> Zeus C2 Alloy</components>
+        <components name="Brakes"> Shimano Ultegra</components>
+        <components name="Handlebar"> Zeus C2 Alloy</components>
+        <components name="Headset"> 1/1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, Black</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea opal red road bike</name>
+        <price>$6,029</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Opal</material>
+        </frame>
+        <fork>
+            <material> Orbea Opal</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Selle Italia Flite Gel Flow, Black</components>
+        <components name="Stem"> Zeus C3 Carbon</components>
+        <components name="Brakes"> SRAM Red</components>
+        <components name="Handlebar"> Zeus C3 Carbon</components>
+        <components name="Headset"> 1/1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, Black</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea opal force road bike</name>
+        <price>$4,229</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Opal</material>
+        </frame>
+        <fork>
+            <material> Orbea Opal</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Selle Italia Flite Gel Flow, Black</components>
+        <components name="Stem"> Zeus C2 Alloy</components>
+        <components name="Brakes"> SRAM Force</components>
+        <components name="Handlebar"> Zeus C2 Alloy</components>
+        <components name="Headset"> 1/1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, Black</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea onix tlt road bike</name>
+        <price>$2,999</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Onix</material>
+        </frame>
+        <fork>
+            <material> Orbea AC Carbon</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Selle Italia SL 10</components>
+        <components name="Stem"> Zeus C2 Alloy</components>
+        <components name="Brakes"> Shimano Ultegra</components>
+        <components name="Handlebar"> Zeus C2 Alloy</components>
+        <components name="Headset"> Carbon 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork</components>
+        <components name="Seatpost"> Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea onix tlt triple road bike</name>
+        <price>$2,999</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Onix</material>
+        </frame>
+        <fork>
+            <material> Orbea AC Carbon</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Selle Italia SL 10</components>
+        <components name="Stem"> Zeus C2 Alloy</components>
+        <components name="Brakes"> Shimano Ultegra</components>
+        <components name="Handlebar"> Zeus C2 Alloy</components>
+        <components name="Headset"> Carbon 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork</components>
+        <components name="Seatpost"> Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea onix trv road bike</name>
+        <price>$2,599</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Onix</material>
+        </frame>
+        <fork>
+            <material> Orbea AC Carbon</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Selle Italia SL 10</components>
+        <components name="Stem"> Zeus C2 Alloy</components>
+        <components name="Brakes"> Zeus Pro Black</components>
+        <components name="Handlebar"> Zeus C2 Alloy</components>
+        <components name="Headset"> Carbon 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork</components>
+        <components name="Seatpost"> Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea onix t105 road bike</name>
+        <price>$2,299</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Onix</material>
+        </frame>
+        <fork>
+            <material> Orbea AC Carbon</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Selle Italia SL 10</components>
+        <components name="Stem"> Zeus C2 Alloy</components>
+        <components name="Brakes"> Zeus Pro Silver</components>
+        <components name="Handlebar"> Zeus C2 Alloy</components>
+        <components name="Headset"> Carbon 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork</components>
+        <components name="Seatpost"> Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea onix ttg road bike</name>
+        <price>$1,999</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Onix</material>
+        </frame>
+        <fork>
+            <material> Orbea AC Carbon</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Selle Italia SL 10</components>
+        <components name="Stem"> Zeus C1 Alloy</components>
+        <components name="Brakes"> Zeus Pro Silver</components>
+        <components name="Handlebar"> Zeus C1 Alloy</components>
+        <components name="Headset"> Carbon 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork</components>
+        <components name="Seatpost"> Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.7</current>
+            <votes>46.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea onix dura ace 7900 road bike</name>
+        <price>$6,499</price>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material> Orbea Onix</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Selle Italia X2</components>
+        <components name="Stem"> Orbea Alloy Pro</components>
+        <components name="Brakes"> Shimano Dura-Ace 7900</components>
+        <components name="Handlebar"> Orbea Alloy Pro</components>
+        <components name="Headset"> Carbon 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork</components>
+        <components name="Seatpost"> Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea onix tiagra road bike</name>
+        <price>$2,650</price>
+        <year>2010</year>
+        <frame>
+            <material> 2010 Orbea Onix, 100% T700 Medium-MOD Carbon</material>
+        </frame>
+        <fork>
+            <material> n/l</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Selle Italia SL 10</components>
+        <components name="Stem"> Orbea Cat I</components>
+        <components name="Brakes"> Zeus Pro Silver</components>
+        <components name="Handlebar"> Orbea Cat I</components>
+        <components name="Headset"> Carbon 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork</components>
+        <components name="Seatpost"> Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.71</current>
+            <votes>7.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea aqua ttg road bike</name>
+        <price>$1,249</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Aqua</material>
+        </frame>
+        <fork>
+            <material> Orbea Carbon</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Gel Cork</components>
+        <components name="Saddle"> Selle Italia X2</components>
+        <components name="Stem"> Orbea OS</components>
+        <components name="Brakes"> Zeus Pro Silver</components>
+        <components name="Handlebar"> Orbea Anatomic</components>
+        <components name="Headset"> Carbon 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork</components>
+        <components name="Seatpost"> Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.48</current>
+            <votes>60.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea aqua flatbar ttg road bike</name>
+        <price>$1,249</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Aqua</material>
+        </frame>
+        <fork>
+            <material> Orbea Carbon</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Gel Cork</components>
+        <components name="Saddle"> Selle Italia X2</components>
+        <components name="Stem"> Orbea OS</components>
+        <components name="Brakes"> Zeus Pro Silver</components>
+        <components name="Handlebar"> Orbea Anatomic</components>
+        <components name="Headset"> Carbon 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork</components>
+        <components name="Seatpost"> Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea aqua t23 road bike</name>
+        <price>$1,249</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Aqua</material>
+        </frame>
+        <fork>
+            <material> Orbea Carbon</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Gel Cork</components>
+        <components name="Saddle"> Selle Italia X2</components>
+        <components name="Stem"> Orbea OS</components>
+        <components name="Brakes"> Zeus Pro Silver</components>
+        <components name="Handlebar"> Orbea Anatomic</components>
+        <components name="Headset"> Carbon 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork</components>
+        <components name="Seatpost"> Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.4</current>
+            <votes>57.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea aqua 2300 road bike</name>
+        <price>$1,049</price>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material> n/l</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Selle Italia X2</components>
+        <components name="Stem"> Orbea OS</components>
+        <components name="Brakes"> Alu</components>
+        <components name="Handlebar"> Orbea Anatomic</components>
+        <components name="Headset"> Carbon 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork</components>
+        <components name="Seatpost"> Orbea Black</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea diva di2 womens road bike</name>
+        <price>$9,989</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Diva 2010</material>
+        </frame>
+        <fork>
+            <material> Orbea Diva 2010</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Luna Pro Team, White</components>
+        <components name="Stem"> Zeus C3 Carbon</components>
+        <components name="Brakes"> Shimano Dura-Ace</components>
+        <components name="Handlebar"> Zeus C3 Carbon</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea diva dura ace womens road bike</name>
+        <price>$6,739</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Diva 2010</material>
+        </frame>
+        <fork>
+            <material> Orbea Diva 2010</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Luna Pro Team, White</components>
+        <components name="Stem"> Zeus C3 Carbon</components>
+        <components name="Brakes"> Shimano Dura-Ace</components>
+        <components name="Handlebar"> Zeus C3 Carbon</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea diva ultegra womens road bike</name>
+        <price>$4,849</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Diva 2010</material>
+        </frame>
+        <fork>
+            <material> Orbea Diva 2010</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Luna Swift, White</components>
+        <components name="Stem"> Zeus C2 Alloy</components>
+        <components name="Brakes"> Shimano Ultegra</components>
+        <components name="Handlebar"> Zeus C2 Alloy</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea diva ultegra triple womens road bike</name>
+        <price>$4,929</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Diva 2010</material>
+        </frame>
+        <fork>
+            <material> Orbea Diva 2010</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Luna Swift, White</components>
+        <components name="Stem"> Zeus C2 Alloy</components>
+        <components name="Brakes"> Shimano Ultegra</components>
+        <components name="Handlebar"> Zeus C2 Alloy</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea diva red womens road bike</name>
+        <price>$7,659</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Diva 2010</material>
+        </frame>
+        <fork>
+            <material> Orbea Diva 2010</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Luna Pro Team, White</components>
+        <components name="Stem"> Zeus C3 Carbon</components>
+        <components name="Brakes"> SRAM Red</components>
+        <components name="Handlebar"> Zeus C3 Carbon</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea diva force womens road bike</name>
+        <price>$5,019</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Diva 2010</material>
+        </frame>
+        <fork>
+            <material> Orbea Diva 2010</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Luna Swift, White</components>
+        <components name="Stem"> Zeus C2 Alloy</components>
+        <components name="Brakes"> SRAM Force</components>
+        <components name="Handlebar"> Zeus C2 Alloy</components>
+        <components name="Headset"> 1-1/8 &amp;#8211; 1-1/2 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea opal dama di2 womens road bike</name>
+        <price>$8,389</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Opal Dama</material>
+        </frame>
+        <fork>
+            <material> Orbea Opal Dama</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Luna Pro Team, White</components>
+        <components name="Stem"> Zeus C3 Carbon</components>
+        <components name="Brakes"> Shimano Dura-Ace</components>
+        <components name="Handlebar"> Zeus C3 Carbon</components>
+        <components name="Headset"> 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea opal dama dura ace womens road bike</name>
+        <price>$5,939</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Opal Dama</material>
+        </frame>
+        <fork>
+            <material> Orbea Opal Dama</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Luna Pro Team, White</components>
+        <components name="Stem"> Zeus C3 Carbon</components>
+        <components name="Brakes"> Shimano Dura-Ace</components>
+        <components name="Handlebar"> Zeus C3 Carbon</components>
+        <components name="Headset"> 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea opal dama ultegra womens road bike</name>
+        <price>$3,929</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Opal Dama</material>
+        </frame>
+        <fork>
+            <material> Orbea Opal Dama</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Terry Butterfly</components>
+        <components name="Stem"> Zeus C2 Alloy</components>
+        <components name="Brakes"> Shimano Ultegra</components>
+        <components name="Handlebar"> Zeus C2 Alloy</components>
+        <components name="Headset"> 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea opal dama ultegra triple womens road bike</name>
+        <price>$4,019</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Opal Dama</material>
+        </frame>
+        <fork>
+            <material> Orbea Opal Dama</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Terry Butterfly</components>
+        <components name="Stem"> Zeus C2 Alloy</components>
+        <components name="Brakes"> Shimano Ultegra</components>
+        <components name="Handlebar"> Zeus C2 Alloy</components>
+        <components name="Headset"> 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea opal dama red womens road bike</name>
+        <price>$6,019</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Opal Dama</material>
+        </frame>
+        <fork>
+            <material> Orbea Opal Dama</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Luna Pro Team, White</components>
+        <components name="Stem"> Zeus C3 Carbon</components>
+        <components name="Brakes"> SRAM Red</components>
+        <components name="Handlebar"> Zeus C3 Carbon</components>
+        <components name="Headset"> 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea opal dama force womens road bike</name>
+        <price>$4,179</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Opal Dama</material>
+        </frame>
+        <fork>
+            <material> Orbea Opal Dama</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Luna Swift, White</components>
+        <components name="Stem"> Zeus C2 Alloy</components>
+        <components name="Brakes"> SRAM Force</components>
+        <components name="Handlebar"> Zeus C2 Alloy</components>
+        <components name="Headset"> 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork, White</components>
+        <components name="Seatpost"> Zeus Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea onix dama tlt womens road bike</name>
+        <price>$2,999</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Onix Dama</material>
+        </frame>
+        <fork>
+            <material> Orbea AC Carbon</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Terry Butterfly</components>
+        <components name="Stem"> Zeus C2 Alloy</components>
+        <components name="Brakes"> Shimano Ultegra</components>
+        <components name="Handlebar"> Zeus C2 Alloy</components>
+        <components name="Headset"> Carbon 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork</components>
+        <components name="Seatpost"> Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.84</current>
+            <votes>25.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea onix dama tlt triple womens road bike</name>
+        <price>$2,999</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Onix Dama</material>
+        </frame>
+        <fork>
+            <material> Orbea AC Carbon</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Terry Butterfly</components>
+        <components name="Stem"> Zeus C2 Alloy</components>
+        <components name="Brakes"> Shimano Ultegra</components>
+        <components name="Handlebar"> Zeus C2 Alloy</components>
+        <components name="Headset"> Carbon 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork</components>
+        <components name="Seatpost"> Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>5.0</current>
+            <votes>1.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea onix dama t105 womens road bike</name>
+        <price>$2,299</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Onix Dama</material>
+        </frame>
+        <fork>
+            <material> Orbea AC Carbon</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Cork</components>
+        <components name="Saddle"> Terry Butterfly</components>
+        <components name="Stem"> Zeus C2 Alloy</components>
+        <components name="Brakes"> Zeus Pro Silver</components>
+        <components name="Handlebar"> Zeus C2 Alloy</components>
+        <components name="Headset"> Carbon 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork</components>
+        <components name="Seatpost"> Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea onix dama 105 womens road bike</name>
+        <price>$2,999</price>
+        <year>2010</year>
+        <frame>
+            <material> 2010 Orbea Onix Dama, 100% T700 Medium-MOD Carbon</material>
+        </frame>
+        <fork>
+            <material> n/l</material>
+        </fork>
+        <components name="Bar Tape"> White</components>
+        <components name="Saddle"> Terry Butterfly</components>
+        <components name="Stem"> Orbea Cat II</components>
+        <components name="Brakes"> Shimano 105</components>
+        <components name="Handlebar"> Orbea Cat II</components>
+        <components name="Headset"> Carbon 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork</components>
+        <components name="Seatpost"> Orbea Carbon 31.6</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea onix dama tiagra womens road bike</name>
+        <price>$2,799</price>
+        <year>2010</year>
+        <frame>
+            <material> 2010 Orbea Onix Dama, 100% T700 Medium-MOD Carbon</material>
+        </frame>
+        <fork>
+            <material> n/l</material>
+        </fork>
+        <components name="Bar Tape"> White</components>
+        <components name="Saddle"> Terry Butterfly</components>
+        <components name="Stem"> Orbea Cat I</components>
+        <components name="Brakes"> Zeus Pro Silver</components>
+        <components name="Handlebar"> Orbea Cat I</components>
+        <components name="Headset"> Carbon 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork</components>
+        <components name="Seatpost"> Orbea Carbon 31.6</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea aqua dama ttg womens road bike</name>
+        <price>$1,249</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Aqua Dama</material>
+        </frame>
+        <fork>
+            <material> Orbea Carbon</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Gel Cork</components>
+        <components name="Saddle"> Terry Butterfly</components>
+        <components name="Stem"> Orbea OS</components>
+        <components name="Brakes"> Zeus Pro Black</components>
+        <components name="Handlebar"> Orbea Anatomic</components>
+        <components name="Headset"> Carbon 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork</components>
+        <components name="Seatpost"> Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea aqua dama t23 womens road bike</name>
+        <price>$799</price>
+        <year>2010</year>
+        <frame>
+            <material> Orbea Aqua Dama</material>
+        </frame>
+        <fork>
+            <material> Orbea Carbon</material>
+        </fork>
+        <components name="Bar Tape"> Orbea Gel Cork</components>
+        <components name="Saddle"> Terry Butterfly</components>
+        <components name="Stem"> Orbea OS</components>
+        <components name="Brakes"> Alloy</components>
+        <components name="Handlebar"> Orbea Anatomic</components>
+        <components name="Headset"> Carbon 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork</components>
+        <components name="Seatpost"> Alloy Black</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea aqua 2300 dama womens road bike</name>
+        <price>$1,149</price>
+        <year>2010</year>
+        <frame>
+            <material> 2010 Orbea Aqua Dama, 100% T700 Medium-MOD Carbon</material>
+        </frame>
+        <fork>
+            <material> n/l</material>
+        </fork>
+        <components name="Bar Tape"> White</components>
+        <components name="Saddle"> Terry Butterfly</components>
+        <components name="Stem"> Orbea OS</components>
+        <components name="Brakes"> ALU</components>
+        <components name="Handlebar"> Orbea Anatomic</components>
+        <components name="Headset"> Carbon 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork</components>
+        <components name="Seatpost"> Orbea Black</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>orbea aspin dama womens road bike</name>
+        <price>$1,699</price>
+        <year>2010</year>
+        <frame>
+            <material> 2010 Orbea Aqua Dama, 100% T700 Medium-MOD Carbon</material>
+        </frame>
+        <fork>
+            <material> n/l</material>
+        </fork>
+        <components name="Bar Tape"> Light Blue</components>
+        <components name="Saddle"> Terry Butterfly</components>
+        <components name="Stem"> Orbea Cat I</components>
+        <components name="Brakes"> Zeus Pro Black</components>
+        <components name="Handlebar"> Orbea Cat I</components>
+        <components name="Headset"> Carbon 1-1/8 Integrated</components>
+        <components name="Tape"> Orbea Gel Cork</components>
+        <components name="Seatpost"> Orbea Carbon 31.6</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+</brand>

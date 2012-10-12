@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<brand>
+    <manufacturer>cervelo</manufacturer>
+    <model>
+        <name>cervelo s3 sram red road bike</name>
+        <price>$7,200</price>
+        <year>2010</year>
+        <frame>
+            <material> Cervelo S3 road bike frame</material>
+        </frame>
+        <fork>
+            <material> 3T Funda TEAM</material>
+        </fork>
+        <components name="Brake Levers"> SRAM Red</components>
+        <components name="Brake Calipers"> SRAM Red</components>
+        <components name="Saddle"> fi&amp;#8217;zi</components>
+        <components name="Stem"> 3T ARX TEAM</components>
+        <components name="Headset"> FSA IS2C</components>
+        <components name="Handlebars"> 3T Ergonova TEAM</components>
+        <components name="Seatpost"> Cervélo aero SL</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.71</current>
+            <votes>58.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cervelo s3 shimano dura ace team road bike</name>
+        <price>$11,000</price>
+        <year>2010</year>
+        <frame>
+            <material> Cervelo S3 Road Bike Frame</material>
+        </frame>
+        <fork>
+            <material> 3T Funda TEAM</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Dura-Ace STI</components>
+        <components name="Brake Calipers"> Shimano Dura-Ace</components>
+        <components name="Saddle"> fi&amp;#8217;zi</components>
+        <components name="Stem"> 3T ARX TEAM</components>
+        <components name="Headset"> FSA IS2C</components>
+        <components name="Handlebars"> 3T Ergonova LTD</components>
+        <components name="Seatpost"> Cervélo aero SL</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.04</current>
+            <votes>28.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cervelo s2 shimano ultegra road bike</name>
+        <price>$4,000</price>
+        <year>2010</year>
+        <frame>
+            <material> Cervelo S2 Road Bike Frame</material>
+        </frame>
+        <fork>
+            <material> 3T Funda PRO</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Ultegra STI</components>
+        <components name="Brake Calipers"> Shimano Ultegra</components>
+        <components name="Saddle"> fi&amp;#8217;zi</components>
+        <components name="Stem"> 3T ARX PRO</components>
+        <components name="Headset"> FSA IS 3</components>
+        <components name="Handlebars"> 3T Ergonova OE</components>
+        <components name="Seatpost"> Cervélo aero SL</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.5</current>
+            <votes>4.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cervelo s2 shimano dura ace road bike</name>
+        <price>$5,900</price>
+        <year>2010</year>
+        <frame>
+            <material> Cervelo S2 Road Bike Frame</material>
+        </frame>
+        <fork>
+            <material> 3T Funda PRO</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Dura-Ace STI</components>
+        <components name="Brake Calipers"> Shimano Dura-Ace</components>
+        <components name="Saddle"> fi&amp;#8217;zi</components>
+        <components name="Stem"> 3T ARX TEAM</components>
+        <components name="Headset"> FSA IS 3</components>
+        <components name="Handlebars"> 3T Ergonova TEAM</components>
+        <components name="Seatpost"> Cervélo aero SL</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.67</current>
+            <votes>46.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cervelo s1 ultegra sl road bike</name>
+        <price>$2,200</price>
+        <year>2010</year>
+        <frame>
+            <material> Cervelo S1 Road Bike Frame</material>
+        </frame>
+        <fork>
+            <material> 3T Funda PRO</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Ultegra STI</components>
+        <components name="Brake Calipers"> Cervélo Mach2</components>
+        <components name="Saddle"> Selle San Marco Ponza</components>
+        <components name="Stem"> FSA OS 190LX</components>
+        <components name="Headset"> Cane Creek IS 3</components>
+        <components name="Handlebars"> FSA Omega</components>
+        <components name="Seatpost"> Cervélo aero SL</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.6</current>
+            <votes>297.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cervelo s1 sram new force road bike</name>
+        <price>$2,700</price>
+        <year>2010</year>
+        <frame>
+            <material> Cervelo S1 Road Bike Frame</material>
+        </frame>
+        <fork>
+            <material> 3T Funda PRO</material>
+        </fork>
+        <components name="Brake Levers"> SRAM New Force</components>
+        <components name="Brake Calipers"> FSA Gossamer</components>
+        <components name="Saddle"> fi&amp;#8217;zi</components>
+        <components name="Stem"> 3T ARX PRO</components>
+        <components name="Headset"> FSA IS 3</components>
+        <components name="Handlebars"> 3T Ergonova OE</components>
+        <components name="Seatpost"> Cervélo aero SL</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.81</current>
+            <votes>32.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cervelo r3sl sram red road bike</name>
+        <price>$6,600</price>
+        <year>2010</year>
+        <frame>
+            <material> Cervelo R3sl Road Bike Frame</material>
+        </frame>
+        <fork>
+            <material> 3T Funda TEAM</material>
+        </fork>
+        <components name="Brake Levers"> SRAM Red</components>
+        <components name="Brake Calipers"> SRAM Red</components>
+        <components name="Saddle"> fi&amp;#8217;zi</components>
+        <components name="Stem"> 3T ARX TEAM</components>
+        <components name="Headset"> FSA IS2C</components>
+        <components name="Handlebars"> 3T Ergonova TEAM</components>
+        <components name="Seatpost"> 3T Dorico TEAM</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.19</current>
+            <votes>32.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cervelo r3sl shimano dura ace team road bike</name>
+        <price>$10,400</price>
+        <year>2010</year>
+        <frame>
+            <material> Cervelo R3sl Road Bike Frame</material>
+        </frame>
+        <fork>
+            <material> 3T Funda TEAM</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Dura-Ace STI</components>
+        <components name="Brake Calipers"> Shimano Dura-Ace</components>
+        <components name="Saddle"> fi&amp;#8217;zi</components>
+        <components name="Stem"> 3T ARX TEAM</components>
+        <components name="Headset"> FSA IS2C</components>
+        <components name="Handlebars"> 3T Ergonova LTD</components>
+        <components name="Seatpost"> 3T Dorico LTD</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.72</current>
+            <votes>18.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cervelo r3 shimano ultegra road bike</name>
+        <price>$4,000</price>
+        <year>2010</year>
+        <frame>
+            <material> Cervelo R3 Road Bike Frame</material>
+        </frame>
+        <fork>
+            <material> 3T Funda PRO</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Ultegra STI</components>
+        <components name="Brake Calipers"> Shimano Ultegra</components>
+        <components name="Saddle"> fi&amp;#8217;zi</components>
+        <components name="Stem"> 3T ARX Team</components>
+        <components name="Headset"> FSA IS 3</components>
+        <components name="Handlebars"> 3T Ergonova OE</components>
+        <components name="Seatpost"> 3T Dorico TEAM</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.81</current>
+            <votes>81.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cervelo r3 shimano dura ace road bike</name>
+        <price>$5,900</price>
+        <year>2010</year>
+        <frame>
+            <material> Cervelo R3 Road Bike Frame</material>
+        </frame>
+        <fork>
+            <material> 3T Funda PRO</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Dura-Ace STI</components>
+        <components name="Brake Calipers"> Shimano Dura-Ace</components>
+        <components name="Saddle"> fi&amp;#8217;zi</components>
+        <components name="Stem"> 3T ARX Team</components>
+        <components name="Headset"> FSA IS 3</components>
+        <components name="Handlebars"> 3T Ergonova TEAM</components>
+        <components name="Seatpost"> 3T Dorico TEAM</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.81</current>
+            <votes>42.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cervelo rs shimano ultegra road bike</name>
+        <price>$3,600</price>
+        <year>2010</year>
+        <frame>
+            <material> Cervelo RS Road Bike Frame</material>
+        </frame>
+        <fork>
+            <material> 3T Funda PRO</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Ultegra STI</components>
+        <components name="Brake Calipers"> Shimano Ultegra</components>
+        <components name="Saddle"> fi&amp;#8217;zi</components>
+        <components name="Stem"> 3T ARX PRO</components>
+        <components name="Headset"> FSA IS 3</components>
+        <components name="Handlebars"> 3T Ergonova OE</components>
+        <components name="Seatpost"> FSA Carbon Pro CSI</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.79</current>
+            <votes>109.0</votes>
+        </rating>
+    </model>
+</brand>

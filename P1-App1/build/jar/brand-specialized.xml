@@ -1,0 +1,1665 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<brand>
+    <manufacturer>specialized</manufacturer>
+    <model>
+        <name>specialized s works tarmac sl3 di2 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> S-Works Tarmac SL3 FACT 11r, FACT IS construction, compact race design, 1.5&amp;#8243; lower HS bearing, OS carbon BB shell</material>
+        </frame>
+        <fork>
+            <material> S-Works Tarmac SL3 FACT carbon, Uni-weave, monocoque construction, OS race for 1.5&amp;#8243; bearing, full carbon legs, crown and steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Dura-Ace Di2</components>
+        <components name="Rear Brake"> Shimano Dura-Ace</components>
+        <components name="Saddle"> Body Geometry Toupe Carbon 143 w/ Hollow Ti rails</components>
+        <components name="Stem"> S-Works 3D forged with carbon-wrap top and front cap</components>
+        <components name="Front Brake"> Shimano Dura-Ace</components>
+        <components name="Seat Binder"> S-Works alloy, 32.6mm clamp</components>
+        <components name="Headset"> Aheadset Stainless Race Steel Balls w/ top cap w/ 20mm of spacers</components>
+        <components name="Handlebars"> S-Works SL Carbon, classic bend</components>
+        <components name="Seatpost"> S-Works FACT carbon w/ Zertz insert, 27.2mm</components>
+        <components name="Tape"> Specialized S-Works wrap</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.68</current>
+            <votes>31.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized s works tarmac sl3 super light road bike</name>
+        <price>$9,200</price>
+        <year>2010</year>
+        <frame>
+            <material> S-Works Tarmac SL3 FACT 11r, FACT IS construction, compact race design, 1.5&amp;#8243; lower HS bearing, OS carbon BB shell</material>
+        </frame>
+        <fork>
+            <material> S-Works Tarmac SL3 FACT carbon, Uni-weave, monocoque construction, OS race for 1.5&amp;#8243; bearing, full carbon legs, crown and steerer</material>
+        </fork>
+        <components name="Brake Levers"> SRAM RED</components>
+        <components name="Rear Brake"> Tektro R970E Magnesium</components>
+        <components name="Saddle"> Specialized BG Toupe Team 14mm w/ hollow Ti rails</components>
+        <components name="Stem"> S-Works Super Light</components>
+        <components name="Front Brake"> Tektro R970E Magnesium</components>
+        <components name="Seat Binder"> S-Works alloy, 32.6mm clamp</components>
+        <components name="Headset"> Aheadset Stainless Race Steel Balls w/ top cap w/ 20mm of spacers</components>
+        <components name="Handlebars"> S-Works SL Carbon, classic bend</components>
+        <components name="Seatpost"> S-Works FACT carbon w/ Zertz insert, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap Super Light</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.55</current>
+            <votes>22.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized s works tarmac sl3 dura ace road bike</name>
+        <price>$7700</price>
+        <year>2010</year>
+        <frame>
+            <material> S-Works Tarmac SL3 FACT 11r, FACT IS construction, compact race design, 1.5&amp;#8243; lower HS bearing, OS carbon BB shell</material>
+        </frame>
+        <fork>
+            <material> S-Works Tarmac SL3 FACT carbon, Uni-weave, monocoque construction, OS race for 1.5&amp;#8243; bearing, full carbon legs, crown and steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Dura-Ace STI, flight deck compatible</components>
+        <components name="Rear Brake"> Shimano Dura-Ace</components>
+        <components name="Saddle"> Body Geometry Toupe Team w/ hollow Ti rails</components>
+        <components name="Stem"> S-Works 3D forged with carbon-wrap top and front cap</components>
+        <components name="Front Brake"> Shimano Dura-Ace</components>
+        <components name="Seat Binder"> S-Works alloy, 32.6mm clamp</components>
+        <components name="Headset"> Aheadset Stainless Race Steel Balls w/ top cap w/ 20mm of spacers</components>
+        <components name="Handlebars"> S-Works SL Carbon, classic bend</components>
+        <components name="Seatpost"> S-Works FACT carbon w/ Zertz insert, 27.2mm</components>
+        <components name="Tape"> Specialized S-Works wrap</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.0</current>
+            <votes>18.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized s works tarmac sl3 sram road bike</name>
+        <price>$7200</price>
+        <year>2010</year>
+        <frame>
+            <material> S-Works Tarmac SL3 FACT 11r, FACT IS construction, compact race design, 1.5&amp;#8243; lower HS bearing, OS carbon BB shell</material>
+        </frame>
+        <fork>
+            <material> S-Works Tarmac SL3 FACT carbon, Uni-weave, monocoque construction, OS race for 1.5&amp;#8243; bearing, full carbon legs, crown and steerer</material>
+        </fork>
+        <components name="Brake Levers"> SRAM RED</components>
+        <components name="Rear Brake"> Tektro 955</components>
+        <components name="Saddle"> Specialized BG Toupe Carbon 143 w/ Hollow Ti rails</components>
+        <components name="Stem"> S-Works 3D forged with carbon-wrap top and front cap</components>
+        <components name="Front Brake"> Tektro 955</components>
+        <components name="Seat Binder"> S-Works alloy, 32.6mm clamp</components>
+        <components name="Headset"> Aheadset Stainless Race Steel Balls w/ top cap w/ 20mm of spacers</components>
+        <components name="Handlebars"> S-Works SL Carbon, classic bend</components>
+        <components name="Seatpost"> S-Works FACT carbon w/ Zertz insert, 27.2mm</components>
+        <components name="Tape"> Specialized S-Works wrap</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.38</current>
+            <votes>16.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized tarmac pro sl dura ace road bike</name>
+        <price>$5000</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Tarmac SL FACT 10r carbon, FACT IS construction, compact race design, 1.5&amp;#8243; lower HS bearing</material>
+        </frame>
+        <fork>
+            <material> Tarmac full FACT carbon monocoque, OS race for 1.5&amp;#8243; bearing</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Dura-Ace STI, flight deck compatible</components>
+        <components name="Rear Brake"> Shimano Ultegra</components>
+        <components name="Saddle"> Body Geometry Toupe w/ hollow Ti rails</components>
+        <components name="Stem"> Specialized Pro-Set, 3D forged 7050 aluminum, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Shimano Ultegra</components>
+        <components name="Seat Binder"> Alloy, 32.6mm clamp</components>
+        <components name="Headset"> Aheadset Stainless Race Steel Balls w/ top cap w/ 20mm of spacers</components>
+        <components name="Handlebars"> S-Works SL Ergo Carbon</components>
+        <components name="Seatpost"> Specialized FACT carbon w/ Zertz insert, 27.2mm</components>
+        <components name="Tape"> Specialized Pro D2</components>
+        <rating>
+            <max>5.0</max>
+            <current>5.0</current>
+            <votes>2.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized tarmac pro sl compact dura ace road bike</name>
+        <price>$5,000</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Tarmac SL FACT 10r carbon, FACT IS construction, compact race design, 1.5&amp;#8243; lower HS bearing</material>
+        </frame>
+        <fork>
+            <material> Tarmac full FACT carbon monocoque, OS race for 1.5&amp;#8243; bearing</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Dura-Ace STI, flight deck compatible</components>
+        <components name="Rear Brake"> Shimano Ultegra</components>
+        <components name="Saddle"> Body Geometry Toupe w/ hollow Ti rails</components>
+        <components name="Stem"> Specialized Pro-Set, 3D forged 7050 aluminum, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Shimano Ultegra</components>
+        <components name="Seat Binder"> Alloy, 32.6mm clamp</components>
+        <components name="Headset"> Aheadset Stainless Race Steel Balls w/ top cap w/ 20mm of spacers</components>
+        <components name="Handlebars"> S-Works SL Ergo Carbon</components>
+        <components name="Seatpost"> Specialized FACT carbon w/ Zertz insert, 27.2mm</components>
+        <components name="Tape"> Specialized Pro D2</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized tarmac pro sl sram road bike</name>
+        <price>$4,400</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Tarmac SL FACT 10r carbon, FACT IS construction, compact race design, 1.5&amp;#8243; lower HS bearing</material>
+        </frame>
+        <fork>
+            <material> Tarmac full FACT carbon monocoque, OS race for 1.5&amp;#8243; bearing</material>
+        </fork>
+        <components name="Brake Levers"> SRAM RED</components>
+        <components name="Rear Brake"> SRAM Force</components>
+        <components name="Saddle"> Body Geometry Toupe w/ hollow Ti rails</components>
+        <components name="Stem"> Specialized Pro-Set, 3D forged 7050 aluminum, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> SRAM Force</components>
+        <components name="Seat Binder"> Alloy, 32.6mm clamp</components>
+        <components name="Headset"> Aheadset Stainless Race Steel Balls w/ top cap w/ 20mm of spacers</components>
+        <components name="Handlebars"> S-Works SL Ergo Carbon</components>
+        <components name="Seatpost"> Specialized FACT carbon w/ Zertz insert, 27.2mm</components>
+        <components name="Tape"> Specialized Pro D2</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.23</current>
+            <votes>13.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized tarmac pro sl compact sram road bike</name>
+        <price>$4400</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Tarmac SL FACT 10r carbon, FACT IS construction, compact race design, 1.5&amp;#8243; lower HS bearing</material>
+        </frame>
+        <fork>
+            <material> Tarmac full FACT carbon monocoque, OS race for 1.5&amp;#8243; bearing</material>
+        </fork>
+        <components name="Brake Levers"> SRAM RED</components>
+        <components name="Rear Brake"> SRAM Force</components>
+        <components name="Saddle"> Body Geometry Toupe w/ hollow Ti rails</components>
+        <components name="Stem"> Specialized Pro-Set, 3D forged 7050 aluminum, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> SRAM Force</components>
+        <components name="Seat Binder"> Alloy, 32.6mm clamp</components>
+        <components name="Headset"> Aheadset Stainless Race Steel Balls w/ top cap w/ 20mm of spacers</components>
+        <components name="Handlebars"> S-Works SL Ergo Carbon</components>
+        <components name="Seatpost"> Specialized FACT carbon w/ Zertz insert, 27.2mm</components>
+        <components name="Tape"> Specialized Pro D2</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.0</current>
+            <votes>9.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized tarmac expert sl double road bike</name>
+        <price>$3,300</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Tarmac SL FACT 10r carbon, FACT IS construction, compact race design, 1.5&amp;#8243; lower HS bearing</material>
+        </frame>
+        <fork>
+            <material> Tarmac full FACT carbon monocoque, OS race for 1.5&amp;#8243; bearing</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Ultegra STI, flight deck compatible</components>
+        <components name="Rear Brake"> Shimano Ultegra</components>
+        <components name="Saddle"> Body Geometry Toupe w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Pro-Set, 3D forged 7050 aluminum, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Shimano Ultegra</components>
+        <components name="Seat Binder"> Alloy, 32.6mm clamp</components>
+        <components name="Headset"> Aheadset Stainless Race Steel Balls w/ top cap w/ 20mm of spacers</components>
+        <components name="Handlebars"> Specialized Pro Ergo 2014 alloy</components>
+        <components name="Seatpost"> Specialized FACT carbon w/ Zertz insert, 27.2mm</components>
+        <components name="Tape"> Specialized Pro D2</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.38</current>
+            <votes>13.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized tarmac expert sl compact road bike</name>
+        <price>$3,300</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Tarmac SL FACT 10r carbon, FACT IS construction, compact race design, 1.5&amp;#8243; lower HS bearing</material>
+        </frame>
+        <fork>
+            <material> Tarmac full FACT carbon monocoque, OS race for 1.5&amp;#8243; bearing</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Ultegra STI, flight deck compatible</components>
+        <components name="Rear Brake"> Shimano Ultegra</components>
+        <components name="Saddle"> Body Geometry Toupe w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Pro-Set, 3D forged 7050 aluminum, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Shimano Ultegra</components>
+        <components name="Seat Binder"> Alloy, 32.6mm clamp</components>
+        <components name="Headset"> Aheadset Stainless Race Steel Balls w/ top cap w/ 20mm of spacers</components>
+        <components name="Handlebars"> Specialized Pro Ergo 2014 alloy</components>
+        <components name="Seatpost"> Specialized FACT carbon w/ Zertz insert, 27.2mm</components>
+        <components name="Tape"> Specialized Pro D2</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.48</current>
+            <votes>21.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized tarmac comp double rival road bike</name>
+        <price>$2,700</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Tarmac FACT 8r carbon, triple monocoque construction, compact race design</material>
+        </frame>
+        <fork>
+            <material> Tarmac full FACT carbon monocoque</material>
+        </fork>
+        <components name="Brake Levers"> SRAM Rival</components>
+        <components name="Rear Brake"> SRAM Rival</components>
+        <components name="Saddle"> Body Geometry Toupe w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Comp-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> SRAM Rival</components>
+        <components name="Seat Binder"> Forged alloy, 32.6mm</components>
+        <components name="Headset"> Campy style, 1 1/8-1 1/2&amp;#8243;, steel race</components>
+        <components name="Handlebars"> Specialized Pro Ergo 2014 alloy</components>
+        <components name="Seatpost"> Specialized Expert, FACT carbon w/ Zertz insert, aluminum head, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.68</current>
+            <votes>19.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized tarmac comp double road bike</name>
+        <price>$2700</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Tarmac FACT 8r carbon, triple monocoque construction, compact race design</material>
+        </frame>
+        <fork>
+            <material> Tarmac full FACT carbon monocoque</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 STI, flight deck compatible</components>
+        <components name="Rear Brake"> Shimano 105</components>
+        <components name="Saddle"> Body Geometry Toupe w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Comp-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Shimano 105</components>
+        <components name="Seat Binder"> Forged alloy, 32.6mm</components>
+        <components name="Headset"> Aheadset Stainless Race Steel Balls w/ top cap w/ 20mm of spacers</components>
+        <components name="Handlebars"> Specialized Pro Ergo 2014 alloy</components>
+        <components name="Seatpost"> Specialized Expert, FACT carbon w/ Zertz insert, aluminum head, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.89</current>
+            <votes>9.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized tarmac comp compact road bike</name>
+        <price>$2700</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Tarmac FACT 8r carbon, triple monocoque construction, compact race design</material>
+        </frame>
+        <fork>
+            <material> Tarmac full FACT carbon monocoque</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 STI, flight deck compatible</components>
+        <components name="Rear Brake"> Shimano 105</components>
+        <components name="Saddle"> Body Geometry Toupe w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Comp-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Shimano 105</components>
+        <components name="Seat Binder"> Forged alloy, 32.6mm</components>
+        <components name="Headset"> Aheadset Stainless Race Steel Balls w/ top cap w/ 20mm of spacers</components>
+        <components name="Handlebars"> Specialized Pro Ergo 2014 alloy</components>
+        <components name="Seatpost"> Specialized Expert, FACT carbon w/ Zertz insert, aluminum head, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized tarmac elite road bike</name>
+        <price>$2200</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Tarmac FACT 8r carbon, triple monocoque construction, compact race design</material>
+        </frame>
+        <fork>
+            <material> Tarmac full FACT carbon monocoque</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 STI, flight deck compatible</components>
+        <components name="Rear Brake"> Arch design, cold forged dual pivot w/ cartridge pads</components>
+        <components name="Saddle"> Body Geometry Toupe w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Comp-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Arch design, cold forged dual pivot w/ cartridge pads</components>
+        <components name="Seat Binder"> Forged alloy, 32.6mm</components>
+        <components name="Headset"> Aheadset Stainless Race Steel Balls w/ top cap w/ 20mm of spacers</components>
+        <components name="Handlebars"> Specialized Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Specialized Comp, FACT carbon w/ Zertz insert, aluminum head, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.39</current>
+            <votes>23.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized tarmac elite compact road bike</name>
+        <price>$2,200</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Tarmac FACT 8r carbon, triple monocoque construction, compact race design</material>
+        </frame>
+        <fork>
+            <material> Tarmac full FACT carbon monocoque</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 STI, flight deck compatible</components>
+        <components name="Rear Brake"> Arch design, cold forged dual pivot w/ cartridge pads</components>
+        <components name="Saddle"> Body Geometry Toupe w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Comp-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Arch design, cold forged dual pivot w/ cartridge pads</components>
+        <components name="Seat Binder"> Forged alloy, 32.6mm</components>
+        <components name="Headset"> Aheadset Stainless Race Steel Balls w/ top cap w/ 20mm of spacers</components>
+        <components name="Handlebars"> Specialized Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Specialized Comp, FACT carbon w/ Zertz insert, aluminum head, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.6</current>
+            <votes>20.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized s works amira womens road bike</name>
+        <price>$7,200</price>
+        <year>2010</year>
+        <frame>
+            <material> S-Works Amira FACT 10r carbon, FACT IS construction, compact women&amp;#8217;s race geometry</material>
+        </frame>
+        <fork>
+            <material> S-Works Amira FACT carbon monocoque, 1 1/8 &amp;#8211; 1 3/8&amp;#8243; tapered steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Dura-Ace STI, flight deck compatible</components>
+        <components name="Rear Brake"> Shimano Dura-Ace</components>
+        <components name="Saddle"> Body Geometry Ruby Gel w/ hollow Ti rails</components>
+        <components name="Stem"> S-Works 3D forged with carbon-wrap top and front cap</components>
+        <components name="Front Brake"> Shimano Dura-Ace</components>
+        <components name="Seat Binder"> S-Works alloy, 32.6mm clamp</components>
+        <components name="Headset"> 1 1/8 &amp;#8211; 1 3/8&amp;#8243; Aheadset stainless balls w/ top cap, 20mm cone spacer, 20mm flat spacers</components>
+        <components name="Handlebars"> S-Works Ruby SL Ergo Carbon</components>
+        <components name="Seatpost"> S-Works FACT carbon w/ Zertz insert, 27.2mm</components>
+        <components name="Tape"> Specialized S-Works wrap</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized amira expert womens road bike</name>
+        <price>$3,300</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Amira FACT 8r carbon, FACT IS construction, compact women&amp;#8217;s race geometry</material>
+        </frame>
+        <fork>
+            <material> Amira FACT carbon monocoque, 1 1/8 &amp;#8211; 1 3/8&amp;#8243; tapered steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Ultegra STI, flight deck compatible</components>
+        <components name="Rear Brake"> Shimano Ultegra</components>
+        <components name="Saddle"> Body Geometry Ruby Gel w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Pro-Set, 3D forged 7050 aluminum, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Shimano Ultegra</components>
+        <components name="Seat Binder"> Forged alloy, 32.6mm</components>
+        <components name="Headset"> 1 1/8 &amp;#8211; 1 3/8&amp;#8243; Aheadset stainless balls w/ top cap, 20mm cone spacer, 20mm flat spacers</components>
+        <components name="Handlebars"> Specialized Pro women&amp;#8217;s ergo 2014 alloy</components>
+        <components name="Seatpost"> Specialized FACT carbon w/ Zertz insert, 27.2mm</components>
+        <components name="Tape"> Specialized Pro Gel</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized amira comp womens road bike</name>
+        <price>$2700</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Amira FACT 8r carbon, FACT IS construction, compact women&amp;#8217;s race geometry</material>
+        </frame>
+        <fork>
+            <material> Amira FACT carbon monocoque, 1 1/8 &amp;#8211; 1 3/8&amp;#8243; tapered steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 STI, flight deck compatible</components>
+        <components name="Rear Brake"> Shimano 105</components>
+        <components name="Saddle"> Body Geometry women&amp;#8217;s Jett w/ Hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Pro-Set, 3D forged 7050 aluminum, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Shimano 105</components>
+        <components name="Seat Binder"> Forged alloy, 32.6mm</components>
+        <components name="Headset"> 1 1/8 &amp;#8211; 1 3/8&amp;#8243; Aheadset stainless balls w/ top cap, 20mm cone spacer, 20mm flat spacers</components>
+        <components name="Handlebars"> Specialized Pro women&amp;#8217;s ergo 2014 alloy</components>
+        <components name="Seatpost"> Specialized Expert, FACT carbon w/ Zertz insert, aluminum head, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized allez comp compact road bike</name>
+        <price>$1,550</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Allez E5 aluminum, fully manipulated tubing, smooth weld compact race design, FACT carbon seatstays, integrated headset</material>
+        </frame>
+        <fork>
+            <material> Specialized FACT carbon, carbon fiber legs, aluminum crown and steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 STI, flight deck compatible</components>
+        <components name="Rear Brake"> Tektro cold-forged alloy, dual pivot brake w/ cartridge pads</components>
+        <components name="Saddle"> Body Geometry Rival road, w/ Cr-Mo rails</components>
+        <components name="Stem"> Specialized Comp-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Tektro cold-forged alloy, dual pivot brake w/ cartridge pads</components>
+        <components name="Seat Binder"> Alloy, 31.8mm</components>
+        <components name="Headset"> Cage bearings integrated w/ headset, 20mm of spacers w/ top cap</components>
+        <components name="Handlebars"> Specialized Comp Ergo, 6061 alloy, short drop, ergonomic shape, 31.8mm</components>
+        <components name="Seatpost"> Carbon wrapped, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ gel</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.55</current>
+            <votes>53.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized allez elite compact road bike</name>
+        <price>$1,300</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Allez A1 Premium aluminum, fully manipulated tubing, smooth weld compact race design, integrated headset</material>
+        </frame>
+        <fork>
+            <material> Allez carbon, carbon fiber legs, aluminum crown and steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 STI, flight deck compatible</components>
+        <components name="Rear Brake"> Tektro cold-forged alloy, dual pivot brake w/ cartridge pads</components>
+        <components name="Saddle"> Body Geometry Rival road, w/ Cr-Mo rails</components>
+        <components name="Stem"> Specialized Elite-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Tektro cold-forged alloy, dual pivot brake w/ cartridge pads</components>
+        <components name="Seat Binder"> Alloy, 31.8mm</components>
+        <components name="Headset"> Cage bearings integrated w/ headset, 20mm of spacers w/ top cap</components>
+        <components name="Handlebars"> Specialized Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Carbon wrapped, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ gel</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.32</current>
+            <votes>44.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized allez sport compact road bike</name>
+        <price>$1,000</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Allez A1 Premium aluminum, fully manipulated tubing, smooth weld compact race design, integrated headset</material>
+        </frame>
+        <fork>
+            <material> Allez carbon, carbon fiber legs, aluminum crown and steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Sora STI, flight deck compatible</components>
+        <components name="Rear Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Saddle"> Body Geometry Rival road, w/ steel rails</components>
+        <components name="Stem"> Specialized Elite-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Seat Binder"> Alloy, 31.8mm</components>
+        <components name="Headset"> Cage bearings integrated w/ headset, 20mm of spacers w/ top cap</components>
+        <components name="Handlebars"> Specialized Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Alloy, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ gel</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.33</current>
+            <votes>3.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized allez sport double road bike</name>
+        <price>$850</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Allez A1 Premium aluminum, fully manipulated tubing, smooth weld compact race design, integrated headset</material>
+        </frame>
+        <fork>
+            <material> Allez carbon, carbon fiber legs, aluminum crown and steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Sora STI, flight deck compatible</components>
+        <components name="Rear Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Saddle"> Body Geometry Rival road, w/ steel rails</components>
+        <components name="Stem"> Specialized Elite-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Seat Binder"> Alloy, 31.8mm</components>
+        <components name="Headset"> Cage bearings integrated w/ headset, 20mm of spacers w/ top cap</components>
+        <components name="Handlebars"> Specialized Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Alloy, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ gel</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.82</current>
+            <votes>11.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized allez sport triple road bike</name>
+        <price>$850</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Allez A1 Premium aluminum, fully manipulated tubing, smooth weld compact race design, integrated headset</material>
+        </frame>
+        <fork>
+            <material> Allez carbon, carbon fiber legs, aluminum crown and steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Sora STI, flight deck compatible</components>
+        <components name="Rear Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Saddle"> Body Geometry Rival road, w/ steel rails</components>
+        <components name="Stem"> Specialized Elite-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Seat Binder"> Alloy, 31.8mm</components>
+        <components name="Headset"> Cage bearings integrated w/ headset, 20mm of spacers w/ top cap</components>
+        <components name="Handlebars"> Specialized Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Alloy, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ gel</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.61</current>
+            <votes>49.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized allez double steel road bike</name>
+        <price>$610</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Allez steel, integrated HS Tig welded</material>
+        </frame>
+        <fork>
+            <material> Allez Steel</material>
+        </fork>
+        <components name="Brake Levers"> Lever pull</components>
+        <components name="Rear Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Saddle"> Body Geometry Rival road, w/ steel rails</components>
+        <components name="Stem"> Specialized Elite-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Seat Binder"> Integrated w/ frame</components>
+        <components name="Headset"> Aheadset 1&amp;#8243;, cage bearings, integrated</components>
+        <components name="Handlebars"> Specialized Elite, 6061 aluminum, short drop, 31.8mm</components>
+        <components name="Seatpost"> Alloy, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ gel</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.6</current>
+            <votes>40.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized allez double road bike</name>
+        <price>$740</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Allez A1 Premium aluminum, fully manipulated tubing, smooth weld compact race design, integrated headset</material>
+        </frame>
+        <fork>
+            <material> Allez carbon, carbon fiber legs, aluminum crown and steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 2300 STI, flight deck compatible</components>
+        <components name="Rear Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Saddle"> Body Geometry Rival road, w/ steel rails</components>
+        <components name="Stem"> Alloy, CP bolt, 31.8mm</components>
+        <components name="Front Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Seat Binder"> Alloy, 31.8mm</components>
+        <components name="Headset"> Cage bearings integrated w/ headset, 20mm of spacers w/ top cap</components>
+        <components name="Handlebars"> Specialized Elite, 6061 aluminum, short drop, 31.8mm</components>
+        <components name="Seatpost"> Alloy, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ gel</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.6</current>
+            <votes>5.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized allez triple road bike</name>
+        <price>$740</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Allez A1 Premium aluminum, fully manipulated tubing, smooth weld compact race design, integrated headset</material>
+        </frame>
+        <fork>
+            <material> Allez carbon, carbon fiber legs, aluminum crown and steerer</material>
+        </fork>
+        <components name="Brake Levers"> n/l</components>
+        <components name="Rear Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Saddle"> Body Geometry Rival road, w/ steel rails</components>
+        <components name="Stem"> Alloy, CP bolt, 31.8mm</components>
+        <components name="Front Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Seat Binder"> Alloy, 31.8mm</components>
+        <components name="Headset"> Cage bearings integrated w/ headset, 20mm of spacers w/ top cap</components>
+        <components name="Handlebars"> Specialized Elite, 6061 aluminum, short drop, 31.8mm</components>
+        <components name="Seatpost"> Alloy, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ gel</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.36</current>
+            <votes>14.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized s works roubaix sl2 da road bike</name>
+        <price>$7200</price>
+        <year>2010</year>
+        <frame>
+            <material> S-Works Roubaix FACT 10r carbon, FACT IS construction, compact race design w/ Zertz inserts</material>
+        </frame>
+        <fork>
+            <material> S-Works Roubaix full carbon monocoque, w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Dura-Ace STI, flight deck compatible</components>
+        <components name="Rear Brake"> Shimano Dura-Ace</components>
+        <components name="Saddle"> Body Geometry Toupe w/ hollow Ti rails</components>
+        <components name="Stem"> S-Works 3D forged with carbon-wrap top and front cap</components>
+        <components name="Front Brake"> Shimano Dura-Ace</components>
+        <components name="Seat Binder"> S-Works alloy, 32.6mm clamp</components>
+        <components name="Headset"> Aheadset Stainless Balls w/ top cap w/ 20mm of spacers</components>
+        <components name="Handlebars"> S-Works SL Ergo Carbon</components>
+        <components name="Seatpost"> S-Works FACT carbon w/ Zertz insert, 27.2mm</components>
+        <components name="Tape"> Specialized S-Works Roubaix wrap with neoprene pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized roubaix pro dura ace road bike</name>
+        <price>$5000</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Roubaix FACT 9r carbon, FACT IS construction, compact race design w/ Zertz inserts</material>
+        </frame>
+        <fork>
+            <material> Roubaix full carbon monocoque, w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Dura-Ace STI, flight deck compatible</components>
+        <components name="Rear Brake"> Shimano Ultegra</components>
+        <components name="Saddle"> Body Geometry Toupe w/ hollow Ti rails</components>
+        <components name="Stem"> Specialized Pro-Set, 3D forged 7050 aluminum, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Shimano Ultegra</components>
+        <components name="Seat Binder"> Alloy, 32.6mm clamp</components>
+        <components name="Headset"> Aheadset Stainless Balls w/ top cap w/ 20mm of spacers</components>
+        <components name="Handlebars"> S-Works SL Ergo Carbon</components>
+        <components name="Seatpost"> Specialized FACT carbon w/ Zertz insert, 27.2mm</components>
+        <components name="Tape"> Specialized Pro Gel with neoprene pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>5.0</current>
+            <votes>1.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized roubaix pro sram road bike</name>
+        <price>$4400</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Roubaix FACT 9r carbon, FACT IS construction, compact race design w/ Zertz inserts</material>
+        </frame>
+        <fork>
+            <material> Roubaix full carbon monocoque, w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> SRAM RED</components>
+        <components name="Rear Brake"> SRAM Force</components>
+        <components name="Saddle"> Body Geometry Toupe w/ hollow Ti rails</components>
+        <components name="Stem"> Specialized Pro-Set, 3D forged 7050 aluminum, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> SRAM Force</components>
+        <components name="Seat Binder"> Alloy, 32.6mm clamp</components>
+        <components name="Headset"> Aheadset Stainless Balls w/ top cap w/ 20mm of spacers</components>
+        <components name="Handlebars"> S-Works SL Ergo Carbon</components>
+        <components name="Seatpost"> Specialized FACT carbon w/ Zertz insert, 27.2mm</components>
+        <components name="Tape"> Specialized Pro Gel with neoprene pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized roubaix expert compact road bike</name>
+        <price>$3300</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Roubaix FACT 9r carbon, FACT IS construction, compact race design w/ Zertz inserts</material>
+        </frame>
+        <fork>
+            <material> Roubaix full carbon monocoque, w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Ultegra STI, flight deck compatible</components>
+        <components name="Rear Brake"> Shimano Ultegra</components>
+        <components name="Saddle"> Body Geometry Avatar Gel w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Pro-Set, 3D forged 7050 aluminum, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Shimano Ultegra</components>
+        <components name="Seat Binder"> Alloy, 32.6mm clamp</components>
+        <components name="Headset"> Aheadset Stainless Balls w/ top cap w/ 20mm of spacers</components>
+        <components name="Handlebars"> Specialized Pro Ergo 2014 alloy</components>
+        <components name="Seatpost"> Specialized FACT carbon w/ Zertz insert, 27.2mm</components>
+        <components name="Tape"> Specialized Pro Gel with neoprene pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.02</current>
+            <votes>54.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized roubaix expert triple road bike</name>
+        <price>$3300</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Roubaix FACT 9r carbon, FACT IS construction, compact race design w/ Zertz inserts</material>
+        </frame>
+        <fork>
+            <material> Roubaix full carbon monocoque, w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Ultegra STI, flight deck compatible</components>
+        <components name="Rear Brake"> Shimano Ultegra</components>
+        <components name="Saddle"> Body Geometry Avatar Gel w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Pro-Set, 3D forged 7050 aluminum, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Shimano Ultegra</components>
+        <components name="Seat Binder"> Alloy, 32.6mm clamp</components>
+        <components name="Headset"> Aheadset Stainless Balls w/ top cap w/ 20mm of spacers</components>
+        <components name="Handlebars"> Specialized Pro Ergo 2014 alloy</components>
+        <components name="Seatpost"> Specialized FACT carbon w/ Zertz insert, 27.2mm</components>
+        <components name="Tape"> Specialized Pro Gel with neoprene pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.04</current>
+            <votes>26.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized roubaix elite compact road bike</name>
+        <price>$2200</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Roubaix FACT 7r carbon, triple monocoque construction, compact race design w/ Zertz inserts</material>
+        </frame>
+        <fork>
+            <material> Roubaix full carbon monocoque, w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 STI, flight deck compatible</components>
+        <components name="Rear Brake"> Arch design, cold forged dual pivot w/ cartridge pads</components>
+        <components name="Saddle"> Body Geometry Avatar Gel w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Comp-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Arch design, cold forged dual pivot w/ cartridge pads</components>
+        <components name="Seat Binder"> Forged alloy, 32.6mm</components>
+        <components name="Headset"> Alloy, 1-1/8 &amp;#8211; 1-3/8&amp;#8243;, w/ 20mm of spacers</components>
+        <components name="Handlebars"> Specialized Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Specialized Comp, FACT carbon w/ Zertz insert, aluminum head, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.42</current>
+            <votes>24.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized roubaix elite triple road bike</name>
+        <price>$2200</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Roubaix FACT 7r carbon, triple monocoque construction, compact race design w/ Zertz inserts</material>
+        </frame>
+        <fork>
+            <material> Roubaix full carbon monocoque, w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 STI, flight deck compatible</components>
+        <components name="Rear Brake"> Arch design, cold forged dual pivot w/ cartridge pads</components>
+        <components name="Saddle"> Body Geometry Avatar Gel w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Comp-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Arch design, cold forged dual pivot w/ cartridge pads</components>
+        <components name="Seat Binder"> Forged alloy, 32.6mm</components>
+        <components name="Headset"> Alloy, 1-1/8 &amp;#8211; 1-3/8&amp;#8243;, w/ 20mm of spacers</components>
+        <components name="Handlebars"> Specialized Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Specialized Comp, FACT carbon w/ Zertz insert, aluminum head, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.67</current>
+            <votes>27.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized roubaix comp compact road bike</name>
+        <price>$2700</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Roubaix FACT 7r carbon, triple monocoque construction, compact race design w/ Zertz inserts</material>
+        </frame>
+        <fork>
+            <material> Roubaix full carbon monocoque, w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 STI, flight deck compatible</components>
+        <components name="Rear Brake"> Shimano 105</components>
+        <components name="Saddle"> Body Geometry Avatar Gel w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Comp-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Shimano 105</components>
+        <components name="Seat Binder"> Forged alloy, 32.6mm</components>
+        <components name="Headset"> Alloy, 1-1/8 &amp;#8211; 1-3/8&amp;#8243;, w/ 20mm of spacers</components>
+        <components name="Handlebars"> Specialized Pro Ergo 2014 alloy</components>
+        <components name="Seatpost"> Specialized Expert, FACT carbon w/ Zertz insert, aluminum head, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.43</current>
+            <votes>49.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized roubaix comp compact rival road bike</name>
+        <price>$2700</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Roubaix FACT 7r carbon, triple monocoque construction, compact race design w/ Zertz inserts</material>
+        </frame>
+        <fork>
+            <material> Roubaix full carbon monocoque, w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> SRAM Rival</components>
+        <components name="Rear Brake"> SRAM Rival</components>
+        <components name="Saddle"> Body Geometry Avatar Gel w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Comp-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> SRAM Rival</components>
+        <components name="Seat Binder"> Forged alloy, 32.6mm</components>
+        <components name="Headset"> Alloy, 1-1/8 &amp;#8211; 1-3/8&amp;#8243;, w/ 20mm of spacers</components>
+        <components name="Handlebars"> Specialized Pro Ergo 2014 alloy</components>
+        <components name="Seatpost"> Specialized Expert, FACT carbon w/ Zertz insert, aluminum head, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.78</current>
+            <votes>27.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized roubaix comp triple road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Roubaix FACT 7r carbon, triple monocoque construction, compact race design w/ Zertz inserts</material>
+        </frame>
+        <fork>
+            <material> Roubaix full carbon monocoque, w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 STI, flight deck compatible</components>
+        <components name="Rear Brake"> Shimano 105</components>
+        <components name="Saddle"> Body Geometry Avatar Gel w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Comp-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Shimano 105</components>
+        <components name="Seat Binder"> Forged alloy, 32.6mm</components>
+        <components name="Headset"> Alloy, 1-1/8 &amp;#8211; 1-3/8&amp;#8243;, w/ 20mm of spacers</components>
+        <components name="Handlebars"> Specialized Pro Ergo 2014 alloy</components>
+        <components name="Seatpost"> Specialized Expert, FACT carbon w/ Zertz insert, aluminum head, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.06</current>
+            <votes>16.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized roubaix compact road bike</name>
+        <price>$1900</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Roubaix FACT 6r carbon, triple monocoque construction, compact race design w/ Zertz inserts</material>
+        </frame>
+        <fork>
+            <material> Roubaix full carbon monocoque, w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 STI, flight deck compatible</components>
+        <components name="Rear Brake"> Tektro cold-forged, dual pivot brake w/ cartridge pads</components>
+        <components name="Saddle"> Body Geometry Avatar Gel w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Comp-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Tektro cold-forged, dual pivot brake w/ cartridge pads</components>
+        <components name="Seat Binder"> Forged alloy, 32.6mm</components>
+        <components name="Headset"> Aheadset 1 1/8&amp;#8243; w/ top cap, 40mm of spacers</components>
+        <components name="Handlebars"> Specialized Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Carbon wrapped, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.33</current>
+            <votes>42.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized roubaix triple road bike</name>
+        <price>$1900</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Roubaix FACT 6r carbon, triple monocoque construction, compact race design w/ Zertz inserts</material>
+        </frame>
+        <fork>
+            <material> Roubaix full carbon monocoque, w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 STI, flight deck compatible</components>
+        <components name="Rear Brake"> Tektro cold-forged, dual pivot brake w/ cartridge pads</components>
+        <components name="Saddle"> Body Geometry Avatar Gel w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Comp-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Tektro cold-forged, dual pivot brake w/ cartridge pads</components>
+        <components name="Seat Binder"> Forged alloy, 32.6mm</components>
+        <components name="Headset"> Aheadset 1 1/8&amp;#8243; w/ top cap, 40mm of spacers</components>
+        <components name="Handlebars"> Specialized Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Carbon wrapped, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized s works ruby womens road bike</name>
+        <price>$7200</price>
+        <year>2010</year>
+        <frame>
+            <material> S-Works Ruby FACT 10r carbon, FACT IS construction, compact women&amp;#8217;s design w/ Zertz inserts</material>
+        </frame>
+        <fork>
+            <material> S-Works Ruby FACT carbon monocoque, w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Dura-Ace STI, flight deck compatible</components>
+        <components name="Rear Brake"> Shimano Dura-Ace</components>
+        <components name="Saddle"> Body Geometry women&amp;#8217;s Jett w/ Hollow Cr-Mo rails</components>
+        <components name="Stem"> S-Works 3D forged with carbon-wrap top and front cap</components>
+        <components name="Front Brake"> Shimano Dura-Ace</components>
+        <components name="Seat Binder"> S-Works alloy, 32.6mm clamp</components>
+        <components name="Headset"> Campy style stainless, 1 1/8&amp;#8243; w/ 20mm cone spacer and 20mm of flat spacers</components>
+        <components name="Handlebars"> S-Works Ruby SL Ergo Carbon</components>
+        <components name="Seatpost"> S-Works FACT carbon w/ Zertz insert, 27.2mm</components>
+        <components name="Tape"> Specialized S-Works wrap with neoprene pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized ruby pro womens road bike</name>
+        <price>$5,000</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Ruby FACT 9r carbon, FACT IS construction, compact women&amp;#8217;s design w/ Zertz inserts</material>
+        </frame>
+        <fork>
+            <material> Ruby full carbon monocoque, w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Dura-Ace STI, flight deck compatible</components>
+        <components name="Rear Brake"> Shimano Ultegra</components>
+        <components name="Saddle"> Body Geometry women&amp;#8217;s Jett w/ Hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Pro-Set, 3D forged 7050 aluminum, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Shimano Ultegra</components>
+        <components name="Seat Binder"> Alloy, 32.6mm clamp</components>
+        <components name="Headset"> Campy style stainless, 1 1/8&amp;#8243; w/ 20mm cone spacer and 20mm of flat spacers</components>
+        <components name="Handlebars"> S-Works Ruby SL Ergo Carbon</components>
+        <components name="Seatpost"> Specialized FACT carbon w/ Zertz insert, 27.2mm</components>
+        <components name="Tape"> Specialized Pro Gel with neoprene pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized ruby expert compact womens road bike</name>
+        <price>$3,300</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Ruby FACT 9r carbon, FACT IS construction, compact women&amp;#8217;s design w/ Zertz inserts</material>
+        </frame>
+        <fork>
+            <material> Ruby full carbon monocoque, w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Ultegra STI, flight deck compatible</components>
+        <components name="Rear Brake"> Shimano Ultegra</components>
+        <components name="Saddle"> Body Geometry women&amp;#8217;s Jett w/ Hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Pro-Set, 3D forged 7050 aluminum, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Shimano Ultegra</components>
+        <components name="Seat Binder"> Forged alloy, 32.6mm</components>
+        <components name="Headset"> Campy style stainless, 1 1/8&amp;#8243; w/ 20mm cone spacer and 20mm of flat spacers</components>
+        <components name="Handlebars"> Specialized Pro women&amp;#8217;s ergo 2014 alloy</components>
+        <components name="Seatpost"> Specialized FACT carbon w/ Zertz insert, 27.2mm</components>
+        <components name="Tape"> Specialized Pro Gel with neoprene pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized ruby expert triple womens road bike</name>
+        <price>$3,300</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Ruby FACT 9r carbon, FACT IS construction, compact women&amp;#8217;s design w/ Zertz inserts</material>
+        </frame>
+        <fork>
+            <material> Ruby full carbon monocoque, w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Ultegra STI, flight deck compatible</components>
+        <components name="Rear Brake"> Shimano Ultegra</components>
+        <components name="Saddle"> Body Geometry women&amp;#8217;s Jett w/ Hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Pro-Set, 3D forged 7050 aluminum, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Shimano Ultegra</components>
+        <components name="Seat Binder"> Forged alloy, 32.6mm</components>
+        <components name="Headset"> Campy style stainless, 1 1/8&amp;#8243; w/ 20mm cone spacer and 20mm of flat spacers</components>
+        <components name="Handlebars"> Specialized Pro women&amp;#8217;s ergo 2014 alloy</components>
+        <components name="Seatpost"> Specialized FACT carbon w/ Zertz insert, 27.2mm</components>
+        <components name="Tape"> Specialized Pro Gel with neoprene pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized ruby comp triple womens road bike</name>
+        <price>$2700</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Ruby FACT 7r carbon, triple monocoque construction, compact women&amp;#8217;s design w/ Zertz inserts</material>
+        </frame>
+        <fork>
+            <material> Ruby full carbon monocoque, w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 STI, flight deck compatible</components>
+        <components name="Rear Brake"> Shimano 105</components>
+        <components name="Saddle"> Body Geometry women&amp;#8217;s Lithia w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Comp-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Shimano 105</components>
+        <components name="Seat Binder"> Forged alloy, 32.6mm</components>
+        <components name="Headset"> Aheadset 1 1/8&amp;#8243; w/ top cap, 20mm cone spacer and 20mm of flat spacers</components>
+        <components name="Handlebars"> Specialized Pro women&amp;#8217;s ergo 2014 alloy</components>
+        <components name="Seatpost"> Specialized Expert, FACT carbon w/ Zertz insert, aluminum head, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized ruby comp compact womens road bike</name>
+        <price>$2700</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Ruby FACT 7r carbon, triple monocoque construction, compact women&amp;#8217;s design w/ Zertz inserts</material>
+        </frame>
+        <fork>
+            <material> Ruby full carbon monocoque, w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 STI, flight deck compatible</components>
+        <components name="Rear Brake"> Shimano 105</components>
+        <components name="Saddle"> Body Geometry women&amp;#8217;s Lithia w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Comp-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Shimano 105</components>
+        <components name="Seat Binder"> Forged alloy, 32.6mm</components>
+        <components name="Headset"> Aheadset 1 1/8&amp;#8243; w/ top cap, 20mm cone spacer and 20mm of flat spacers</components>
+        <components name="Handlebars"> Specialized Pro women&amp;#8217;s ergo 2014 alloy</components>
+        <components name="Seatpost"> Specialized Expert, FACT carbon w/ Zertz insert, aluminum head, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized ruby elite compact womens road bike</name>
+        <price>$2200</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Ruby FACT 7r carbon, triple monocoque construction, compact women&amp;#8217;s design w/ Zertz inserts</material>
+        </frame>
+        <fork>
+            <material> Ruby full carbon monocoque, w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 STI, flight deck compatible</components>
+        <components name="Rear Brake"> Arch design, cold forged dual pivot w/ cartridge pads</components>
+        <components name="Saddle"> Body Geometry women&amp;#8217;s Lithia w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Comp-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Arch design, cold forged dual pivot w/ cartridge pads</components>
+        <components name="Seat Binder"> Forged alloy, 32.6mm</components>
+        <components name="Headset"> Aheadset 1 1/8&amp;#8243; w/ top cap, 20mm cone spacer and 20mm of flat spacers</components>
+        <components name="Handlebars"> Specialized Women&amp;#8217;s Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Specialized Comp, FACT carbon w/ Zertz insert, aluminum head, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.29</current>
+            <votes>35.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized ruby elite triple womens road bike</name>
+        <price>$2200</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Ruby FACT 7r carbon, triple monocoque construction, compact women&amp;#8217;s design w/ Zertz inserts</material>
+        </frame>
+        <fork>
+            <material> Ruby full carbon monocoque, w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 STI, flight deck compatible</components>
+        <components name="Rear Brake"> Arch design, cold forged dual pivot w/ cartridge pads</components>
+        <components name="Saddle"> Body Geometry women&amp;#8217;s Lithia w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Comp-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Arch design, cold forged dual pivot w/ cartridge pads</components>
+        <components name="Seat Binder"> Forged alloy, 32.6mm</components>
+        <components name="Headset"> Aheadset 1 1/8&amp;#8243; w/ top cap, 20mm cone spacer and 20mm of flat spacers</components>
+        <components name="Handlebars"> Specialized Women&amp;#8217;s Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Specialized Comp, FACT carbon w/ Zertz insert, aluminum head, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>2.57</current>
+            <votes>7.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized secteur comp compact road bike</name>
+        <price>$1650</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Secteur E5 aluminum, double-butted, compact design, integrated headset</material>
+        </frame>
+        <fork>
+            <material> Secteur carbon, alloy crown and steerer, rack eyelets w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 STI, flight deck compatible</components>
+        <components name="Rear Brake"> Tektro cold-forged, dual pivot brake w/ cartridge pads</components>
+        <components name="Saddle"> Body Geometry Avatar Gel w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Comp-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Tektro cold-forged, dual pivot brake w/ cartridge pads</components>
+        <components name="Seat Binder"> Alloy, 31.8mm</components>
+        <components name="Headset"> Cage bearings integrated HS. w/ 20mm of spacers w/ top cap</components>
+        <components name="Handlebars"> Specialized Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Specialized Comp, FACT carbon w/ Zertz insert, aluminum head, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.74</current>
+            <votes>34.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized secteur elite compact road bike</name>
+        <price>$1,400</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Secteur A1 Premium aluminum, fully manipulated tubing, smooth weld compact design, integrated headset</material>
+        </frame>
+        <fork>
+            <material> Secteur carbon, alloy crown and steerer, rack eyelets w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 STI, flight deck compatible</components>
+        <components name="Rear Brake"> Tektro cold-forged, dual pivot brake w/ cartridge pads</components>
+        <components name="Saddle"> Body Geometry Avatar Gel w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Comp-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Tektro cold-forged, dual pivot brake w/ cartridge pads</components>
+        <components name="Seat Binder"> Alloy, 31.8mm</components>
+        <components name="Headset"> Cage bearings integrated HS. w/ 20mm of spacers w/ top cap</components>
+        <components name="Handlebars"> Specialized Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Specialized Comp, FACT carbon w/ Zertz insert, aluminum head, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.5</current>
+            <votes>2.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized secteur elite triple road bike</name>
+        <price>$1400</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Secteur A1 Premium aluminum, fully manipulated tubing, smooth weld compact design, integrated headset</material>
+        </frame>
+        <fork>
+            <material> Secteur carbon, alloy crown and steerer, rack eyelets w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> n/l</components>
+        <components name="Rear Brake"> Tektro cold-forged, dual pivot w/ cartridge pads</components>
+        <components name="Saddle"> Body Geometry Avatar Gel w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Elite-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Tektro cold-forged, dual pivot w/ cartridge pads</components>
+        <components name="Seat Binder"> Alloy, 31.8mm</components>
+        <components name="Headset"> Cage bearings integrated HS. w/ 20mm of spacers w/ top cap</components>
+        <components name="Handlebars"> Specialized Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Carbon wrapped, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.56</current>
+            <votes>9.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized secteur sport compact road bike</name>
+        <price>$1,000</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Secteur A1 Premium aluminum, fully manipulated tubing, smooth weld compact design, integrated headset</material>
+        </frame>
+        <fork>
+            <material> Secteur carbon, alloy crown and steerer, rack eyelets w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> n/l</components>
+        <components name="Rear Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Saddle"> Body Geometry Avatar Gel w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Elite-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Seat Binder"> Alloy, 31.8mm</components>
+        <components name="Headset"> Cage bearings integrated HS. w/ 20mm of spacers w/ top cap</components>
+        <components name="Handlebars"> Specialized Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Alloy, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized secteur sport triple road bike</name>
+        <price>$910</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Secteur A1 Premium aluminum, fully manipulated tubing, smooth weld compact design, integrated headset</material>
+        </frame>
+        <fork>
+            <material> Secteur carbon, alloy crown and steerer, rack eyelets w/ Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> n/l</components>
+        <components name="Rear Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Saddle"> Body Geometry Avatar Gel w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Elite-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Seat Binder"> Alloy, 31.8mm</components>
+        <components name="Headset"> Cage bearings integrated HS. w/ 20mm of spacers w/ top cap</components>
+        <components name="Handlebars"> Specialized Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Alloy, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized secteur triple road bike</name>
+        <price>$800</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized Secteur A1 Premium aluminum, fully manipulated tubing, smooth weld compact design, integrated headset</material>
+        </frame>
+        <fork>
+            <material> Secteur carbon fork w/ Zertz inserts, alloy crown and steerer, rack eyelets</material>
+        </fork>
+        <components name="Brake Levers"> n/l</components>
+        <components name="Rear Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Saddle"> Rival Road</components>
+        <components name="Stem"> Alloy, CP bolt, 31.8mm</components>
+        <components name="Front Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Seat Binder"> Alloy, 31.8mm</components>
+        <components name="Headset"> Cage bearings integrated HS. w/ 20mm of spacers w/ top cap</components>
+        <components name="Handlebars"> Specialized Elite, 6061 aluminum, short drop, 31.8mm</components>
+        <components name="Seatpost"> Alloy, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized dolce elite compact womens road bike</name>
+        <price>$1200</price>
+        <year>2010</year>
+        <frame>
+            <material> Dolce A1 Premium aluminum, fully manipulated tubing, smooth weld women&amp;#8217;s compact design, integrated headset</material>
+        </frame>
+        <fork>
+            <material> Dolce carbon, alloy crown, carbon steerer, Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Tiagra STI, flight deck compatible</components>
+        <components name="Rear Brake"> Tektro cold-forged, dual pivot w/ cartridge pads</components>
+        <components name="Saddle"> Body Geometry women&amp;#8217;s Lithia w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Elite-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Tektro cold-forged, dual pivot w/ cartridge pads</components>
+        <components name="Seat Binder"> Alloy, 31.8mm</components>
+        <components name="Headset"> Cage bearings integrated HS. w/ 20mm cone spacer and 20mm of flat spacers w/ top cap</components>
+        <components name="Handlebars"> Specialized Women&amp;#8217;s Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Carbon wrapped, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized dolce elite triple womens road bike</name>
+        <price>$1200</price>
+        <year>2010</year>
+        <frame>
+            <material> Dolce A1 Premium aluminum, fully manipulated tubing, smooth weld women&amp;#8217;s compact design, integrated headset</material>
+        </frame>
+        <fork>
+            <material> Dolce carbon, alloy crown, carbon steerer, Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Tiagra STI, flight deck compatible</components>
+        <components name="Rear Brake"> Tektro cold-forged, dual pivot w/ cartridge pads</components>
+        <components name="Saddle"> Body Geometry women&amp;#8217;s Lithia w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Elite-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Tektro cold-forged, dual pivot w/ cartridge pads</components>
+        <components name="Seat Binder"> Alloy, 31.8mm</components>
+        <components name="Headset"> Cage bearings integrated HS. w/ 20mm cone spacer and 20mm of flat spacers w/ top cap</components>
+        <components name="Handlebars"> Specialized Women&amp;#8217;s Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Carbon wrapped, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized dolce comp compact womens road bike</name>
+        <price>$1650</price>
+        <year>2010</year>
+        <frame>
+            <material> Dolce E5 aluminum, full-smooth welding, integrated HS, carbon SS w/ Zertz</material>
+        </frame>
+        <fork>
+            <material> Dolce carbon, alloy crown, carbon steerer, Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 STI, flight deck compatible</components>
+        <components name="Rear Brake"> Tektro cold-forged, dual pivot brake w/ cartridge pads</components>
+        <components name="Saddle"> Body Geometry women&amp;#8217;s Lithia w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Comp-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Tektro cold-forged, dual pivot brake w/ cartridge pads</components>
+        <components name="Seat Binder"> Alloy, 31.8mm</components>
+        <components name="Headset"> Cage bearings integrated HS. w/ 20mm cone spacer and 20mm of flat spacers w/ top cap</components>
+        <components name="Handlebars"> Specialized Women&amp;#8217;s Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Carbon wrapped, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized dolce comp triple womens road bike</name>
+        <price>$1650</price>
+        <year>2010</year>
+        <frame>
+            <material> Dolce E5 aluminum, full-smooth welding, integrated HS, carbon SS w/ Zertz</material>
+        </frame>
+        <fork>
+            <material> Dolce carbon, alloy crown, carbon steerer, Zertz inserts</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105 STI, flight deck compatible</components>
+        <components name="Rear Brake"> Tektro cold-forged, dual pivot brake w/ cartridge pads</components>
+        <components name="Saddle"> Body Geometry women&amp;#8217;s Lithia w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Comp-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Tektro cold-forged, dual pivot brake w/ cartridge pads</components>
+        <components name="Seat Binder"> Alloy, 31.8mm</components>
+        <components name="Headset"> Cage bearings integrated HS. w/ 20mm cone spacer and 20mm of flat spacers w/ top cap</components>
+        <components name="Handlebars"> Specialized Women&amp;#8217;s Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Carbon wrapped, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized dolce sport compact womens road bike</name>
+        <price>$910</price>
+        <year>2010</year>
+        <frame>
+            <material> Dolce A1 Premium aluminum, fully manipulated tubing, smooth weld women&amp;#8217;s compact design, integrated headset</material>
+        </frame>
+        <fork>
+            <material> Dolce carbon, alloy crown and steerer</material>
+        </fork>
+        <components name="Brake Levers"> Secondary brake lever</components>
+        <components name="Rear Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Saddle"> Body Geometry women&amp;#8217;s Lithia w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Elite-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Seat Binder"> Alloy, 31.8mm</components>
+        <components name="Headset"> Cage bearings integrated HS. w/ 20mm cone spacer and 20mm of flat spacers w/ top cap</components>
+        <components name="Handlebars"> Specialized Women&amp;#8217;s Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Alloy, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized dolce sport triple womens road bike</name>
+        <price>$910</price>
+        <year>2010</year>
+        <frame>
+            <material> Dolce A1 Premium aluminum, fully manipulated tubing, smooth weld women&amp;#8217;s compact design, integrated headset</material>
+        </frame>
+        <fork>
+            <material> Dolce carbon, alloy crown and steerer</material>
+        </fork>
+        <components name="Brake Levers"> Secondary brake lever</components>
+        <components name="Rear Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Saddle"> Body Geometry women&amp;#8217;s Lithia w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Elite-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Seat Binder"> Alloy, 31.8mm</components>
+        <components name="Headset"> Cage bearings integrated HS. w/ 20mm cone spacer and 20mm of flat spacers w/ top cap</components>
+        <components name="Handlebars"> Specialized Women&amp;#8217;s Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Alloy, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.68</current>
+            <votes>19.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized dolce triple womens road bike</name>
+        <price>$800</price>
+        <year>2010</year>
+        <frame>
+            <material> Dolce A1 Premium aluminum, fully manipulated tubing, smooth weld women&amp;#8217;s compact design, integrated headset</material>
+        </frame>
+        <fork>
+            <material> Dolce carbon, alloy crown and steerer</material>
+        </fork>
+        <components name="Brake Levers"> Secondary brake lever</components>
+        <components name="Rear Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Saddle"> Body Geometry women&amp;#8217;s Dolce w/ steel rails</components>
+        <components name="Stem"> Alloy, CP bolt, 31.8mm</components>
+        <components name="Front Brake"> Light dual pivot brake, Teflon pivots, forged alloy, w/ standard pads</components>
+        <components name="Seat Binder"> Alloy, 31.8mm</components>
+        <components name="Headset"> Cage bearings integrated HS. w/ 20mm cone spacer and 20mm of flat spacers w/ top cap</components>
+        <components name="Handlebars"> Specialized Women&amp;#8217;s Comp Ergo, 6061 alloy</components>
+        <components name="Seatpost"> Alloy, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.95</current>
+            <votes>19.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized s works tricross carbon road bike</name>
+        <price>$5500</price>
+        <year>2010</year>
+        <frame>
+            <material> S-Works Tricross FACT 10m carbon, Az1 construction, semi-compact design, Zertz inserts, OS BB, rack and fender fittings</material>
+        </frame>
+        <fork>
+            <material> S-Works Tricross fork, full FACT carbon monocoque w/ SpeedZertz, rack and fender fittings</material>
+        </fork>
+        <components name="Brake Levers"> SRAM RED</components>
+        <components name="Rear Brake"> Tektro wide canti</components>
+        <components name="Saddle"> Body Geometry Phenom Team, w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> S-Works 3D forged with carbon-wrap top and front cap</components>
+        <components name="Front Brake"> Tektro narrow canti</components>
+        <components name="Seat Binder"> S-Works w/ brake stop, 32.6mm</components>
+        <components name="Headset"> Aheadset Stainless Race/top cap w/ 20mm of spacers</components>
+        <components name="Handlebars"> S-Works SL Ergo Carbon</components>
+        <components name="Seatpost"> S-Works FACT carbon w/ Zertz insert, 27.2mm</components>
+        <components name="Tape"> Specialized CX Pro gel</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized tricross expert road bike</name>
+        <price>$2200</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized TriCross E5 SLX aluminum, fully manipulated tubing, smooth weld semi-compact Freeroad design, FACT carbon seatstays w/ Zertz inserts, rack and fender fittings, integrated headset</material>
+        </frame>
+        <fork>
+            <material> S-Works Tricross fork, full FACT carbon monocoque w/ SpeedZertz, rack and fender fittings</material>
+        </fork>
+        <components name="Brake Levers"> n/l</components>
+        <components name="Rear Brake"> Tektro narrow canti</components>
+        <components name="Saddle"> Body Geometry Phenom Team, w/ hollow Cr-Mo rails</components>
+        <components name="Stem"> Specialized Pro-Set, 3D forged 7050 aluminum, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Tektro wide canti</components>
+        <components name="Seat Binder"> Forged alloy, 31.8mm</components>
+        <components name="Headset"> Specialized Mindset Plus, 1-1/8&amp;#8243; integrated threadless, sealed cartridge bearings, 20mm alloy cone with one 10mm and two 5mm alloy spacers</components>
+        <components name="Handlebars"> Specialized CX Pro 2014 alloy, short drop</components>
+        <components name="Seatpost"> Specialized Comp, FACT carbon w/ Zertz insert, aluminum head, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized CX Pro gel</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized tricross comp road bike</name>
+        <price>$1900</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized TriCross E5 SLX aluminum, fully manipulated tubing, smooth weld semi-compact Freeroad design, FACT carbon seatstays w/ Zertz inserts, rack and fender fittings, integrated headset</material>
+        </frame>
+        <fork>
+            <material> S-Works Tricross fork, full FACT carbon monocoque w/ SpeedZertz, rack and fender fittings</material>
+        </fork>
+        <components name="Brake Levers"> n/l</components>
+        <components name="Rear Brake"> Tektro narrow canti</components>
+        <components name="Saddle"> Body Geometry Rival road, w/ Cr-Mo rails</components>
+        <components name="Stem"> Specialized Comp-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Tektro wide canti</components>
+        <components name="Seat Binder"> Forged alloy, 31.8mm</components>
+        <components name="Headset"> Specialized Mindset Plus, 1-1/8&amp;#8243; integrated threadless, sealed cartridge bearings, 20mm alloy cone with one 10mm and two 5mm alloy spacers</components>
+        <components name="Handlebars"> Specialized CX Pro 2014 alloy, short drop</components>
+        <components name="Seatpost"> Specialized Comp, FACT carbon w/ Zertz insert, aluminum head, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized tricross sport triple road bike</name>
+        <price>$1200</price>
+        <year>2010</year>
+        <frame>
+            <material> Specialized TriCross A1 Premium aluminum, fully manipulated tubing, semi-compact Freeroad design, rack and fender fittings, integrated headset</material>
+        </frame>
+        <fork>
+            <material> Tricross FACT carbon fork, carbon legs, alloy crown and steerer, SpeedZertz inserts, rack and fender fittings</material>
+        </fork>
+        <components name="Brake Levers"> n/l</components>
+        <components name="Rear Brake"> Tektro narrow canti</components>
+        <components name="Saddle"> Body Geometry Rival road, w/ Cr-Mo rails</components>
+        <components name="Stem"> Specialized Elite-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Tektro wide canti</components>
+        <components name="Seat Binder"> Forged alloy, 31.8mm</components>
+        <components name="Headset"> Cage bearings integrated HS. w/ 40mm of spacers w/ top cap</components>
+        <components name="Handlebars"> Specialized CX Comp 6061 alloy, short drop</components>
+        <components name="Seatpost"> Carbon wrapped, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>specialized tricross triple road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Specialized TriCross A1 Premium aluminum, fully manipulated tubing, semi-compact Freeroad design, rack and fender fittings, integrated headset</material>
+        </frame>
+        <fork>
+            <material> Tricross FACT carbon fork, carbon legs, alloy crown and steerer, SpeedZertz inserts, rack and fender fittings</material>
+        </fork>
+        <components name="Brake Levers"> n/l</components>
+        <components name="Rear Brake"> Tektro narrow canti</components>
+        <components name="Saddle"> Body Geometry Rival road, w/ Cr-Mo rails</components>
+        <components name="Stem"> Specialized Elite-Set, 3D forged alloy, 4-position adjustable, 4-bolt 31.8mm clamp</components>
+        <components name="Front Brake"> Tektro wide canti</components>
+        <components name="Seat Binder"> Forged alloy, 31.8mm</components>
+        <components name="Headset"> Cage bearings integrated HS. w/ 40mm of spacers w/ top cap</components>
+        <components name="Handlebars"> Specialized CX Comp 6061 alloy, short drop</components>
+        <components name="Seatpost"> Alloy, two-bolt clamp, 27.2mm</components>
+        <components name="Tape"> Specialized S-Wrap, cork ribbon w/ 2.5 gel pads</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+</brand>

@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<brand>
+    <manufacturer>scott</manufacturer>
+    <model>
+        <name>scott addict ltd road bike</name>
+        <price>$9,099.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Scott Addict HMX NET LTD IMP Carbon technology Road Race geometry Integrated Seattube STD BB</material>
+            <size>47</size>
+            <size>49</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Scott ADDICT HMX NET LTD 1 1/8 &amp;#8221; Carbon steerer Integrated Carbon Dropout</material>
+        </fork>
+        <components name="Seat"> Fizik K1</components>
+        <components name="Brakes"> SRAM Red</components>
+        <components name="Handlebar"> Ritchey Road WCS EVO 31.8 Carbon Oversize Anatomic</components>
+        <components name="H&amp;#8217;Stem"> Ritchey WCS 4 AXIS Matrix Carbon OS 1 1/8&amp;#8243; four Bolt</components>
+        <components name="Headset"> Ritchey WCS Carbon Integrated</components>
+        <components name="Seatpost"> Ritchey Stubby for Fizik Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>2.8</current>
+            <votes>10.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>scott addict rc road bike</name>
+        <price>$9,899.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Scott Addict HMX net LTD IMP Carbon technology Road Race geometry Integrated Seattube Integrated BB</material>
+            <size>47</size>
+            <size>49</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Scott ADDICT HMX NET LTD 1 1/8 &amp;#8221; Carbon steerer Integrated Carbon Dropout</material>
+        </fork>
+        <components name="Brake Levers"> Flightdeck Electronic Computer</components>
+        <components name="Seat"> Fizik Arione CX</components>
+        <components name="Brakes"> Shimano Dura-Ace BR-7900 Super SLR Dual Pivot</components>
+        <components name="Handlebar"> Ritchey Road WCS EVO 31.8 Carbon Oversize Anatomic</components>
+        <components name="H&amp;#8217;Stem"> Ritchey WCS 4 AXIS Matrix Carbon OS 1-1/8&amp;#8243; / four Bolt</components>
+        <components name="Headset"> Ritchey WCS Carbon Integrated</components>
+        <components name="Seatpost"> Ritchey Stubby INT SP Fizik Carbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.14</current>
+            <votes>21.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>scott addict r1 road bike</name>
+        <price>$6,599.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Scott Addict HMX NET IMP Carbon technology Road Race geometry Standard Seattube Integrated BB</material>
+            <size>47</size>
+            <size>49</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Scott ADDICT HMX NET 1 1/8&amp;#8243; Carbon steerer Integrated Carbon Dropout</material>
+        </fork>
+        <components name="Brake Levers"> Flightdeck Electronic Computer</components>
+        <components name="Seat"> Fizik Arione CX</components>
+        <components name="Brakes"> Shimano Dura-Ace BR-7900 Super SLR Dual Pivot</components>
+        <components name="Handlebar"> Ritchey WCS EVO 31.8 Carbon Oversize Anatomic</components>
+        <components name="H&amp;#8217;Stem"> Ritchey WCS 4 AXIS Matrix Carbon OS 1 1/8&amp;#8243; four Bolt</components>
+        <components name="Headset"> Ritchey WCS Integrated</components>
+        <components name="Seatpost"> Ritchey WCS Carbon 31.6</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.47</current>
+            <votes>74.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>scott addict r2 road bike</name>
+        <price>$3,599.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Scott Addict HMF NET IMP Carbon technology Road Race geometry STD Seattube Integrated BB</material>
+            <size>47</size>
+            <size>49</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Scott ADDICT HMF NET 1 1/8 &amp;#8221; Carbon steerer Integrated Carbon Dropout</material>
+        </fork>
+        <components name="Brake Levers"> Flightdeck Electronic Computer</components>
+        <components name="Seat"> Scott Road Pro SL</components>
+        <components name="Brakes"> Shimano Ultegra New 2010 BR-6700 Super SLR Dual pivot</components>
+        <components name="Handlebar"> Ritchey Logic Road WCS TRX 50 31.8 Alloy Oversize Anatomic Wet Black</components>
+        <components name="H&amp;#8217;Stem"> Ritchey WCS 4 AXIS Wet Black OS 1-1/8&amp;#8243; four bolt</components>
+        <components name="Headset"> Ritchey PRO Integrated</components>
+        <components name="Seatpost"> Ritchey Carbon Pro 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.67</current>
+            <votes>145.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>scott addict r3 road bike</name>
+        <price>$2,649.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Scott Addict HMF NET IMP Carbon technology Road Race geometry Standard Seattube Integrated BB / Standard BB on 30-Speed Version</material>
+            <size>47</size>
+            <size>49</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Scott ADDICT HMF NET 1 1/8&amp;#8243; Carbon steerer Integrated Carbon Dropout</material>
+        </fork>
+        <components name="Brake Levers"> Flightdeck Electronic Computer</components>
+        <components name="Seat"> Scott Road Pro SL</components>
+        <components name="Brakes"> Shimano 105 BR-5600 Super SLR Dual pivot Black</components>
+        <components name="Handlebar"> Scott Road Drop OS Anatomic 31.8mm</components>
+        <components name="H&amp;#8217;Stem"> Scott Road Team OS 1 1/8&amp;#8243; four bolt 31.8mm</components>
+        <components name="Headset"> Ritchey Pro Integrated</components>
+        <components name="Seatpost"> Ritchey Carbon Pro 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.76</current>
+            <votes>83.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>scott addict cx rc road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Scott Addict CX carbon Integrated seatpost Replaceable D/O Sloping geometry</material>
+        </frame>
+        <fork>
+            <material> Ritchey WCS straight CX carbon fork</material>
+        </fork>
+        <components name="Brake Levers"> incl. in shiftlevers</components>
+        <components name="Seat"> Selle Italia SLR Kit Carbonio titanium rails</components>
+        <components name="Brakes"> TRP EuroX Carbon w cartr. pads for carbon rim</components>
+        <components name="Handlebar"> Ritchey WCS Logic II 31.8 OS</components>
+        <components name="H&amp;#8217;Stem"> Ritchey WCS 4 Axis OS</components>
+        <components name="Headset"> TH No 9 CX cartr. Bearing</components>
+        <components name="Seatpost"> Ritchey Stubby WCS</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.5</current>
+            <votes>6.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>scott addict cx road bike</name>
+        <price>$3,849.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Scott Addict CX carbon Standard seatpost Replaceable D/O Sloping geometry</material>
+        </frame>
+        <fork>
+            <material> Ritchey Pro straight CX carbon fork</material>
+        </fork>
+        <components name="Brake Levers"> incl. in shiftlevers</components>
+        <components name="Seat"> Selle Italia SLR</components>
+        <components name="Brakes"> TRP EuroX Carbon w cartr. pads for carbon rim</components>
+        <components name="Handlebar"> Ritchey WCS Logic II 31.8 OS</components>
+        <components name="H&amp;#8217;Stem"> Ritchey WCS 4 Axis OS</components>
+        <components name="Headset"> TH No 9 CX cartr. Bearing</components>
+        <components name="Seatpost"> Ritchey WCS Carbon 2 bolt 31.6</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>scott cx team road bike</name>
+        <price>$1,849.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Scott Cyclocross frame 7005 alloy double butted Replaceable D/O Sloping geometry</material>
+        </frame>
+        <fork>
+            <material> Scott Carbon CX straight alloy steerer</material>
+        </fork>
+        <components name="Brake Levers"> incl in SL</components>
+        <components name="Seat"> Scott CX SCT 19</components>
+        <components name="Brakes"> TRP EuroX w cartr. pads</components>
+        <components name="Handlebar"> Scott Pro Ergo OS 31.8 OS</components>
+        <components name="H&amp;#8217;Stem"> Scott Pro OS</components>
+        <components name="Headset"> TH No 9 CX, cartr bearing</components>
+        <components name="Seatpost"> Scott Comp 31.6</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.47</current>
+            <votes>62.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>scott cx comp road bike</name>
+        <price>$1,399.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Scott Cyclocross frame 7005 alloy double butted Replaceable D/O Sloping geometry</material>
+        </frame>
+        <fork>
+            <material> Scott Carbon CX straight alloy steerer</material>
+        </fork>
+        <components name="Brake Levers"> incl in SL</components>
+        <components name="Seat"> Scott CX SCT 19</components>
+        <components name="Brakes"> Tektro CX w cartr. pads</components>
+        <components name="Handlebar"> Scott Pro Ergo OS 31.8 OS</components>
+        <components name="H&amp;#8217;Stem"> Scott Pro OS</components>
+        <components name="Headset"> TH No 10 CX ball bearing</components>
+        <components name="Seatpost"> Scott Comp 31.6</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>scott cr1 sl road bike</name>
+        <price>$6,049.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Scott new CR1 HMX NET IMP Carbon technology Road Comfort geometry Integrated BB</material>
+            <size>47</size>
+            <size>49</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Scott new CR1 HMF NET 11/8 &amp;#8220;&amp;#8221; Carbon steerer Integrated Carbon Dropout</material>
+        </fork>
+        <components name="Brake Levers"> incl in SL</components>
+        <components name="Seat"> Fizik Arione CX</components>
+        <components name="Brakes"> Shimano Dura-Ace BR-7900 Super SLR Dual Pivot</components>
+        <components name="Handlebar"> Ritchey WCS EVO 31.8 Carbon Oversize Anatomic</components>
+        <components name="H&amp;#8217;Stem"> Ritchey WCS 4 AXIS Matrix Carbon OS 1-1/8&amp;#8243;&amp;#8221; / four Bolt</components>
+        <components name="Headset"> Ritchey Pro Integrated</components>
+        <components name="Seatpost"> Ritchey WCS Carbom 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>5.0</current>
+            <votes>1.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>scott cr1 pro road bike</name>
+        <price>$3,299.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Scott new CR1 HMF NET IMP Carbon Technology Road Comfort geometry Integrated BB</material>
+            <size>47</size>
+            <size>49</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Scott new CR1 HMF NET 11/8&amp;#8243; Carbon steerer Integrated Carbon Dropout</material>
+        </fork>
+        <components name="Brake Levers"> incl in SL</components>
+        <components name="Seat"> Scott Road Pro SL</components>
+        <components name="Brakes"> Shimano Ultegra BR-6700 Super SLR Dual pivot</components>
+        <components name="Handlebar"> Scott Road Drop OS Anatomic 31.8 mm</components>
+        <components name="H&amp;#8217;Stem"> Scott Road Team OS 1-1/8&amp;#8243; / four Bolt 31.8 mm</components>
+        <components name="Headset"> Ritchey Integrated Cartridge</components>
+        <components name="Seatpost"> Ritchey Carbon Pro 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.62</current>
+            <votes>105.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>scott cr1 elite road bike</name>
+        <price>$2,749.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Scott new CR1 HMF NET IMP Carbon Technology Road Comfort geometry Integrated BB</material>
+            <size>47</size>
+            <size>49</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Scott new CR1 HMF NET 11/8&amp;#8243; Carbon steerer Integrated Carbon Dropout</material>
+        </fork>
+        <components name="Brake Levers"> incl in SL</components>
+        <components name="Seat"> Scott Road Pro SL</components>
+        <components name="Brakes"> Sram Rival 09 Black</components>
+        <components name="Handlebar"> Scott Road Drop OS Anatomic 31.8mm</components>
+        <components name="H&amp;#8217;Stem"> Scott Road Team OS 1-1/8&amp;#8243; / four bolt 31.8mm</components>
+        <components name="Headset"> Ritchey Integrated Cartridge</components>
+        <components name="Seatpost"> Ritchey Carbon Pro 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.63</current>
+            <votes>152.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>scott cr1 team road bike</name>
+        <price>$2,199.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Scott new CR1 HMF NET IMP Carbon technology Road Comfort geometry Integrated BB</material>
+            <size>47</size>
+            <size>49</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Scott new CR1 Pro 1-1/8&amp;#8243; Carbon steerer Integrated Carbon Dropout</material>
+        </fork>
+        <components name="Brake Levers"> incl in SL</components>
+        <components name="Seat"> Scott Road Pro SL</components>
+        <components name="Brakes"> Shimano 105 BR-5600 Super SLR Dual pivot Black</components>
+        <components name="Handlebar"> Scott Road Drop OS Anatomic 31.8mm</components>
+        <components name="H&amp;#8217;Stem"> Scott Road Team OS 1-1/8&amp;#8243; / four Bolt 31.8mm</components>
+        <components name="Headset"> Ritchey Integrated Cartridge</components>
+        <components name="Seatpost"> Ritchey Carbon Pro 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.65</current>
+            <votes>142.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>scott cr1 comp road bike</name>
+        <price>$1,849.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Scott new CR1 HMF NET IMP Carbon technology Road Comfort geometry Integrated BB</material>
+            <size>47</size>
+            <size>49</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Scott new CR1 HMF NET 1-1/8“ Carbon steerer Integrated Carbon Dropout</material>
+        </fork>
+        <components name="Brake Levers"> incl in SL</components>
+        <components name="Seat"> Scott Road Pro</components>
+        <components name="Brakes"> Shimano Tiagra BR-4500 Super SLR Dual pivot</components>
+        <components name="Handlebar"> Scott Road Drop OS Anatomic 31.8mm</components>
+        <components name="H&amp;#8217;Stem"> Scott Road Team OS 1-1/8“ / four Bolt 31.8mm</components>
+        <components name="Headset"> Ritchey Integrated Cartirdge</components>
+        <components name="Seatpost"> Ritchey Carbon Pro 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.42</current>
+            <votes>71.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>scott speedster s20 road bike</name>
+        <price>$1,549.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Hydroformed Alloy Tubing Road geometry 7005 Alloy D.Butted Integrated Headtube</material>
+            <size>47</size>
+            <size>49</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> New Speedster Carbon/Alloy 1-1/8&amp;#8243; Alloy steerer Integrated</material>
+        </fork>
+        <components name="Brake Levers"> incl in SL</components>
+        <components name="Seat"> Scott Road Team</components>
+        <components name="Brakes"> Shimano BR-R560 Super SLR Dual pivot</components>
+        <components name="Handlebar"> Scott Road Drop OS Anatomic 31.8 mm</components>
+        <components name="H&amp;#8217;Stem"> Scott Road Team OS 1-1/8&amp;#8243; / four Bolt 31.8 mm</components>
+        <components name="Headset"> Integrated Cartridge</components>
+        <components name="Seatpost"> Carbon/Alloy 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.59</current>
+            <votes>182.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>scott speedster s30 road bike</name>
+        <price>$1,099.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Hydroformed Alloy Tubing Road geometry 7005 Alloy D.Butted Integrated Headtube Fender Compatible</material>
+            <size>47</size>
+            <size>49</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> New Speedster Carbon/Alloy 1-1/8&amp;#8243; Alloy steerer Integrated</material>
+        </fork>
+        <components name="Brake Levers"> incl in SL</components>
+        <components name="Seat"> Scott Road Team</components>
+        <components name="Brakes"> Scott Pro SCBR-520 Catridge Pads</components>
+        <components name="Handlebar"> Scott Road Drop OS Anatomic 31.8 mm</components>
+        <components name="H&amp;#8217;Stem"> Scott Road Team OS 1-1/8&amp;#8243; / four Bolt 31.8 mm</components>
+        <components name="Headset"> Integrated Steel Cup</components>
+        <components name="Seatpost"> Scott Alloy 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.65</current>
+            <votes>118.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>scott speedster s40 road bike</name>
+        <price>$899.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Hydroformed Alloy Tubing Road geometry 7005 Alloy D.Butted Integrated Headtube Fender Compatible</material>
+            <size>47</size>
+            <size>49</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> New Speedster Carbon/Alloy 1-1/8&amp;#8243; Alloy steerer Integrated</material>
+        </fork>
+        <components name="Brake Levers"> incl in SL</components>
+        <components name="Seat"> Scott Road Team</components>
+        <components name="Brakes"> Scott Pro SCBR-520 Catridge Pads</components>
+        <components name="Handlebar"> Scott Road Drop OS Anatomic 31.8 mm</components>
+        <components name="H&amp;#8217;Stem"> Scott Road Team OS 1-1/8&amp;#8243; / four Bolt 31.8 mm</components>
+        <components name="Headset"> Integrated Steel Cup</components>
+        <components name="Seatpost"> Scott Alloy 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.58</current>
+            <votes>123.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>scott speedster s50 road bike</name>
+        <price>$769.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Hydroformed Alloy Tubing&lt;7br&gt; Road geometry 7005 Alloy Butted Integrated Headtube Fender Compatible</material>
+            <size>47</size>
+            <size>49</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> New Speedster Carbon/Alloy 1-1/8&amp;#8243; Alloy steerer Integrated</material>
+        </fork>
+        <components name="Brake Levers"> incl in SL</components>
+        <components name="Seat"> Scott Road Team</components>
+        <components name="Brakes"> Scott Sport L SCBR 350 41-56mm</components>
+        <components name="Handlebar"> Scott Road Drop OS Anatomic 31.8 mm</components>
+        <components name="H&amp;#8217;Stem"> Scott Road Team OS 1-1/8&amp;#8243;&amp;#8221; / four Bolt 31.8 mm</components>
+        <components name="Headset"> Integrated Steel Cup</components>
+        <components name="Seatpost"> Scott Alloy 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.53</current>
+            <votes>137.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>scott speedster s50 fb 2010 road bike</name>
+        <price>$749.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Hydroformed Alloy Tubing Road geometry 7005 Alloy Butted Integrated Headtube Fender Compatible</material>
+            <size>47</size>
+            <size>49</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> New Speedster Carbon/Alloy 1-1/8&amp;#8243; Alloy steerer Integrated</material>
+        </fork>
+        <components name="Brake Levers"> included</components>
+        <components name="Seat"> Scott Road Team</components>
+        <components name="Brakes"> Scott Sport L SCBR 510 A 41-56mm</components>
+        <components name="Handlebar"> Scott X &amp;#8211; Rod 580mm</components>
+        <components name="H&amp;#8217;Stem"> Scott Road Team OS 1-1/8&amp;#8243;&amp;#8221; / four Bolt 31.8 mm</components>
+        <components name="Headset"> Integrated Steel Cup</components>
+        <components name="Seatpost"> Scott Alloy 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.51</current>
+            <votes>98.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>scott contessa cr1 pro womens road bike</name>
+        <price>$3,299.99</price>
+        <year>2010</year>
+        <frame>
+            <material> Scott new CR1 HMF NET IMP Carbon technology Road Comfort geometry Standard BB</material>
+            <size>47</size>
+            <size>49</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+        </frame>
+        <fork>
+            <material> Scott new CR1 HMF NET 1 1/8 &amp;#8221; Carbon steerer Integrated Carbon Dropout</material>
+        </fork>
+        <components name="Brake Levers"> n/a</components>
+        <components name="Seat"> Fizik Vitesse HP</components>
+        <components name="Brakes"> Shimano Ultegra BR-6700 Super SLR Dual pivot</components>
+        <components name="Handlebar"> Scott Road Drop Contessa 31.8 mm Lady Anatomic</components>
+        <components name="H&amp;#8217;Stem"> Scott Contessa Road OS 1-1/8&amp;#8243; &amp;#8211; 31.8 mm</components>
+        <components name="Headset"> Ritchey Pro integrated</components>
+        <components name="Seatpost"> Alloy 31.6mm w/o offset</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.6</current>
+            <votes>5.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>scott contessa speedster 25 womens road bike</name>
+        <price>$879.99</price>
+        <year>2010</year>
+        <frame>
+            <material> New Speedster Hydroformed chain stays Road geometry 7005 Alloy D.Butted Integrated Headtube</material>
+            <size>47</size>
+            <size>49</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+        </frame>
+        <fork>
+            <material> New Speedster Carbon/ Alloy 1 1/8 &amp;#8221; Alloy steerer Integrated</material>
+        </fork>
+        <components name="Brake Levers"> n/a</components>
+        <components name="Seat"> Contessa VL 4165</components>
+        <components name="Brakes"> Scott Pro SCBR-520 Catridge Pads</components>
+        <components name="Handlebar"> Scott Road Drop Contessa 31.8 mm Lady Anatomic</components>
+        <components name="H&amp;#8217;Stem"> Scott Contessa Road OS 1-1/8&amp;#8243; &amp;#8211; 31.8 mm</components>
+        <components name="Headset"> Integrated Steel Cup</components>
+        <components name="Seatpost"> Alloy 31.6mm w/o offset</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>scott contessa speedster 15 womens road bike</name>
+        <price>$1,549.99</price>
+        <year>2010</year>
+        <frame>
+            <material> New Speedster Hydroformed Alloy Tubing</material>
+            <size>47</size>
+            <size>49</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+        </frame>
+        <fork>
+            <material> New Speedster Carbon/ Alloy 1 1/8 &amp;#8221; Alloy steerer Integrated</material>
+        </fork>
+        <components name="Brake Levers"> n/a</components>
+        <components name="Seat"> Contessa VL 4165</components>
+        <components name="Brakes"> Scott Pro SCBR-530 Catridge Pads</components>
+        <components name="Handlebar"> Scott Road Drop Contessa 31.8 mm Lady Anatomic</components>
+        <components name="H&amp;#8217;Stem"> Scott Contessa Road OS 1-1/8&amp;#8243; &amp;#8211; 31.8 mm</components>
+        <components name="Headset"> Integrated Steel Cup</components>
+        <components name="Seatpost"> Alloy 31.6mm w/o offset</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.39</current>
+            <votes>131.0</votes>
+        </rating>
+    </model>
+</brand>

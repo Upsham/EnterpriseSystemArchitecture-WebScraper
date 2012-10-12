@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<brand>
+    <manufacturer>felt</manufacturer>
+    <model>
+        <name>felt ar1 team issue road bike</name>
+        <price>$8999</price>
+        <year>2010</year>
+        <frame>
+            <material> New Felt Aero Road UHC-Nano Ultra Hybrid Composite Carbon w/ Nanotube technology Modular Monocoque Carbon Fiber Frame w/ 3KP Finish, Internal Cable Routing, Carbon Fiber dropouts &amp;#038; 7075 CNC machined replaceable derailleur hanger</material>
+            <size>700</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Felt 1.1A Bladed Aero UHC-Nano Ultra Hybrid Composite Carbon w/ Nanotube technology, 100% Carbon Fiber monocoque Fork w/ Carbon Dropouts</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.1a UHM Carbon Fiber Standard Offset Bladed Monocoque Design x 300mm</components>
+        <components name="Brake Levers">  Shimano Dura-Ace 7900 STI</components>
+        <components name="Saddle"> fi&amp;#8217;zi</components>
+        <components name="Stem"> 3T ARX Team w/ +/-6 ° Rise, 51cm=90mm, 54cm=100mm, 56cm=110mm, 58cm=110mm, 61cm=120mm.</components>
+        <components name="Brakes"> Shimano Dura-Ace 7900 Dual Pivot w/ Cartridge Brake Shoes for Carbon Rims</components>
+        <components name="Handlebar"> 3T Ergonova Team, Ø31.8mm, 123mm drop (c-c), 77mm reach (c-c), 51cm=400mm, 54cm-56cm=420mm, 58cm-61cm=440mm.</components>
+        <components name="Cables"> Shimano Dura-Ace Brake &amp;#038; Derailleur</components>
+        <components name="Headset">  FSA 1 1/8 Integrated w/ Carbon Fiber 15mm Cone &amp;#038; 2 X 7.5mm Carbon Fiber Spacer Stack</components>
+        <components name="Seat Post Clamp"> AR Aero 3D Forged Aluminum, 2 x 5mm x 0.8mm Titanium Bolts, 14 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.64</current>
+            <votes>39.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt ar1 road bike</name>
+        <price>$9999</price>
+        <year>2010</year>
+        <frame>
+            <material> New Felt Aero Road UHC-Nano Ultra Hybrid Composite Carbon w/ Nanotube technology Modular Monocoque Carbon Fiber Frame w/ 3KP Finish, Internal Cable Routing, Carbon Fiber dropouts &amp;#038; 7075 CNC machined replaceable derailleur hanger</material>
+            <size>700</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Felt 1.1A Bladed Aero UHC-Nano Ultra Hybrid Composite Carbon w/ Nanotube technology, 100% Carbon Fiber monocoque Fork w/ Carbon Dropouts</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.1a UHM Carbon Fiber Standard Offset Bladed Monocoque Design x 300mm</components>
+        <components name="Brake Levers"> Shimano Dura-Ace 7970 Di2 STI</components>
+        <components name="Saddle"> DEVOX Team Issue w/ 100% 3k Carbon Fiber Weave Base, MicroFiber Cover &amp;#038; 3k Carbon Fiber Rails, 159 gm</components>
+        <components name="Stem"> OVAL R910 RBT Carbon/Aluminum Matrix Construction w/ R910 RBT Aero Front Cap Upgrade Kit &amp;#038; Titanium bolts, Ø26.0mm w/ +/-6° Rise., 51cm=90mm, 54cm=100mm, 56cm=110mm, 58cm=110mm, 61cm=120mm</components>
+        <components name="Brakes"> Shimano Dura-Ace 7900 Dual Pivot w/ Cartridge Brake Shoes</components>
+        <components name="Handlebar"> OVAL Aergo R910 Bar, 700K Carbon Fiber Construction w/ Kevlar Insert &amp;#038; carbon weave finish, Aerodynamic tops section w/ Ergonomic Drop, Ø26.0mm, 130mm drop (c-c), 75mm reach (c-c), 51cm=400mm, 54cm-56cm=420mm, 58cm-61cm=440mm. 240 grams.</components>
+        <components name="Cables"> Shimano Dura-Ace Brake &amp;#038; Di2 Derailleur Cables, remote shifter, battery &amp;#038; charger</components>
+        <components name="Headset"> FSA FSA 1 1/8 Integrated w/ Carbon Fiber 15mm Cone &amp;#038; 2 X 7.5mm Carbon Fiber Spacer Stack &amp;#038; OVAL R930 Aero Rear Top Cap Upgrade Kit</components>
+        <components name="Seat Post Clamp"> AR Aero 3D Forged Aluminum, 2 x 5mm x 0.8mm Titanium Bolts, 14 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.76</current>
+            <votes>49.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt ar2 road bike</name>
+        <price>$6999</price>
+        <year>2010</year>
+        <frame>
+            <material> New Felt Aero Road UHC-Nano Ultra Hybrid Composite Carbon w/ Nanotube technology Modular Monocoque Carbon Fiber Frame w/ 3KP Finish, Internal Cable Routing, Carbon Fiber dropouts &amp;#038; 7075 CNC machined replaceable derailleur hanger</material>
+            <size>700</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Felt 1.1A Bladed Aero UHC-Nano Ultra Hybrid Composite Carbon w/ Nanotube technology, 100% Carbon Fiber monocoque Fork w/ Carbon Dropouts</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.1a UHM Carbon Fiber Standard Offset Bladed Monocoque Design x 300mm</components>
+        <components name="Brake Levers"> Shimano Dura-Ace 7900 STI</components>
+        <components name="Saddle"> Felt 1.1 Road Saddle w/ Carbon Injected Base, Embossed Cover w/ CrN-Ti Rails</components>
+        <components name="Stem"> Felt 1.1 Carbon Fiber co-molded 2014 Aluminum 3D Forged Ø31.8mm w/ +/-8° Rise, 51cm=80mm, 54cm=90mm, 56cm=100mm, 58cm=110mm, 61cm=110mm</components>
+        <components name="Brakes"> Shimano Dura-Ace 7900 Dual Pivot w/ Cartridge Brake Shoes</components>
+        <components name="Handlebar"> Ritchey Evolution Carbon Fiber w/ Aerodynamic Wing Top Section, w/ Ergonomic Drop, Ø31.8mm, 51cm=400mm, 54cm-56cm=420mm, 58cm-61cm=440mm</components>
+        <components name="Cables"> Shimano Dura-Ace Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ 20mm Cone &amp;#038; 2 X 7.5mm Spacer Stack</components>
+        <components name="Seat Post Clamp"> AR Aero 3D Forged Aluminum, 2 x 5mm x 0.8mm Cr-Mo Bolts, 18 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.64</current>
+            <votes>33.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt ar3 road bike</name>
+        <price>$4499</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt Aero Road UHM Ultra-High Modulus Modular Monocoque Carbon Fiber Frame w/ 3KP Finish, Internal Cable Routing, Carbon Fiber dropouts &amp;#038; replaceable derailleur hanger</material>
+            <size>700</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Felt 1.2A Bladed Aero UHM Ultra-High Modulus Carbon Fiber, 100% Carbon Fiber monocoque Fork w/ Carbon Dropouts</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.1a UHM Carbon Fiber Standard Offset Bladed Monocoque Design x 300mm</components>
+        <components name="Brake Levers"> SRAM RED</components>
+        <components name="Saddle"> Felt 1.2 Road Saddle w/ Carbon Injected Base, Embossed Cover &amp;#038; Hollow Cr-Mo Rails</components>
+        <components name="Stem"> Felt 1.1 2014 Aluminum 3D Forged Ø31.8mm w/ +/-8° Rise, 51cm=80mm, 54cm=90mm, 56cm=100mm, 58cm=110mm, 61cm=110mm</components>
+        <components name="Brakes"> SRAM Dual Pivot w/ Cartridge Brake Shoes</components>
+        <components name="Handlebar"> Felt 1.3 2014 Triple Butted Aluminum w/ Aerodynamic Wing Top Section, w/ Ergonomic Drop, Ø31.8mm, 51cm=400mm, 54cm-56cm=420mm, 58cm-61cm=440mm</components>
+        <components name="Cables"> SRAM RED Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ 20mm Cone &amp;#038; 2 X 7.5mm Spacer Stack</components>
+        <components name="Seat Post Clamp"> AR Aero 3D Forged Aluminum, 2 x 5mm x 0.8mm Cr-Mo Bolts, 18 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt ar4 road bike</name>
+        <price>$3499</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt Aero Road UHM Ultra-High Modulus Modular Monocoque Carbon Fiber Frame w/ 3KP Finish, Internal Cable Routing, Carbon Fiber dropouts &amp;#038; replaceable derailleur hanger</material>
+            <size>700</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Felt 1.3A Bladed Aero HM High Modulus Fork w/ Aero Carbon Fiber Blades, Carbon Fiber Crown, Carbon Fiber Steerer Tube, &amp;#038; Carbon Fiber Dropouts, 450 grams</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.1a UHM Carbon Fiber Standard Offset Bladed Monocoque Design x 300mm</components>
+        <components name="Brake Levers"> Shimano Ultegra STI</components>
+        <components name="Saddle"> Felt 1.2 Road Saddle w/ Carbon Injected Base, Embossed Cover &amp;#038; Hollow Cr-Mo Rails</components>
+        <components name="Stem"> Felt 1.1 2014 Aluminum 3D Forged Ø31.8mm w/ +/-8° Rise, 51cm=80mm, 54cm=90mm, 56cm=100mm, 58cm=110mm, 61cm=110mm</components>
+        <components name="Brakes"> Shimano Ultegra Super SLR Dual Pivot w/ Cartridge Brake Shoes</components>
+        <components name="Handlebar"> Felt 1.3 2014 Triple Butted Aluminum w/ Aerodynamic Wing Top Section, w/ Ergonomic Drop, Ø31.8mm, 51cm=400mm, 54cm-56cm=420mm, 58cm-61cm=440mm</components>
+        <components name="Cables"> Shimano Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ 20mm Cone &amp;#038; 2 X 7.5mm Spacer Stack</components>
+        <components name="Seat Post Clamp"> AR Aero 3D Forged Aluminum, 2 x 5mm x 0.8mm Cr-Mo Bolts, 18 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.58</current>
+            <votes>95.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt f1 sl road bike</name>
+        <price>$6999</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt UHC-Nano Ultra Hybrid Carbon w/ Nanotube technology Carbon Fiber Frame w/ 3KP Finish. Carbon Dropout &amp;#038; 7075 CNC Machined Replaceable Hanger 900grams</material>
+            <size>700</size>
+            <size>50</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>60</size>
+        </frame>
+        <fork>
+            <material> Felt 1.1 100% UHC-Nano Ultra Hybrid Carbon w/ Nanotube technology Carbon Fiber Monocoque Design w/ 3KP Finish, w/ Felt Compression Device, 300 grams</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.1 Carbon Fiber Monocoque Design, Ø27.2mm, 300mm</components>
+        <components name="Brake Levers"> Shimano Dura-Ace 7900 STI</components>
+        <components name="Saddle"> DEVOX Team Issue w/ 100% 3k Carbon Fiber Weave Base, MicroFiber Cover &amp;#038; 3k Carbon Fiber Rails, 159 gm</components>
+        <components name="Stem"> Felt DEVOX 7050 Aluminum 3D Forged Ø31.8mm Carbon Fiber H-Clamp w/ +/-6° Rise, 50cm=80mm, 52cm=90mm, 54cm-56cm=100mm, 58cm=110mm, 60cm=120mm.</components>
+        <components name="Brakes"> Shimano Dura-Ace 7900 Dual Pivot w/ Cartridge Brake Shoes</components>
+        <components name="Handlebar"> DEVOX UHC-Nano Ultra Hybrid Composite Carbon Fiber Monocoque Bar w/ 3K finish &amp;#038; Ergonomic Drop, Ø31.8mm, 50cm=400mm, 52cm-54cm=420mm, 56cm-60cm=440mm</components>
+        <components name="Cables"> Shimano Dura-Ace Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ Carbon Fiber 15mm Cone &amp;#038; 2 X 7.5mm Carbon Fiber Spacer Stack</components>
+        <components name="Seat Post Clamp"> Ø30.6 7075-AL CNC Aluminum, Titanium 5mm x 0.8mm Bolt, Scandium Nut-Bar. 12 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.69</current>
+            <votes>35.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt f3 road bike</name>
+        <price>$3499</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt UHM Ultra-High Modulus Modular Carbon Fiber Frame w/ 3KP Finish. Forged Dropout &amp;#038; Replaceable Hanger</material>
+            <size>700</size>
+            <size>50</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>60</size>
+        </frame>
+        <fork>
+            <material> Felt 1.2 UHM Ultra-High Modulus Carbon Fiber Monocoque Design w/ 3KP Finish, Aluminum Dropouts w/ Felt Compression Device, 320 grams</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.2 Carbon Fiber Design, Ø27.2mm, 315mm</components>
+        <components name="Brake Levers"> SRAM RED</components>
+        <components name="Saddle"> Felt 1.2 Road Saddle w/ Carbon Injected Base, Embossed Cover &amp;#038; Hollow Cr-Mo Rails</components>
+        <components name="Stem"> Felt 1.2 6061 Aluminum 3D Forged Ø31.8mm w/ +/-7° Rise, 50cm=80mm, 52cm=90mm, 54cm-56cm=100mm, 58cm=110mm, 60cm=120mm.</components>
+        <components name="Brakes"> SRAM Dual Pivot w/ Cartridge Brake Shoes</components>
+        <components name="Handlebar"> Felt 1.4 6061 Butted Aluminum w/ Ergonomic Drop, Ø31.8mm, 50cm=400mm, 52cm-54cm=420mm, 56cm-60cm=440mm</components>
+        <components name="Cables"> SRAM RED Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ 20mm Cone &amp;#038; 2 X 7.5mm Spacer Stack</components>
+        <components name="Seat Post Clamp"> Ø30.6 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.6</current>
+            <votes>101.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt f4 road bike</name>
+        <price>$2999</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt HM High Modulus Modular Carbon Fiber Frame w/ 3KP Finish. Forged Dropout &amp;#038; Replaceable Hanger</material>
+            <size>700</size>
+            <size>50</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>60</size>
+        </frame>
+        <fork>
+            <material> Felt 1.3 HM High Modulus Carbon Design w/ 3K Finish, Carbon Blades, Crown &amp;#038; 1 1/8 Steerer, Aluminum Dropouts w/ Felt Compression Device</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.2 Carbon Fiber Design, Ø27.2mm, 315mm</components>
+        <components name="Brake Levers"> Shimano Ultegra STI</components>
+        <components name="Saddle"> Felt 1.2 Road Saddle w/ Carbon Injected Base, Embossed Cover &amp;#038; Hollow Cr-Mo Rails</components>
+        <components name="Stem"> Felt 1.2 6061 Aluminum 3D Forged Ø31.8mm w/ +/-7° Rise, 50cm=80mm, 52cm=90mm, 54cm-56cm=100mm, 58cm=110mm, 60cm=120mm.</components>
+        <components name="Brakes"> Shimano Ultegra Super SLR Dual Pivot w/ Cartridge Brake Shoes</components>
+        <components name="Handlebar"> Felt 1.4 6061 Butted Aluminum w/ Ergonomic Drop, Ø31.8mm, 50cm=400mm, 52cm-54cm=420mm, 56cm-60cm=440mm</components>
+        <components name="Cables"> Shimano Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ 20mm Cone &amp;#038; 2 X 7.5mm Spacer Stack</components>
+        <components name="Seat Post Clamp"> Ø30.6 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.64</current>
+            <votes>188.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt f5 team road bike</name>
+        <price>$2299</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt HM High Modulus Modular Carbon Fiber Frame w/ 3KP Finish. Forged Dropout &amp;#038; Replaceable Hanger</material>
+            <size>700</size>
+            <size>50</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>60</size>
+        </frame>
+        <fork>
+            <material> Felt 1.4 HM High Modulus Carbon Design w/ 3K Finish, Carbon Blades, Crown &amp;#038; 1 1/8 Steerer, Aluminum Dropouts w/ Felt Compression Device</material>
+        </fork>
+        <components name="Seat Post"> 3T Dorico Pro Forged 6061 Aluminum 2-bolt Design, Ø27.2mm, 280mm</components>
+        <components name="Brake Levers"> Shimano 105 STI</components>
+        <components name="Saddle"> fi&amp;#8217;zi</components>
+        <components name="Stem"> 3T ARX Pro 6061 Aluminum 3D Forged Ø31.8mm w/ +/-6° Rise, 50cm=80mm, 52cm=90mm, 54cm-56cm=100mm, 58cm-60cm=110mm.</components>
+        <components name="Brakes"> Shimano Super SLR Dual Pivot w/ Cartridge Brake Shoes</components>
+        <components name="Handlebar"> 3T Ergosum Pro 6061 Butted Aluminum w/ Ergonomic Drop, Ø31.8mm, 50cm=400mm, 52cm-54cm=420mm, 56cm-60cm=440mm</components>
+        <components name="Cables"> Felt Slick Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ 20mm Cone &amp;#038; 2 X 7.5mm Spacer Stack</components>
+        <components name="Seat Post Clamp"> Ø30.6 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.65</current>
+            <votes>110.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt f5 road bike</name>
+        <price>$1999</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt HM High Modulus Modular Carbon Fiber Frame w/ 3KP Finish. Forged Dropout &amp;#038; Replaceable Hanger</material>
+            <size>700</size>
+            <size>50</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>60</size>
+        </frame>
+        <fork>
+            <material> Felt 1.4 HM High Modulus Carbon Design w/ 3K Finish, Carbon Blades, Crown &amp;#038; 1 1/8 Steerer, Aluminum Dropouts w/ Felt Compression Device</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.2 Carbon Fiber Design, Ø27.2mm, 315mm</components>
+        <components name="Brake Levers"> Shimano 105 STI</components>
+        <components name="Saddle"> Felt 1.2 Road Saddle w/ Carbon Injected Base, Embossed Cover &amp;#038; Hollow Cr-Mo Rails</components>
+        <components name="Stem"> Felt 1.2 6061 Aluminum 3D Forged Ø31.8mm w/ +/-7° Rise, 50cm=80mm, 52cm=90mm, 54cm-56cm=100mm, 58cm=110mm, 60cm=120mm.</components>
+        <components name="Brakes"> Shimano Super SLR Dual Pivot w/ Cartridge Brake Shoes</components>
+        <components name="Handlebar"> Felt 1.4 6061 Butted Aluminum w/ Ergonomic Drop, Ø31.8mm, 50cm=400mm, 52cm-54cm=420mm, 56cm-60cm=440mm</components>
+        <components name="Cables"> Felt Slick Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ 20mm Cone &amp;#038; 2 X 7.5mm Spacer Stack</components>
+        <components name="Seat Post Clamp"> Ø30.6 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.67</current>
+            <votes>108.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt f75 road bike</name>
+        <price>$1469</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt Custom Butted Super-light 7005 Aluminum w/carbon SS, CNC HT &amp;#038; BB shell, 1 piece forged dropouts w/replaceable hanger</material>
+            <size>700</size>
+            <size>50</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>60</size>
+            <size>63</size>
+        </frame>
+        <fork>
+            <material> Felt 1.4 HM High Modulus Carbon Design w/ 3K Finish, Carbon Blades, Crown &amp;#038; 1 1/8 Steerer, Aluminum Dropouts w/ Felt Compression Device</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.2 Carbon Fiber Design, Ø27.2mm, 315mm</components>
+        <components name="Brake Levers"> Shimano 105 STI</components>
+        <components name="Saddle"> Felt 1.2 Road Saddle w/ Carbon Injected Base, Embossed Cover &amp;#038; Hollow Cr-Mo Rails</components>
+        <components name="Stem"> Felt 1.2 6061 Aluminum 3D Forged Ø31.8mm w/ 7° Rise, 50cm=80mm, 52cm=90mm, 54cm-56cm=100mm, 58cm=110mm, 60cm-63cm=120mm.</components>
+        <components name="Brakes"> Dual Pivot w/ Cartridge Brake Shoes, Stainless Hardware &amp;#038; Teflon Bushings</components>
+        <components name="Handlebar"> Felt 1.5 6061 Aluminum w/ Ergonomic Drop, Ø31.8mm, 50cm=400mm, 52cm-54cm=420mm, 56cm-63cm=440mm</components>
+        <components name="Cables"> Felt Slick Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ 20mm Cone &amp;#038; 2 X 7.5mm Spacer Stack</components>
+        <components name="Seat Post Clamp"> Ø30.6 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.59</current>
+            <votes>109.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt f15x road bike</name>
+        <price>$2799</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt Cyclocross Specific Custom Butted Ultra-light Oversized 7005 Aluminum w/ hydroformed shoulder friendly top tube flat, carbon fiber SS, CNC HT &amp;#038; BB shell, 1 piece forged dropouts, w/ integrated rear brake cable stop CNC HT &amp;#038; BB Shell, Forged Dropout &amp;#038; Replaceable Hanger.</material>
+            <size>700</size>
+            <size>49</size>
+            <size>51</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+        </frame>
+        <fork>
+            <material> Easton EC70X Cyclocross Specific Carbon Fiber w/ 1-1/8 Aluminum Steerer &amp;#038; Crown</material>
+        </fork>
+        <components name="Seat Post"> Felt CX.2 Smoke Gray Anodized Cold Forged 2014 Aluminum 1 piece Superlight 2 Bolt Design, Ø27.2mm, 300mm</components>
+        <components name="Brake Levers">  SRAM RED</components>
+        <components name="Saddle"> Felt 1.2 Road Saddle w/ Carbon Injected Base, Embossed Cover &amp;#038; Hollow Cr-Mo Rails</components>
+        <components name="Stem"> Felt CX.2 Dual Anodized 6061 Aluminum 3D Forged Ø31.8mm w/ +/-8° Rise, 49cm &amp;#038; 51cm=90mm, 54cm-56cm=100mm, 58cm-60cm=110mm,</components>
+        <components name="Brakes"> TRP Euro X Cyclocross Cantilevers w/ ROAD type Cartridge brake pads. Smoke Gray Anodized.</components>
+        <components name="Handlebar"> Felt 1.3 2014 Triple Butted Aluminum w/ Ergonomic Wing Top Section, w/ Ergonomic Drop, Ø31.8mm, 49cm=400mm, 51cm-53cm=420mm, 55cm-59cm=440mm</components>
+        <components name="Cables"> Felt Slick Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ 2 X 7.5mm Spacer Stack &amp;#038; 15mm Cone/Integrated Brake Cable Hanger spacer</components>
+        <components name="Seat Post Clamp"> Ø30.6 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech Felt Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape COLOR w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt f75x road bike</name>
+        <price>$1699</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt Cyclocross Specific Custom Butted Super-light 7005 Aluminum w/ hydroformed shoulder friendly top tube flat, carbon fiber SS, CNC HT &amp;#038; BB shell, 1 piece forged dropouts, w/ integrated rear brake cable stop CNC HT &amp;#038; BB Shell, Forged Dropout &amp;#038; Replaceable Hanger.</material>
+            <size>700</size>
+            <size>49</size>
+            <size>51</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+        </frame>
+        <fork>
+            <material> Felt Cyclocross Specific Carbon Fiber w/ 1-1/8 Aluminum Steerer &amp;#038; Crown</material>
+        </fork>
+        <components name="Seat Post"> Felt CX.3 Forged 6061 Aluminum 1 piece Superlight 2 Bolt Design, Ø27.2mm, 300mm</components>
+        <components name="Brake Levers">  Shimano 105 STI w/ top mount levers</components>
+        <components name="Saddle"> Felt 2.2 Anatomic Road Saddle w/ D2 Double-Density Base, Custom Embossed Cover &amp;#038; Hollow Cr-Mo Rails</components>
+        <components name="Stem"> Felt 1.2 6061 Aluminum 3D Forged Ø31.8mm w/ 7° Rise, 49cm &amp;#038; 51cm=90mm, 54cm-56cm=100mm, 58cm-60cm=110mm,</components>
+        <components name="Brakes"> Tektro High Profile Euro-style Cyclocross Cantilevers w/ Linear type Cartridge brake pads.</components>
+        <components name="Handlebar"> Felt 2.3 Relaxed Racing Specific Geometry 6061 Aluminum w/ Ergonomic Drop, Ø31.8mm, 49cm=400mm, 51cm-53cm=420mm, 55cm-59cm=440mm</components>
+        <components name="Cables"> Felt Slick Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ 2 X 7.5mm Spacer Stack &amp;#038; 15mm Cone/Integrated Brake Cable Hanger spacer</components>
+        <components name="Seat Post Clamp"> Ø31.8 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.52</current>
+            <votes>21.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt f95 team road bike</name>
+        <price>$799</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt Custom Butted F-Lite 7005 Aluminum w/ butted ST, CS, CNC HT &amp;#038; BB shell, forged dropouts w/replaceable hanger</material>
+            <size>650</size>
+            <size>47</size>
+            <size>700</size>
+            <size>50</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>60</size>
+            <size>63</size>
+        </frame>
+        <fork>
+            <material> Felt Carbon Design w/ 3K Finish, Carbon Fiber Blades w/1 1/8 Aluminum Steerer &amp;#038; Aluminum Crown</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.4 6061 Aluminum Ø27.2mm, 300mm</components>
+        <components name="Brake Levers"> Micro.Shift Integrated</components>
+        <components name="Saddle"> Felt 1.3 Road Saddle w/ Carbon Injected Base, Embossed Cover &amp;#038; Steel Rails</components>
+        <components name="Stem"> Felt 1.3 6061 Aluminum Forged Ø31.8mm w/ +/-10° Rise, 50cm=70mm, 52cm-54cm=90mm, 56cm-63cm=110mm</components>
+        <components name="Brakes"> Dual Pivot w/ Cartridge Brake Shoes, Stainless Hardware &amp;#038; Teflon Bushings</components>
+        <components name="Handlebar"> Felt 1.5 6061 Aluminum w/ Ergonomic Drop, Ø31.8mm, 50cm=400mm, 52cm-54cm=420mm, 56cm-63cm=440mm</components>
+        <components name="Cables"> Felt Slick Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA Threadless 1 1/8 w/ 20mm Cone &amp;#038; 2 X 7.5mm Spacer Stack</components>
+        <components name="Seat Post Clamp"> Ø31.8 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.81</current>
+            <votes>74.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt f95 road bike</name>
+        <price>$769</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt Custom Butted F-Lite 7005 Aluminum w/ butted ST, CS, CNC HT &amp;#038; BB shell, forged dropouts w/replaceable hanger</material>
+            <size>650</size>
+            <size>47</size>
+            <size>700</size>
+            <size>50</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>60</size>
+            <size>63</size>
+        </frame>
+        <fork>
+            <material> Felt Carbon Design w/ 3K Finish, Carbon Fiber Blades w/1 1/8 Aluminum Steerer &amp;#038; Aluminum Crown</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.4 6061 Aluminum Ø27.2mm, 300mm</components>
+        <components name="Brake Levers"> Micro.Shift Integrated</components>
+        <components name="Saddle"> Felt 1.3 Road Saddle w/ Carbon Injected Base, Embossed Cover &amp;#038; Steel Rails</components>
+        <components name="Stem"> Felt 1.3 6061 Aluminum Forged Ø31.8mm w/ +/-10° Rise, 50cm=70mm, 52cm-54cm=90mm, 56cm-63cm=110mm.</components>
+        <components name="Brakes"> Dual Pivot w/ Cartridge Brake Shoes, Stainless Hardware &amp;#038; Teflon Bushings</components>
+        <components name="Handlebar"> Felt 1.5 6061 Aluminum w/ Ergonomic Drop, Ø31.8mm, 50cm=400mm, 52cm-54cm=420mm, 56cm-63cm=440mm</components>
+        <components name="Cables"> Felt Slick Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA Threadless 1 1/8 w/ 20mm Cone &amp;#038; 2 X 7.5mm Spacer Stack</components>
+        <components name="Seat Post Clamp"> Ø31.8 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.62</current>
+            <votes>133.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt f95x road bike</name>
+        <price>$999</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt Cyclocross Specific Custom Butted Super-light 7005 Aluminum w/ hydroformed shoulder friendly top tube flat, integrated rear brake cable stop CNC HT &amp;#038; BB Shell, Forged Dropout &amp;#038; Replaceable Hanger.</material>
+            <size>700</size>
+            <size>49</size>
+            <size>51</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+        </frame>
+        <fork>
+            <material> Felt Cyclocross Specific Carbon Fiber w/ 1-1/8 Aluminum Steerer &amp;#038; Crown</material>
+        </fork>
+        <components name="Seat Post"> Felt CX.3 Forged 6061 Aluminum 1 piece Superlight 2 Bolt Design, Ø27.2mm, 300mm</components>
+        <components name="Brake Levers">  Shimano Sora STI w/ top mount levers</components>
+        <components name="Saddle"> Felt 2.3 Anatomic Road Saddle w/ D2 Double-Density Base, Custom Embossed Cover</components>
+        <components name="Stem"> Felt 1.3 6061 Aluminum Forged Ø31.8mm w/ +/-10° Rise, 49cm = 9cm, 51cm = 9cm, 53cm = 9cm, 55cm = 11cm, 57cm = 11cm, 59cm = 11cm</components>
+        <components name="Brakes"> Tektro High Profile Euro-style Cyclocross Cantilevers w/ Linear type brake pads.</components>
+        <components name="Handlebar"> Felt 2.3 Relaxed Racing Specific Geometry 6061 Aluminum w/ Ergonomic Drop, Ø31.8mm, 49cm=400mm, 51cm-53cm=420mm, 55cm-59cm=440mm</components>
+        <components name="Cables"> Felt Slick Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ 3 X 7.5mm Spacer Stack &amp;#038; 15mm Cone/Integrated Brake Cable Hanger spacer</components>
+        <components name="Seat Post Clamp"> Ø31.8 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>2.84</current>
+            <votes>37.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt z2 road bike</name>
+        <price>$5999</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt Classic Racing Specific Geometry. UHM Ultra-High Modulus Modular Carbon Fiber Frame w/ 3K Finish. Forged Dropout &amp;#038; Replaceable Hanger.</material>
+            <size>700</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Felt 1.2 UHC-Nano Ultra Hybrid Composite Monocoque Carbon Fiber w/ Nano Technology 1 piece Fork w/ 3K Finish, Aluminum Dropouts, 1 1/8 Steerer w/ Felt Compression Device</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.2 Carbon Fiber Design, Ø27.2mm, 315mm</components>
+        <components name="Brake Levers"> Shimano Dura-Ace 7970 Di2 STI</components>
+        <components name="Saddle"> Felt 2.1 Anatomic Road Saddle w/ D2 Double-Density Base, Custom Embossed Cover w/ Carbon Fiber Inserts &amp;#038; CrN/Ti Rails</components>
+        <components name="Stem"> Felt DEVOX 7050 Aluminum 3D Forged Ø31.8mm Carbon Fiber H-Clamp w/ +/-6° Rise, 51cm=80mm, 54cm=90mm, 56cm=100mm, 58cm-61cm=110mm.</components>
+        <components name="Brakes"> Shimano Ultegra Super SLR Dual Pivot w/ Cartridge Brake Shoes</components>
+        <components name="Handlebar"> Felt DEVOX UHC-Nano Ultra Hybrid Composite Carbon Fiber Monocoque Bar w/ 3K finish &amp;#038; Ergonomic Drop, Ø31.8mm, 51cm=400mm, 54cm=420mm, 56cm-61cm=440mm, 205 grams</components>
+        <components name="Cables"> Shimano Dura-Ace Brake &amp;#038; Di2 Derailleur Cables, remote shifter, battery &amp;#038; charger</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ 20mm Cone &amp;#038; 3 X 7.5mm Spacer Stack</components>
+        <components name="Seat Post Clamp"> Ø30.6 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.25</current>
+            <votes>4.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt z4 road bike</name>
+        <price>$2999</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt Classic Racing Specific Geometry. UHM Ultra-High Modulus Modular Carbon Fiber Frame w/ 3K Finish. Forged Dropout &amp;#038; Replaceable Hanger.</material>
+            <size>700</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Felt 1.3 HM High Modulus Carbon Design w/ 3K Finish, Carbon Blades, Crown &amp;#038; 1 1/8 Steerer, Aluminum Dropouts w/ Felt Compression Device</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.2 Carbon Fiber Design, Ø27.2mm, 315mm</components>
+        <components name="Brake Levers"> Shimano Ultegra STI</components>
+        <components name="Saddle"> Felt 2.2 Anatomic Road Saddle w/ D2 Double-Density Base, Custom Embossed Cover &amp;#038; Hollow Cr-Mo Rails</components>
+        <components name="Stem"> Felt 2.1 Adjustable 6061 3D Forged Ø31.8mm w/ +/-(6, 10, or 14) Degree Rise, 51cm=80mm, 54cm=90mm, 56cm=100mm, 58cm-61cm=110mm.</components>
+        <components name="Brakes"> Shimano Ultegra Super SLR Dual Pivot w/ Cartridge Brake Shoes</components>
+        <components name="Handlebar"> Felt 1.3 2014 Triple Butted Aluminum w/ Aerodynamic Wing Top Section, w/ Ergonomic Drop, Ø31.8mm, 51cm=400mm, 54cm-56cm=420mm, 58cm-61cm=440mm</components>
+        <components name="Cables"> Shimano Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ 20mm Cone &amp;#038; 3 X 7.5mm Spacer Stack</components>
+        <components name="Seat Post Clamp"> Ø30.6 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.43</current>
+            <votes>179.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt z5 road bike</name>
+        <price>$1999</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt Classic Racing Specific Geometry. HM High Modulus Modular Carbon Fiber Frame w/ 3K Finish. Forged Dropout &amp;#038; Replaceable Hanger.</material>
+            <size>700</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Felt 1.4 HM High Modulus Carbon Design w/ 3K Finish, Carbon Blades, Crown &amp;#038; 1 1/8 Steerer, Aluminum Dropouts w/ Felt Compression Device</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.2 Carbon Fiber Design, Ø27.2mm, 315mm</components>
+        <components name="Brake Levers"> Shimano 105 STI</components>
+        <components name="Saddle"> Felt 2.2 Anatomic Road Saddle w/ D2 Double-Density Base, Custom Embossed Cover &amp;#038; Hollow Cr-Mo Rails</components>
+        <components name="Stem"> Felt 2.1 Adjustable 6061 3D Forged Ø31.8mm w/ +/-(6 or 14) Degree Rise, 51cm=80mm, 54cm=90mm, 56cm=100mm, 58cm-61cm=110mm.</components>
+        <components name="Brakes"> Dual Pivot w/ Cartridge Brake Shoes, Stainless Hardware &amp;#038; Teflon Bushings</components>
+        <components name="Handlebar"> Felt 2.3 6061 Aluminum w/ Relaxed Racing Specific Ergonomic Drop, Ø31.8mm, 51cm=400mm, 54cm=420mm, 56cm-61cm=440mm</components>
+        <components name="Cables"> Felt Slick Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ 20mm Cone &amp;#038; 3 X 7.5mm Spacer Stack</components>
+        <components name="Seat Post Clamp"> Ø30.6 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.63</current>
+            <votes>164.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt z6 road bike</name>
+        <price>$1599</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt Classic Racing Specific Geometry. HM High Modulus Modular Carbon Fiber Frame w/ 3K Finish. Forged Dropout &amp;#038; Replaceable Hanger.</material>
+            <size>700</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Felt 1.4 HM High Modulus Carbon Design w/ 3K Finish, Carbon Blades, Crown &amp;#038; 1 1/8 Steerer, Aluminum Dropouts w/ Felt Compression Device</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.3 Carbon Fiber, Ø27.2mm, 330mm</components>
+        <components name="Brake Levers"> Shimano Tiagra STI</components>
+        <components name="Saddle"> Felt 2.2 Anatomic Road Saddle w/ D2 Double-Density Base, Custom Embossed Cover &amp;#038; Hollow Cr-Mo Rails</components>
+        <components name="Stem"> Felt 2.1 Adjustable 6061 3D Forged Ø31.8mm w/ +/-(6 or 14) Degree Rise, 51cm=80mm, 54cm=90mm, 56cm=100mm, 58cm-61cm=110mm.</components>
+        <components name="Brakes"> Dual Pivot w/ Cartridge Brake Shoes, Stainless Hardware &amp;#038; Teflon Bushings</components>
+        <components name="Handlebar"> Felt 2.3 6061 Aluminum w/ Relaxed Racing Specific Ergonomic Drop, Ø31.8mm, 51cm=400mm, 54cm=420mm, 56cm-61cm=440mm</components>
+        <components name="Cables"> Felt Slick Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ 20mm Cone &amp;#038; 3 X 7.5mm Spacer Stack</components>
+        <components name="Seat Post Clamp"> Ø30.6 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.49</current>
+            <votes>154.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt z85 road bike</name>
+        <price>$1149</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt Classic Racing Specific Geometry. Felt Super-light Custom Butted 7005 Aluminum w/ Smooth Welding, CNC HT &amp;#038; BB Shell, Forged Dropout &amp;#038; Replaceable Hanger.</material>
+            <size>700</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Felt Carbon Design w/ 3K Finish, Carbon Fiber Blades w/1 1/8 Aluminum Steerer &amp;#038; Aluminum Crown</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.3 Carbon Fiber, Ø27.2mm, 330mm</components>
+        <components name="Brake Levers"> Shimano 105 STI</components>
+        <components name="Saddle"> Felt 2.3 Anatomic Road Saddle w/ D2 Double-Density Base, Custom Embossed Cover</components>
+        <components name="Stem"> Felt 2.1 Adjustable 6061 3D Forged Ø31.8mm w/ +/-(6 or 14) Degree Rise, 51cm=80mm, 54cm=90mm, 56cm=100mm, 58cm-61cm=110mm.</components>
+        <components name="Brakes"> Dual Pivot w/ Cartridge Brake Shoes, Stainless Hardware &amp;#038; Teflon Bushings</components>
+        <components name="Handlebar"> Felt 2.3 6061 Aluminum w/ Relaxed Racing Specific Ergonomic Drop, Ø31.8mm, 51cm=400mm, 54cm=420mm, 56cm-61cm=440mm</components>
+        <components name="Cables"> Felt Slick Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ 20mm Cone &amp;#038; 3 X 7.5mm Spacer Stack</components>
+        <components name="Seat Post Clamp"> Ø31.8 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.6</current>
+            <votes>278.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt z100 road bike</name>
+        <price>$769</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt Classic Racing Specific Geometry Felt F-Lite Butted 7005 Aluminum w/ Smooth Welding, Forged Dropout &amp;#038; Replaceable Hanger.</material>
+            <size>700</size>
+            <size>51</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Carbon Design w/ 3K Carbon Fiber Blades, 1 1/8 Cr-Mo Steerer &amp;#038; Aluminum Crown</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.4 6061 Aluminum Ø27.2mm, 330mm</components>
+        <components name="Brake Levers"> Shimano 2303 STI w/ top mount levers</components>
+        <components name="Saddle"> Felt 2.4 Anatomic Road Saddle w/ D2 Double-Density Base, Custom Embossed Cover</components>
+        <components name="Stem"> Felt 1.3 6061 Aluminum Forged Ø31.8mm w/ +/-10° Rise, 51cm=80mm, 54cm=90mm, 56cm=100mm, 58cm-61cm=110mm.</components>
+        <components name="Brakes"> Dual Pivot w/ Cartridge Brake Shoes, Stainless Hardware &amp;#038; Teflon Bushings</components>
+        <components name="Handlebar"> Felt 2.3 6061 Aluminum w/ Relaxed Racing Specific Ergonomic Drop, Ø31.8mm, 51cm=400mm, 54cm=420mm, 56cm-61cm=440mm</components>
+        <components name="Cables"> Felt Slick Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA Threadless 1 1/8 w/ 20mm Cone &amp;#038; 3 X 7.5mm Washer Stack</components>
+        <components name="Seat Post Clamp"> Ø31.8 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.56</current>
+            <votes>124.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt breed road bike</name>
+        <price>$949</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt Cyclocross Single Speed Specific Custom Butted Super-light 7005 Aluminum w/ hydroformed shoulder friendly top tube flat, integrated rear brake cable stop CNC HT &amp;#038; BB Shell, Forged Dropout &amp;#038; Replaceable Hanger.</material>
+            <size>700</size>
+            <size>49</size>
+            <size>51</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+        </frame>
+        <fork>
+            <material> Felt Cyclocross Specific Carbon Fiber w/ 1-1/8 Aluminum Steerer &amp;#038; Crown</material>
+        </fork>
+        <components name="Seat Post"> Felt CX.3 Forged 6061 Aluminum 1 piece Superlight 2 Bolt Design, Ø27.2mm, 300mm</components>
+        <components name="Brake Levers">  Tektro Road Brake Lever for Cantilever Brakes w/ top mount levers</components>
+        <components name="Saddle"> Felt 2.2 Anatomic Road Saddle w/ D2 Double-Density Base, Custom Embossed Cover &amp;#038; Hollow Cr-Mo Rails</components>
+        <components name="Stem"> Felt 1.2 6061 Aluminum 3D Forged Ø31.8mm w/ 7° Rise, 49cm &amp;#038; 51cm=90mm, 54cm-56cm=100mm, 58cm-60cm=110mm,</components>
+        <components name="Brakes"> Tektro High Profile Euro-style Cyclocross Cantilevers w/ Linear type Cartridge brake pads.</components>
+        <components name="Handlebar"> Felt 2.3 Relaxed Racing Specific Geometry 6061 Aluminum w/ Ergonomic Drop, Ø31.8mm, 49cm=400mm, 51cm-53cm=420mm, 55cm-59cm=440mm</components>
+        <components name="Cables"> Felt Slick Brake</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ 2 X 7.5mm Spacer Stack &amp;#038; 15mm Cone/Integrated Brake Cable Hanger spacer</components>
+        <components name="Seat Post Clamp"> Ø31.8 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt zw2 womens road bike</name>
+        <price>$4999</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt FIT WOMAN Specific Custom, UHM Ultra High Modulus Composite Carbon Modular Carbon Fiber Frame w/ 3KP Finish, Forged Dropouts &amp;#038; Replaceable Hanger.</material>
+            <size>650</size>
+        </frame>
+        <fork>
+            <material> Felt FIT WOMAN 1.2 UHC-Nano Ultra Hybrid Composite Monocoque Carbon Fiber Fork w/ 3K Finish, Aluminum Dropouts, w/ Felt Compression Device</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.1 Carbon Fiber Monocoque Design, Ø27.2mm, 300mm</components>
+        <components name="Brake Levers"> Shimano Dura-Ace 7900 STI</components>
+        <components name="Saddle"> Felt FIT WOMAN RACE Anatomic Carbon Fiber Base w/ pressure relief zone, Custom Cover &amp;#038; CrN-Ti Rails</components>
+        <components name="Stem"> Felt DEVOX 7050 Aluminum 3D Forged Ø31.8mm Carbon Fiber H-Clamp w/ +/-6° Rise, Small=80mm, Medium=90mm, Tall=100mm</components>
+        <components name="Brakes"> Shimano Ultegra Super SLR Dual Pivot w/ Cartridge Brake Shoes</components>
+        <components name="Handlebar"> Ritchey Pro Evolution Carbon Fiber Bar w/ 3K finish &amp;#038; Short Size Specific Ergonomic Drop, Ø31.8mm, Small=380mm, Medium &amp;#038; Tall=400mm width, 74mm reach, 130mm drop</components>
+        <components name="Cables"> Shimano Dura-Ace Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ 20mm Cone &amp;#038; 3 X 7.5mm Spacer Stack</components>
+        <components name="Seat Post Clamp"> Ø30.6 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt zw4 womens road bike</name>
+        <price>$2999</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt FIT WOMAN Specific Custom, HM High Modulus Modular Carbon Fiber Frame w/ 3KP Finish &amp;#038; paint, Forged Dropouts &amp;#038; Replaceable Hanger.</material>
+            <size>650</size>
+        </frame>
+        <fork>
+            <material> Felt FIT WOMAN 1.3 HM High Modulus Carbon Design w/ 3k Finish, Carbon Blades, Crown, 1 1/8 Steerer, &amp;#038; Aluminum Dropouts w/ Felt Compression Device</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.2 Carbon Fiber Design, Ø27.2mm, 315mm</components>
+        <components name="Brake Levers"> Shimano Ultegra STI</components>
+        <components name="Saddle"> Felt FIT WOMAN Anatomic Carbon Base w/ pressure relief zone, Custom Cover &amp;#038; Custom Cover &amp;#038; Cr-Mo Rails</components>
+        <components name="Stem"> Felt 1.2 6061 Aluminum 3D Forged Ø31.8mm w/ 7° Rise, Small=80mm, Medium=90mm, Tall=100mm</components>
+        <components name="Brakes"> Shimano Ultegra Super SLR Dual Pivot w/ Cartridge Brake Shoes</components>
+        <components name="Handlebar"> Felt FW Fit Woman SL 2014 Triple Butted Flat Top Bar w/ Relaxed Racing Specific Ergonomic Drop, Ø31.8mm, Small=380mm, Medium &amp;#038; Tall=400mm width, 74mm reach, 130mm drop</components>
+        <components name="Cables"> Shimano Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ 20mm Cone &amp;#038; 3 X 7.5mm Spacer Stack</components>
+        <components name="Seat Post Clamp"> Ø30.6 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt zw5 womens road bike</name>
+        <price>$1999</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt FIT WOMAN Specific Custom, HM High Modulus Modular Carbon Fiber Frame w/ 3KP Finish &amp;#038; paint, Forged Dropouts &amp;#038; Replaceable Hanger.</material>
+            <size>650</size>
+        </frame>
+        <fork>
+            <material> Felt FIT WOMAN 1.4 HM High Modulus Carbon Design w/ 3k Finish, Carbon Blades, Crown, 1 1/8 Steerer, &amp;#038; Aluminum Dropouts w/ Felt Compression Device</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.2 Carbon Fiber Design, Ø27.2mm, 315mm</components>
+        <components name="Brake Levers"> Shimano 105 STI</components>
+        <components name="Saddle"> Felt FIT WOMAN Anatomic Carbon Base w/ pressure relief zone, Custom Cover &amp;#038; Custom Cover &amp;#038; Cr-Mo Rails</components>
+        <components name="Stem"> Felt 1.2 6061 Aluminum 3D Forged Ø31.8mm w/ 7° Rise, Small=80mm, Medium=90mm, Tall=100mm</components>
+        <components name="Brakes"> Dual Pivot w/ Cartridge Brake Shoes, Stainless Hardware &amp;#038; Teflon Bushings</components>
+        <components name="Handlebar"> Felt FW Fit Woman 6061 Butted Bar w/ Relaxed Racing Specific Ergonomic Drop, Ø31.8mm, Small=380mm, Medium &amp;#038; Tall=400mm width, 74mm reach, 130mm drop</components>
+        <components name="Cables"> Felt Slick Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ 20mm Cone &amp;#038; 3 X 7.5mm Spacer Stack</components>
+        <components name="Seat Post Clamp"> Ø30.6 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>2.88</current>
+            <votes>26.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt zw6 womens road bike</name>
+        <price>$1599</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt FIT WOMAN Specific Custom, HM High Modulus Modular Carbon Fiber Frame w/ 3KP Finish &amp;#038; paint, Forged Dropouts &amp;#038; Replaceable Hanger.</material>
+            <size>650</size>
+        </frame>
+        <fork>
+            <material> Felt FIT WOMAN 1.4 HM High Modulus Carbon Design w/ 3k Finish, Carbon Blades, Crown, 1 1/8 Steerer, &amp;#038; Aluminum Dropouts w/ Felt Compression Device</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.2 Carbon Fiber Design, Ø27.2mm, 315mm</components>
+        <components name="Brake Levers"> Shimano Tiagra STI</components>
+        <components name="Saddle"> Felt FIT WOMAN Anatomic D2 Double-Density Base w/ pressure relief zone, Custom Cover &amp;#038; Cr-Mo Rails</components>
+        <components name="Stem"> Felt 1.3 6061 Aluminum Forged Ø31.8mm w/ 10° Rise, Small=70mm, Medium=90mm, Tall=90mm</components>
+        <components name="Brakes"> Dual Pivot w/ Cartridge Brake Shoes, Stainless Hardware &amp;#038; Teflon Bushings</components>
+        <components name="Handlebar"> Felt FW Fit Woman 6061 Butted Bar w/ Relaxed Racing Specific Ergonomic Drop, Ø31.8mm, Small=380mm, Medium &amp;#038; Tall=400mm width, 74mm reach, 130mm drop</components>
+        <components name="Cables"> Felt Slick Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ 20mm Cone &amp;#038; 3 X 7.5mm Spacer Stack</components>
+        <components name="Seat Post Clamp"> Ø30.6 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.53</current>
+            <votes>51.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt zw95 womens road bike</name>
+        <price>$1099</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt FIT WOMAN Specific Custom Super-light Custom Butted 7005 Aluminum w/ Smooth Welding &amp;#038; Carbon SS, CNC HT &amp;#038; BB Shell, Forged Dropout &amp;#038; Replaceable Hanger.</material>
+            <size>650</size>
+        </frame>
+        <fork>
+            <material> Felt FIT WOMAN Carbon Fiber w/ 3K Finish, Carbon Fiber Blades w/ 1 1/8 Aluminum Steerer &amp;#038; Aluminum Crown</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.3 Carbon Fiber, Ø27.2mm, 300mm</components>
+        <components name="Brake Levers"> Shimano Sora w/ top mount levers</components>
+        <components name="Saddle"> Felt FIT WOMAN Anatomic D2 Double-Density Base w/ pressure relief zone, Custom Cover &amp;#038; Steel Rails</components>
+        <components name="Stem"> Felt 1.2 6061 Aluminum 3D Forged Ø31.8mm w/ 7° Rise, Small=80mm, Medium=90mm, Tall=100mm</components>
+        <components name="Brakes"> Dual Pivot w/ Cartridge Brake Shoes, Stainless Hardware &amp;#038; Teflon Bushings</components>
+        <components name="Handlebar"> Felt FW Fit Woman 6061 Butted Bar w/ Relaxed Racing Specific Ergonomic Drop, Ø31.8mm, Small=380mm, Medium &amp;#038; Tall=400mm width, 74mm reach, 130mm drop</components>
+        <components name="Cables"> Felt Slick Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA 1 1/8 Integrated w/ 20mm Cone &amp;#038; 3 X 7.5mm Spacer Stack</components>
+        <components name="Seat Post Clamp"> Ø30.6 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>felt zw100 womens road bike</name>
+        <price>$769</price>
+        <year>2010</year>
+        <frame>
+            <material> Felt FIT WOMAN Specific Custom Butted F-Lite 7005 Aluminum w/ smooth welding, forged dropouts &amp;#038; replaceable hanger</material>
+            <size>650</size>
+        </frame>
+        <fork>
+            <material> Felt FIT WOMAN Carbon Fiber w/ 3K Finish, Carbon Fiber Blades w/ 1 1/8 Aluminum Steerer &amp;#038; Aluminum Crown</material>
+        </fork>
+        <components name="Seat Post"> Felt 1.4 6061 Aluminum Ø27.2mm, 300mm</components>
+        <components name="Brake Levers"> Shimano 2300 STI w/ top mount levers</components>
+        <components name="Saddle"> Felt FIT WOMAN Anatomic D2 Double-Density Base w/ pressure relief zone, Custom Cover &amp;#038; Steel Rails</components>
+        <components name="Stem"> Felt 1.3 6061 Aluminum Forged Ø31.8mm w/ +/-10° Rise, Small=70mm, Medium=90mm, Tall=90mm</components>
+        <components name="Brakes"> Dual Pivot w/ Cartridge Brake Shoes, Stainless Hardware &amp;#038; Teflon Bushings</components>
+        <components name="Handlebar"> Felt FW Fit Woman 6061 Butted Bar w/ Relaxed Racing Specific Ergonomic Drop, Ø31.8mm, Small=380mm, Medium &amp;#038; Tall=400mm width, 74mm reach, 130mm drop</components>
+        <components name="Cables"> Felt Slick Brake &amp;#038; Derailleur</components>
+        <components name="Headset"> FSA FSA Threadless 1 1/8 w/ 20mm Cone &amp;#038; 3 X 7.5mm Washer Stack</components>
+        <components name="Seat Post Clamp"> Ø30.6 6061-AL Forged Aluminum, Cr-Mo 5mm x 0.8mm Bolt, Stainless Steel Nut-Bar. 16 Grams</components>
+        <components name="Bar Ends/Caps"> Bubble-Tech FE LT Logo End Plugs</components>
+        <components name="Grips"> Felt Gel Ribbon Cork Tape w/ Felt 3D Logo</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+</brand>

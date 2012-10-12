@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<brand>
+    <manufacturer>bianchi</manufacturer>
+    <model>
+        <name>bianchi 928 sl super record road bike</name>
+        <price>$11,999.00</price>
+        <year>2010</year>
+        <frame>
+            <material> 928 Carbon SL &amp;#8211; IASP integrated aero seatpost &amp;#8211; UD finish</material>
+            <size>50</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Bianchi FC09 Full Carbon HoC &amp;#8211; 1-1/8â€?</material>
+        </fork>
+        <components name="Saddle"> Fizik Antares &amp;#8211; rail braided carbon</components>
+        <components name="Stem"> FSA OS-99 CSI &amp;#8211; AL7050 core with integrated carbon</components>
+        <components name="Brake Lever"> integrated</components>
+        <components name="Brakes"> Campagnolo SUPER RECORD-D SKELETON</components>
+        <components name="Handlebar"> FSA K-Force Compact</components>
+        <components name="Headset"> FSA Orbit CF</components>
+        <components name="Grips"> Fizik Microtex tape</components>
+        <components name="Seatpost"> FSA K-Wing Integrated Aero &amp;#8211; carbon fiber</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.03</current>
+            <votes>39.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>bianchi 928 sl dura ace road bike</name>
+        <price>$8,999.00</price>
+        <year>2010</year>
+        <frame>
+            <material> 928 Carbon SL &amp;#8211; IASP integrated aero seatpost &amp;#8211; UD finish</material>
+            <size>50</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Bianchi FC09 Full Carbon HoC &amp;#8211; 1-1/8â€?</material>
+        </fork>
+        <components name="Saddle"> Fizik Antares &amp;#8211; rail braided carbon</components>
+        <components name="Stem"> FSA OS-99 CSI &amp;#8211; AL7050 core with integrated carbon</components>
+        <components name="Brake Lever"> integrated</components>
+        <components name="Brakes"> Shimano DURA ACE</components>
+        <components name="Handlebar"> FSA K-Force Compact</components>
+        <components name="Headset"> FSA Orbit CF</components>
+        <components name="Grips"> Fizik Microtex tape</components>
+        <components name="Seatpost"> FSA K-Wing Integrated Aero &amp;#8211; carbon fiber</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.0</current>
+            <votes>18.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>bianchi mono q ultegra compact road bike</name>
+        <price>$2,999.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Carbon MONO-Q B4P</material>
+            <size>50</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Bianchi K-VID Full carbon B4P &amp;#8211; 1-1/8â€?</material>
+        </fork>
+        <components name="Saddle"> Fizik Pave CX</components>
+        <components name="Stem"> FSA OS-190LX</components>
+        <components name="Brake Lever"> integrated</components>
+        <components name="Brakes"> Shimano 105 Black</components>
+        <components name="Handlebar"> FSA Omega Compact</components>
+        <components name="Headset"> FSA Orbit CE Plus</components>
+        <components name="Grips"> Bike Ribbon cork</components>
+        <components name="Seatpost"> FSA SLK &amp;#8211; Carbon &amp;#8211; 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.57</current>
+            <votes>28.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>bianchi mono q 105 compact road bike</name>
+        <price>$2,299.00</price>
+        <year>2010</year>
+        <frame>
+            <material> 928 CARBON MONO-Q</material>
+            <size>50</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Bianchi FF38 FORK FULL CARBON B4P &amp;#8211; 1-1/8&amp;#8243;</material>
+        </fork>
+        <components name="Saddle"> Fizik Pave CX Sport</components>
+        <components name="Stem"> FSA OS-190LX</components>
+        <components name="Brake Lever"> integrated</components>
+        <components name="Brakes"> Shimano 105 Black</components>
+        <components name="Handlebar"> FSA Omega Compact</components>
+        <components name="Headset"> FSA Orbit CE Plus</components>
+        <components name="Grips"> Bike Ribbon cork</components>
+        <components name="Seatpost"> Bianchi RC Carbon 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.75</current>
+            <votes>8.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>bianchi mono q veloce compact road bike</name>
+        <price>$3,199.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Carbon MONO-Q B4P</material>
+            <size>50</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Bianchi Alu/Carbon B4P &amp;#8211; FN11 &amp;#8211; 1-1/8â€?</material>
+        </fork>
+        <components name="Saddle"> Fizik Pave CX sport</components>
+        <components name="Stem"> FSA OS-190LX</components>
+        <components name="Brake lever"> integrated</components>
+        <components name="Brake Lever"> integrated</components>
+        <components name="Brakes"> Campagnolo VELOCE-D SKELETON</components>
+        <components name="Handlebar"> FSA Omega Compact</components>
+        <components name="Headset"> FSA Orbit CE Plus</components>
+        <components name="Grips"> Bike Ribbon cork</components>
+        <components name="Seatpost"> RC SP-928-G Carbon fiber &amp;#8211; 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.51</current>
+            <votes>35.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>bianchi 1885 alu carbon veloce road bike</name>
+        <price>$2,299.00</price>
+        <year>2010</year>
+        <frame>
+            <material> 1885 Alu Carbon &amp;#8211; B4P</material>
+            <size>46</size>
+            <size>49</size>
+            <size>51</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+            <size>61</size>
+            <size>63</size>
+        </frame>
+        <fork>
+            <material> Bianchi Carbon Alu FN11 B4P &amp;#8211; 1-1/8â€?</material>
+        </fork>
+        <components name="Saddle"> Fizik Pave CX sport</components>
+        <components name="Stem"> RC DA-32 3D &amp;#8211; Forged alloy</components>
+        <components name="Brake lever"> integrated</components>
+        <components name="Brake Lever"> integrated</components>
+        <components name="Brakes"> Campagnolo VELOCE</components>
+        <components name="Handlebar"> Deda Elementi Big Piega</components>
+        <components name="Headset"> FSA ZS4-CUSTOM Semi Integrated</components>
+        <components name="Grips"> Bike Ribbon cork</components>
+        <components name="Seatpost"> RC SP-928-G Carbon fiber &amp;#8211; 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.67</current>
+            <votes>52.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>bianchi infinito athena road bike</name>
+        <price>$4,499.00</price>
+        <year>2010</year>
+        <frame>
+            <material> INFINITO &amp;#8211; K-Vid with Kevlar insert</material>
+            <size>50</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Bianchi FF35 K-VID Full Carbon with Kevlar &amp;#8211; 1-1/8â€?</material>
+        </fork>
+        <components name="Saddle"> Fiâ€™Zi</components>
+        <components name="Stem"> FSA OS-190LX &amp;#8211; custom color and graphics</components>
+        <components name="Brake lever"> integrated</components>
+        <components name="Brake Lever"> integrated</components>
+        <components name="Brakes"> Campagnolo ATHENA-D SKELETON</components>
+        <components name="Handlebar"> FSA WING Compact &amp;#8211; custom color and graphics</components>
+        <components name="Headset"> FSA Orbit CE Plus</components>
+        <components name="Grips"> Bike Ribbon cork</components>
+        <components name="Seatpost"> FSA SL-K Carbon &amp;#8211; 31.6mm, custom color and graphics</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.76</current>
+            <votes>29.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>bianchi infinito veloce road bike</name>
+        <price>$3,499.00</price>
+        <year>2010</year>
+        <frame>
+            <material> INFINITO &amp;#8211; K-Vid with Kevlar insert</material>
+            <size>50</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Bianchi FF35 K-VID Full Carbon with Kevlar &amp;#8211; 1-1/8â€?</material>
+        </fork>
+        <components name="Saddle"> Fiâ€™Zi</components>
+        <components name="Stem"> FSA OS-190LX &amp;#8211; custom color and graphics</components>
+        <components name="Brake lever"> integrated</components>
+        <components name="Brake Lever"> integrated</components>
+        <components name="Brakes"> Campagnolo VELOCE-D SKELETON</components>
+        <components name="Handlebar"> FSA WING Compact &amp;#8211; custom color and graphics</components>
+        <components name="Headset"> FSA Orbit CE Plus</components>
+        <components name="Grips"> Bike Ribbon cork</components>
+        <components name="Seatpost"> FSA SL-K Carbon &amp;#8211; 31.6mm, custom color and graphics</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.56</current>
+            <votes>52.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>bianchi infinito ultegra road bike</name>
+        <price>$2,999.00</price>
+        <year>2010</year>
+        <frame>
+            <material> INFINITO &amp;#8211; K-Vid with Kevlar insert</material>
+            <size>50</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Bianchi FF35 K-VID Full Carbon with Kevlar &amp;#8211; 1-1/8â€?</material>
+        </fork>
+        <components name="Saddle"> Fiâ€™Zi</components>
+        <components name="Stem"> FSA Carbon Pro &amp;#8211; custom color and graphics</components>
+        <components name="Brake lever"> integrated</components>
+        <components name="Brake Lever"> integrated</components>
+        <components name="Brakes"> Shimano ULTEGRA</components>
+        <components name="Handlebar"> FSA WING Compact &amp;#8211; custom color and graphics</components>
+        <components name="Headset"> FSA Orbit CE Plus</components>
+        <components name="Grips"> Bike Ribbon cork</components>
+        <components name="Seatpost"> FSA SL-K Carbon &amp;#8211; 31.6mm, custom color and graphics</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.68</current>
+            <votes>91.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>bianchi via nirone 7 alu carbon 105 road bike</name>
+        <price>$1,649.00</price>
+        <year>2010</year>
+        <frame>
+            <material> VIA NIRONE 7 ALU CARBON</material>
+            <size>50</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Bianchi FL5 K-VID Carbon/Al C2C with Kevlar &amp;#8211; 1-1/8â€?</material>
+        </fork>
+        <components name="Saddle"> San Marco Ponza Power &amp;#8211; carbon steel rail</components>
+        <components name="Stem"> RC DA-32 3D &amp;#8211; forged alloy</components>
+        <components name="Brake lever"> integrated</components>
+        <components name="Brake Lever"> integrated</components>
+        <components name="Brakes"> Shimano TIAGRA</components>
+        <components name="Handlebar"> JD-RA37A Alloy 31.8mm</components>
+        <components name="Headset"> FSA ZS-4D 1-1/8â€?</components>
+        <components name="Grips"> Bike Ribbon cork</components>
+        <components name="Seatpost"> RC SP-968-G Carbon Fiber 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.38</current>
+            <votes>47.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>bianchi via nirone 7 alu carbon tiagra road bike</name>
+        <price>$1,199.00</price>
+        <year>2010</year>
+        <frame>
+            <material> VIA NIRONE 7 ALU CARBON</material>
+            <size>50</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Bianchi K-VID Carbon w/alu steerer &amp;#8211; 1-1/8â€?</material>
+        </fork>
+        <components name="Saddle"> Selle San Marco Ponza</components>
+        <components name="Stem"> RC DA-32 3D &amp;#8211; forged alloy</components>
+        <components name="Brake lever"> integrated</components>
+        <components name="Brake Lever"> integrated</components>
+        <components name="Brakes"> Bianchi RC &amp;#8211; Forged Alloy Dual-Pivot</components>
+        <components name="Handlebar"> Deda Elementi Big Piega</components>
+        <components name="Headset"> FSA ZS-4-Custom</components>
+        <components name="Grips"> Bike Ribbon cork</components>
+        <components name="Seatpost"> RC Carbon &amp;#8211; 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.65</current>
+            <votes>96.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>bianchi via nirone 7 alu sora compact road bike</name>
+        <price>$899.00</price>
+        <year>2010</year>
+        <frame>
+            <material> VIA NIRONE 7 6061 ALU</material>
+            <size>44</size>
+            <size>46</size>
+            <size>50</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Bianchi FL5 K-VID Carbon/Al C2C with Kevlar &amp;#8211; 1-1/8â€?</material>
+        </fork>
+        <components name="Saddle"> Active &amp;#8211; FM-5257 &amp;#8211; steel rail</components>
+        <components name="Stem"> RC DA-32 3D &amp;#8211; forged alloy</components>
+        <components name="Brake lever"> integrated</components>
+        <components name="Brake Lever"> integrated</components>
+        <components name="Brakes"> RC-466E &amp;#8211; Forged Alloy Dual-Pivot</components>
+        <components name="Handlebar"> Deda Elementi Big Piega</components>
+        <components name="Headset"> VP-A42E</components>
+        <components name="Grips"> Bike Ribbon cork</components>
+        <components name="Seatpost"> RC SP-222- 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.52</current>
+            <votes>175.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>bianchi via nirone 7 alu sora triple road bike</name>
+        <price>$899.00</price>
+        <year>2010</year>
+        <frame>
+            <material> VIA NIRONE 7 6061 ALU</material>
+            <size>44</size>
+            <size>46</size>
+            <size>50</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Bianchi FL5 K-VID Carbon/Al C2C with Kevlar &amp;#8211; 1-1/8â€?</material>
+        </fork>
+        <components name="Saddle"> Active &amp;#8211; FM-5257 &amp;#8211; steel rail</components>
+        <components name="Stem"> RC DA-32 3D &amp;#8211; forged alloy</components>
+        <components name="Brake lever"> integrated</components>
+        <components name="Brake Lever"> integrated</components>
+        <components name="Brakes"> RC-466E &amp;#8211; Forged Alloy Dual-Pivot</components>
+        <components name="Handlebar"> Deda Elementi Big Piega</components>
+        <components name="Headset"> VP-A42E</components>
+        <components name="Grips"> Bike Ribbon cork</components>
+        <components name="Seatpost"> RC SP-222- 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.84</current>
+            <votes>43.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>bianchi via nirone 7 alu 2300 triple road bike</name>
+        <price>$749.00</price>
+        <year>2010</year>
+        <frame>
+            <material> VIA NIRONE 7 6061 ALU</material>
+            <size>44</size>
+            <size>46</size>
+            <size>50</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Bianchi FL5 K-VID Carbon/Al C2C with Kevlar &amp;#8211; 1-1/8â€?</material>
+        </fork>
+        <components name="Saddle"> Active &amp;#8211; FM-5257 &amp;#8211; steel rail</components>
+        <components name="Stem"> RC DA-32 3D &amp;#8211; forged alloy</components>
+        <components name="Brake lever"> integrated</components>
+        <components name="Brake Lever"> integrated</components>
+        <components name="Brakes"> RC-466E &amp;#8211; Forged Alloy Dual-Pivot</components>
+        <components name="Handlebar"> Deda Elementi Big Piega</components>
+        <components name="Headset"> VP-A42E</components>
+        <components name="Grips"> Bike Ribbon cork</components>
+        <components name="Seatpost"> RC SP-222- 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.6</current>
+            <votes>96.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>bianchi she alu carbon 105 womens road bike</name>
+        <price>$1,699.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Dama Bianca Alu/Carbon/Kevlar Lady</material>
+            <size>44</size>
+            <size>47</size>
+            <size>50</size>
+            <size>53</size>
+        </frame>
+        <fork>
+            <material> Bianchi FL5 K-VID Carbon/Al C2C with Kevlar &amp;#8211; 1-1/8â€?</material>
+        </fork>
+        <components name="Saddle"> Active FM-9006 LADY</components>
+        <components name="Stem"> RC DA-32 3D &amp;#8211; forged alloy</components>
+        <components name="Brake lever"> integrated</components>
+        <components name="Brake Lever"> integrated</components>
+        <components name="Brakes"> Shimano 105</components>
+        <components name="Handlebar"> FSA Omega Compact</components>
+        <components name="Headset"> FSA ZS4-CUSTOM</components>
+        <components name="Grips"> Bike Ribbon cork</components>
+        <components name="Seatpost"> RC SP-928-G Carbon fiber &amp;#8211; 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.43</current>
+            <votes>21.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>bianchi she alu sora womens road bike</name>
+        <price>$949.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Dama Bianca Alu Lady</material>
+            <size>44</size>
+            <size>47</size>
+            <size>50</size>
+            <size>53</size>
+        </frame>
+        <fork>
+            <material> Bianchi FL5 K-VID Carbon/Al C2C with Kevlar &amp;#8211; 1-1/8â€?</material>
+        </fork>
+        <components name="Saddle"> Active FM-9006 LADY</components>
+        <components name="Stem"> RC DA-32 3D &amp;#8211; forged alloy</components>
+        <components name="Brake lever"> integrated</components>
+        <components name="Brake Lever"> integrated</components>
+        <components name="Brakes"> RC-466E &amp;#8211; Forged Alloy Dual-Pivot</components>
+        <components name="Handlebar"> FSA Omega Compact</components>
+        <components name="Headset"> FSA ZS4-CUSTOM</components>
+        <components name="Grips"> Bike Ribbon cork</components>
+        <components name="Seatpost"> RC SP-222- 31.6mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>bianchi dolomiti road bike</name>
+        <price>$4,999.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Bianchi steel Lugged Chromly DB</material>
+            <size>49</size>
+            <size>53</size>
+            <size>56</size>
+            <size>59</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Cromoly 1â€?</material>
+        </fork>
+        <components name="Saddle"> San Marco Regal &amp;#8211; dark brown leather</components>
+        <components name="Stem"> Deda Elementi Murex &amp;#8211; silver</components>
+        <components name="Brake lever"> integrated</components>
+        <components name="Brake Lever"> integrated</components>
+        <components name="Brakes"> Campagnolo ATHENA</components>
+        <components name="Handlebar"> Deda Elementi 215 &amp;#8211; silver</components>
+        <components name="Headset"> FSA Duron 1â€?</components>
+        <components name="Grips"> Velo VLT-035 cotton tape color white</components>
+        <components name="Seatpost"> RC SP-222 alloy 27.2mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.52</current>
+            <votes>21.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>bianchi vigorelli road bike</name>
+        <price>$1,799.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Bianchi Cr-Mo, TIG weld w/ Reynolds 631 tubing</material>
+            <size>44</size>
+            <size>49</size>
+            <size>51</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+            <size>61</size>
+            <size>63</size>
+        </frame>
+        <fork>
+            <material> Bianchi Carbon w/ aluminum steerer, 1-1/8â€?</material>
+        </fork>
+        <components name="Saddle"> Selle San Marco PONZA</components>
+        <components name="Stem"> FSA ST-OS-190LX alloy</components>
+        <components name="Brake lever"> integrated</components>
+        <components name="Brake Lever"> integrated</components>
+        <components name="Brakes"> Shimano 105</components>
+        <components name="Handlebar"> FSA Wing alloy</components>
+        <components name="Headset"> VP-A51AE</components>
+        <components name="Grips"> Bianchi Embossed Cork</components>
+        <components name="Seatpost"> Bianchi alloy</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.55</current>
+            <votes>33.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>bianchi imola road bike</name>
+        <price>$1,249.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Bianchi Cr-Mo, TIG weld w/ Reynolds 631 tubing</material>
+            <size>44</size>
+            <size>49</size>
+            <size>51</size>
+            <size>53</size>
+            <size>55</size>
+            <size>57</size>
+            <size>59</size>
+            <size>61</size>
+            <size>63</size>
+        </frame>
+        <fork>
+            <material> Bianchi Carbon w/ aluminum steerer, 1-1/8â€?</material>
+        </fork>
+        <components name="Saddle"> Selle San Marco PONZA</components>
+        <components name="Stem"> Bianchi RC forged alloy</components>
+        <components name="Brake lever"> integrated</components>
+        <components name="Brake Lever"> integrated w/ safety lever</components>
+        <components name="Brakes"> Shimano TIAGRA</components>
+        <components name="Handlebar"> JD-RA37A alloy</components>
+        <components name="Headset"> VP-A51AE</components>
+        <components name="Grips"> Bianchi Embossed Cork</components>
+        <components name="Seatpost"> Bianchi alloy</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.47</current>
+            <votes>51.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>bianchi volpe road bike</name>
+        <price>$1,099.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Bianchi Cr-Mo, TIG weld</material>
+            <size>44</size>
+            <size>49</size>
+            <size>52</size>
+            <size>55</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> 1-1/8â€? CrMo blades, CrMo steerer</material>
+        </fork>
+        <components name="Saddle"> Velo VL-1166</components>
+        <components name="Stem"> Kalloy alloy</components>
+        <components name="Brake lever"> integrated</components>
+        <components name="Brake Lever"> Shimano TIAGRA</components>
+        <components name="Brakes"> Cane Creek SCX-5</components>
+        <components name="Handlebar"> Premetec 6105R</components>
+        <components name="Headset"> VP-A51AE</components>
+        <components name="Grips"> Bike Ribbon cork</components>
+        <components name="Seatpost"> Kalloy SP-600</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.55</current>
+            <votes>100.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>bianchi brava road bike</name>
+        <price>$949.00</price>
+        <year>2010</year>
+        <frame>
+            <material> Bianchi Cr-Mo, TIG weld</material>
+            <size>44</size>
+            <size>49</size>
+            <size>52</size>
+            <size>55</size>
+            <size>58</size>
+            <size>61</size>
+        </frame>
+        <fork>
+            <material> Bianchi Carbon w/ aluminum steerer, 1-1/8â€?</material>
+        </fork>
+        <components name="Saddle"> Selle San Marco PONZA</components>
+        <components name="Stem"> Bianchi RC forged alloy</components>
+        <components name="Brake lever"> integrated</components>
+        <components name="Brake Lever"> integrated</components>
+        <components name="Brakes"> Bianchi RC Alloy</components>
+        <components name="Handlebar"> JD-RA37A alloy</components>
+        <components name="Headset"> VP-A51AE</components>
+        <components name="Grips"> Bianchi Embossed Cork</components>
+        <components name="Seatpost"> Bianchi alloy</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.44</current>
+            <votes>48.0</votes>
+        </rating>
+    </model>
+</brand>

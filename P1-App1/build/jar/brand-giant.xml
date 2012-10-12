@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<brand>
+    <manufacturer>giant</manufacturer>
+    <model>
+        <name>giant tcr advanced sl 0 road bike</name>
+        <price>$11,000</price>
+        <year>2010</year>
+        <frame>
+            <material> Advanced SL-Grade Composite, Integrated Seatpost, Custom for Shimano DI2 electronic</material>
+        </frame>
+        <fork>
+            <material> Advanced SL-Grade Composite, Full Composite OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Dura-Ace Di2 electronic</components>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> Giant Contact  SLR, Composite</components>
+        <components name="Brakes"> Shimano Dura-Ace 7900</components>
+        <components name="Handlebar"> Giant Contact  SLR, Composite, 31.8</components>
+        <components name="Seatpost"> Advanced SL-Grade Composite, Integrated Design</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.77</current>
+            <votes>65.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant tcr advanced sl 1 road bike</name>
+        <price>$6,200</price>
+        <year>2010</year>
+        <frame>
+            <material> Advanced SL-Grade Composite, Integrated Seatpost</material>
+        </frame>
+        <fork>
+            <material> Advanced SL-Grade Composite, Full Composite OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> SRAM Red</components>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> Giant Contact  SLR, Composite</components>
+        <components name="Brakes"> SRAM Red</components>
+        <components name="Handlebar"> Giant Contact SLR, Composite, 31.8</components>
+        <components name="Seatpost"> Advanced SL-Grade Composite, Integrated Design</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.82</current>
+            <votes>56.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant tcr advanced sl 2 road bike</name>
+        <price>$6,200</price>
+        <year>2010</year>
+        <frame>
+            <material> Advanced SL-Grade Composite, Integrated Seatpost</material>
+        </frame>
+        <fork>
+            <material> Advanced SL-Grade Composite, Full Composite OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Dura-Ace 7900</components>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> Giant Contact  SLR, Composite</components>
+        <components name="Brakes"> Shimano Dura-Ace 7900</components>
+        <components name="Handlebar"> Giant Contact  SLR, Composite, 31.8</components>
+        <components name="Seatpost"> Advanced SL-Grade Composite, Integrated Design</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.6</current>
+            <votes>47.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant tcr advanced sl 3 road bike</name>
+        <price>$4,125</price>
+        <year>2010</year>
+        <frame>
+            <material> Advanced SL-Grade Composite</material>
+        </frame>
+        <fork>
+            <material> Advanced SL-Grade Composite, Full Composite OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Ultegra 6700</components>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> Giant Contact</components>
+        <components name="Brakes"> Shimano Ultegra 6700</components>
+        <components name="Handlebar"> Giant Contact, 31.8</components>
+        <components name="Seatpost"> Giant Vector Composite</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.5</current>
+            <votes>42.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant tcr advanced 1 road bike</name>
+        <price>$4,000</price>
+        <year>2010</year>
+        <frame>
+            <material> Advanced-Grade Composite</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Full Composite OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> SRAM Force</components>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> Giant Contact</components>
+        <components name="Brakes"> SRAM Force</components>
+        <components name="Handlebar"> Giant Contact, 31.8</components>
+        <components name="Seatpost"> Giant Vector Composite</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.76</current>
+            <votes>58.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant tcr advanced 2 road bike</name>
+        <price>$3,400</price>
+        <year>2010</year>
+        <frame>
+            <material> Advanced-Grade Composite</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Full Composite OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Ultegra 6700</components>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> Giant Contact</components>
+        <components name="Brakes"> Shimano Ultegra 6700</components>
+        <components name="Handlebar"> Giant Contact, 31.8</components>
+        <components name="Seatpost"> Giant Vector Composite</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.72</current>
+            <votes>58.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant tcr advanced 3 road bike</name>
+        <price>$2,500</price>
+        <year>2010</year>
+        <frame>
+            <material> Advanced-Grade Composite</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Full Composite OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105</components>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> Giant Connect SL</components>
+        <components name="Brakes"> Shimano 105</components>
+        <components name="Handlebar"> Giant Connect SL, 31.8</components>
+        <components name="Seatpost"> Giant Vector Composite</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.72</current>
+            <votes>76.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant tcr alliance road bike</name>
+        <price>$2,075</price>
+        <year>2010</year>
+        <frame>
+            <material> Alliance Composite/Aluminum Technology</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Alloy OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> SRAM Rival</components>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> Giant Connect SL</components>
+        <components name="Brakes"> SRAM Rival</components>
+        <components name="Handlebar"> Giant Connect SL, 31.8</components>
+        <components name="Seatpost"> Giant Connect SL Composite, 30.9</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.73</current>
+            <votes>51.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant defy advanced 0 road bike</name>
+        <price>$5,550</price>
+        <year>2010</year>
+        <frame>
+            <material> Advanced-Grade Composite</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Full Composite OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Dura-Ace 7900</components>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> Giant Contact  SLR, Composite</components>
+        <components name="Brakes"> Shimano Dura-Ace 7900</components>
+        <components name="Handlebar"> Giant Contact  SLR, Composite, 31.8</components>
+        <components name="Seatpost"> Giant Vector Composite</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.5</current>
+            <votes>12.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant defy advanced 1 road bike</name>
+        <price>$3,300</price>
+        <year>2010</year>
+        <frame>
+            <material> Advanced-Grade Composite</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Full Composite OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Ultegra 6700</components>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> Giant Contact</components>
+        <components name="Brakes"> Shimano Ultegra 6700</components>
+        <components name="Handlebar"> Giant Contact, 31.8</components>
+        <components name="Seatpost"> Giant Vector Composite</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.69</current>
+            <votes>90.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant defy advanced 2 road bike</name>
+        <price>$2,550</price>
+        <year>2010</year>
+        <frame>
+            <material> Advanced-Grade Composite</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Alloy OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105</components>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> Giant Connect SL</components>
+        <components name="Brakes"> Shimano 105</components>
+        <components name="Handlebar"> Giant Connect SL, 31.8</components>
+        <components name="Seatpost"> Giant Vector Composite</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.73</current>
+            <votes>55.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant defy advanced 3 compact road bike</name>
+        <price>$2,075</price>
+        <year>2010</year>
+        <frame>
+            <material> Advanced-Grade Composite</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Alloy OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105</components>
+        <components name="Saddle"> Selle Royal Seta M</components>
+        <components name="Stem"> Giant Connect SL</components>
+        <components name="Brakes"> Tektro Giant specific TK-R710, Dual Pivot</components>
+        <components name="Handlebar"> Giant Connect SL, 31.8</components>
+        <components name="Seatpost"> Giant Vector Composite</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.66</current>
+            <votes>67.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant defy advanced 3 triple road bike</name>
+        <price>$2,075</price>
+        <year>2010</year>
+        <frame>
+            <material> Advanced-Grade Composite</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Alloy OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105</components>
+        <components name="Saddle"> Selle Royal Seta M</components>
+        <components name="Stem"> Giant Connect SL</components>
+        <components name="Brakes"> Tektro Giant specific TK-R710, Dual Pivot</components>
+        <components name="Handlebar"> Giant Connect SL, 31.8</components>
+        <components name="Seatpost"> Giant Vector Composite</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.93</current>
+            <votes>14.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant defy alliance 0 road bike</name>
+        <price>$1,950</price>
+        <year>2010</year>
+        <frame>
+            <material> Alliance Composite/Aluminum Technology</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Alloy OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105</components>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> Giant Connect SL</components>
+        <components name="Brakes"> Shimano 105</components>
+        <components name="Handlebar"> Giant Connect SL, 31.8</components>
+        <components name="Seatpost"> Giant Connect SL Composite, 30.9</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.37</current>
+            <votes>27.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant defy alliance 1 road bike</name>
+        <price>$1,525</price>
+        <year>2010</year>
+        <frame>
+            <material> Alliance Composite/Aluminum Technology</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Alloy OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Tiagra</components>
+        <components name="Saddle"> Selle Royal Seta M</components>
+        <components name="Stem"> Giant Connect</components>
+        <components name="Brakes"> Tektro Giant specific TK-R710, Dual Pivot</components>
+        <components name="Handlebar"> Giant Connect, 31.8</components>
+        <components name="Seatpost"> Giant Connect SL Composite, 30.9</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.6</current>
+            <votes>65.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant defy 1 road bike</name>
+        <price>$1,350</price>
+        <year>2010</year>
+        <frame>
+            <material> ALUXX SL-Grade Aluminum</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Alloy OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105</components>
+        <components name="Saddle"> Selle Royal Seta M</components>
+        <components name="Stem"> Giant Connect</components>
+        <components name="Brakes"> Tektro Giant specific TK-R710, Dual Pivot</components>
+        <components name="Handlebar"> Giant Connect, 31.8</components>
+        <components name="Seatpost"> Giant Connect SL Composite, 30.9</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.52</current>
+            <votes>111.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant defy 2 compact road bike</name>
+        <price>$1,100</price>
+        <year>2010</year>
+        <frame>
+            <material> ALUXX SL-Grade Aluminum</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Alloy OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Tiagra</components>
+        <components name="Saddle"> Giant Performance Road, Men&amp;#8217;s</components>
+        <components name="Stem"> Giant Connect</components>
+        <components name="Brakes"> Shimano Sora</components>
+        <components name="Handlebar"> Giant Connect, 31.8</components>
+        <components name="Seatpost"> Giant Connect SL Composite, 30.9</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.18</current>
+            <votes>62.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant defy 2 triple road bike</name>
+        <price>$1,100</price>
+        <year>2010</year>
+        <frame>
+            <material> ALUXX SL-Grade Aluminum</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Alloy OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Tiagra</components>
+        <components name="Saddle"> Giant Performance Road, Men&amp;#8217;s</components>
+        <components name="Stem"> Giant Connect</components>
+        <components name="Brakes"> Shimano Sora</components>
+        <components name="Handlebar"> Giant Connect, 31.8</components>
+        <components name="Seatpost"> Giant Connect SL Composite, 30.9</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.85</current>
+            <votes>13.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant defy 3 road bike</name>
+        <price>$800</price>
+        <year>2010</year>
+        <frame>
+            <material> ALUXX SL-Grade Aluminum</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Alloy OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 2300, Short Reach</components>
+        <components name="Saddle"> Giant Performance Road, Men&amp;#8217;s</components>
+        <components name="Stem"> Giant Alloy 4-bolt</components>
+        <components name="Brakes"> Tektro Giant specific TK-R710, Dual Pivot</components>
+        <components name="Handlebar"> Giant Alloy Anatomic Bend, 26.0</components>
+        <components name="Seatpost"> Giant Alloy, 30.9</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.14</current>
+            <votes>173.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant rapid 0 road bike</name>
+        <price>$1,350</price>
+        <year>2010</year>
+        <frame>
+            <material> ALUXX-Grade aluminum</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Alloy OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Tektro Alloy</components>
+        <components name="Saddle"> Selle Royal Seta W or M</components>
+        <components name="Stem"> Giant Connect SL</components>
+        <components name="Brakes"> Shimano Dual Pivot, Long Reach</components>
+        <components name="Handlebar"> Giant Contact, flat 31.8</components>
+        <components name="Seatpost"> Giant Connect SL Composite, 30.9</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.53</current>
+            <votes>32.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant rapid 1 road bike</name>
+        <price>$1,100</price>
+        <year>2010</year>
+        <frame>
+            <material> ALUXX-Grade aluminum</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Alloy OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Tektro Alloy</components>
+        <components name="Saddle"> Selle Royal Seta W or M</components>
+        <components name="Stem"> Giant Connect</components>
+        <components name="Brakes"> Shimano Dual Pivot, Long Reach</components>
+        <components name="Handlebar"> Giant Contact, flat 31.8</components>
+        <components name="Seatpost"> Giant Connect SL Composite, 30.9</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.42</current>
+            <votes>115.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant rapid 2 road bike</name>
+        <price>$925</price>
+        <year>2010</year>
+        <frame>
+            <material> ALUXX-Grade aluminum</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Alloy OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Tektro Alloy, short reach</components>
+        <components name="Saddle"> Giant Performance Road, Men&amp;#8217;s or Women&amp;#8217;s</components>
+        <components name="Stem"> Alloy adjustable height</components>
+        <components name="Brakes"> Alloy Direct Pull Cantilever</components>
+        <components name="Handlebar"> Giant Connect, flat 31.8</components>
+        <components name="Seatpost"> Giant Connect, 30.9</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.41</current>
+            <votes>98.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant rapid 3 road bike</name>
+        <price>$600</price>
+        <year>2010</year>
+        <frame>
+            <material> ALUXX butted aluminum</material>
+        </frame>
+        <fork>
+            <material> CroMo, OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Alloy</components>
+        <components name="Saddle"> Giant Performance Road, Men&amp;#8217;s  or Women&amp;#8217;s</components>
+        <components name="Stem"> Alloy adjustable height</components>
+        <components name="Brakes"> Alloy Dual Pivot</components>
+        <components name="Handlebar"> Giant Connect, flat 31.8</components>
+        <components name="Seatpost"> Giant Connect, 30.9</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.74</current>
+            <votes>91.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant tcx 0 road bike</name>
+        <price>$2,350</price>
+        <year>2010</year>
+        <frame>
+            <material> ALUXX SL-Grade Aluminum</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Alloy OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Alloy</components>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> Giant Contact</components>
+        <components name="Brakes"> AVID Shorty 6</components>
+        <components name="Handlebar"> Giant Contact, 31.8</components>
+        <components name="Brake levers"> Shimano Ultegra 6700</components>
+        <components name="Seatpost"> Giant Connect SL Composite, 30.9</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant tcx 1 road bike</name>
+        <price>$1,675</price>
+        <year>2010</year>
+        <frame>
+            <material> ALUXX SL-Grade Aluminum</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Alloy OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> SRAM Rival</components>
+        <components name="Saddle"> Selle Italia Seta M</components>
+        <components name="Stem"> Giant Connect</components>
+        <components name="Brakes"> AVID Shorty 6</components>
+        <components name="Handlebar"> Giant Connect, 31.8</components>
+        <components name="Brake levers"> Shimano Ultegra 6700</components>
+        <components name="Seatpost"> Giant Composite, 30.9</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.75</current>
+            <votes>4.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant tcx 2 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> ALUXX SL-Grade Aluminum</material>
+        </frame>
+        <fork>
+            <material> Alloy, OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Sora</components>
+        <components name="Saddle"> Giant Performance Road, Men&amp;#8217;s</components>
+        <components name="Stem"> Giant Connect</components>
+        <components name="Brakes"> Tektro CR-720, cyclocross specific</components>
+        <components name="Handlebar"> Giant Connect, 31.8</components>
+        <components name="Brake levers"> Shimano Ultegra 6700</components>
+        <components name="Seatpost"> Giant Connect, 30.9</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant tcr advanced 1 w womens road bike</name>
+        <price>$3,400</price>
+        <year>2010</year>
+        <frame>
+            <material> Advanced-Grade Composite</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Full Composite OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Sora</components>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> Giant Contact</components>
+        <components name="Brakes"> Shimano Ultegra 6700</components>
+        <components name="Handlebar"> Giant Contact, Giant for Women, 31.8</components>
+        <components name="Brake levers"> Shimano Ultegra 6700</components>
+        <components name="Brakes Levers"> Shimano Ultegra 6700, short reach</components>
+        <components name="Seatpost"> Giant Vector Composite</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.64</current>
+            <votes>14.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant tcr advanced 2 w womens road bike</name>
+        <price>$2,500</price>
+        <year>2010</year>
+        <frame>
+            <material> Advanced-Grade Composite</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Full Composite OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Sora</components>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> Giant Connect SL</components>
+        <components name="Brakes"> Shimano 105</components>
+        <components name="Handlebar"> Giant Contact, Giant for Women, 31.8</components>
+        <components name="Brake levers"> Shimano Ultegra 6700</components>
+        <components name="Brakes Levers"> Shimano R700, short reach</components>
+        <components name="Seatpost"> Giant Vector Composite</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant avail advanced 0 womens road bike</name>
+        <price>$5,550</price>
+        <year>2010</year>
+        <frame>
+            <material> Advanced-Grade Composite</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Full Composite OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Dura-Ace 7900</components>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> Giant Contact SLR, Composite</components>
+        <components name="Brakes"> Shimano Dura-Ace 7900</components>
+        <components name="Handlebar"> Giant Contact SLR, Composite, 31.8</components>
+        <components name="Brake levers"> Shimano Ultegra 6700</components>
+        <components name="Brakes Levers"> Shimano R700, short reach</components>
+        <components name="Seatpost"> Giant Vector Composite</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.0</current>
+            <votes>4.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant avail advanced 1 womens road bike</name>
+        <price>$3,300</price>
+        <year>2010</year>
+        <frame>
+            <material> Advanced-Grade Composite</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Full Composite OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Ultegra 6700</components>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> Giant Contact</components>
+        <components name="Brakes"> Shimano Ultegra 6700</components>
+        <components name="Handlebar"> Giant Contact, Giant for Women, 31.8</components>
+        <components name="Brake levers"> Shimano Ultegra 6700</components>
+        <components name="Brakes Levers"> Shimano R700, short reach</components>
+        <components name="Seatpost"> Giant Vector Composite</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant avail advanced 2 womens road bike</name>
+        <price>$2,075</price>
+        <year>2010</year>
+        <frame>
+            <material> Advanced-Grade Composite</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Alloy OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano R700, short reach</components>
+        <components name="Saddle"> Selle Royal Seta W</components>
+        <components name="Stem"> Giant Connect SL</components>
+        <components name="Brakes"> Tektro Giant specific TK-R710, Dual Pivot</components>
+        <components name="Handlebar"> Giant Connect SL, Giant for Women, 31.8</components>
+        <components name="Brake levers"> Shimano Ultegra 6700</components>
+        <components name="Brakes Levers"> Shimano R700, short reach</components>
+        <components name="Seatpost"> Giant Vector Composite</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.58</current>
+            <votes>12.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant avail alliance womens road bike</name>
+        <price>$1,525</price>
+        <year>2010</year>
+        <frame>
+            <material> Alliance Composite/Aluminum Technology</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Alloy OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Tiagra, reach adjust</components>
+        <components name="Saddle"> Selle Royal Seta W</components>
+        <components name="Stem"> Giant Connect</components>
+        <components name="Brakes"> Tektro Giant specific TK-R710, Dual Pivot</components>
+        <components name="Handlebar"> Giant Alloy Women&amp;#8217;s, 31.8</components>
+        <components name="Brake levers"> Shimano Ultegra 6700</components>
+        <components name="Brakes Levers"> Shimano R700, short reach</components>
+        <components name="Seatpost"> Giant Connect SL Composite, 30.9</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant avail 1 womens road bike</name>
+        <price>$1,350</price>
+        <year>2010</year>
+        <frame>
+            <material> ALUXX SL-Grade Aluminum</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Alloy OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano R700, short reach</components>
+        <components name="&lt;script language=&quot;JavaScript&quot; src=&quot;http">//lapi.ebay.com/ws/eBayISAPI.dll?EKServer&amp;#038;ai=4x%7C%22%2F%27%23%22%3A&amp;#038;bdrcolor=ffffff&amp;#038;cid=0&amp;#038;eksize=1&amp;#038;encode=UTF-8&amp;#038;endcolor=FF0000&amp;#038;endtime=y&amp;#038;fbgcolor=ffffff&amp;#038;fntcolor=000000&amp;#038;fs=0&amp;#038;hdrcolor=FFFFCC&amp;#038;hdrimage=10&amp;#038;hdrsrch=n&amp;#038;img=y&amp;#038;lnkcolor=0000FF&amp;#038;logo=12&amp;#038;minprice=800&amp;#038;num=25&amp;#038;numbid=y&amp;#038;paypal=n&amp;#038;popup=n&amp;#038;prvd=9&amp;#038;query=Giant+road+bike&amp;#038;r0=3&amp;#038;shipcost=n&amp;#038;siteid=0&amp;#038;sort=MetaEndSort&amp;#038;sortby=endtime&amp;#038;sortdir=asc&amp;#038;srchdesc=n&amp;#038;tbgcolor=FFFFFF&amp;#038;tlecolor=ffffff&amp;#038;tlefs=0&amp;#038;tlfcolor=FFFFFF&amp;#038;toolid=10004&amp;#038;track=5336640955&amp;#038;width=580"&gt;&lt;/script&gt;</components>
+        <components name="Saddle"> Selle Royal Seta M or W</components>
+        <components name="Stem"> Giant Connect</components>
+        <components name="Brakes"> Tektro Giant specific TK-R710, Dual Pivot</components>
+        <components name="Handlebar"> Giant Connect, Giant For Women, 31.8</components>
+        <components name="Brake levers"> Shimano Ultegra 6700</components>
+        <components name="Brakes Levers"> Shimano R700, short reach</components>
+        <components name="Seatpost"> Giant Connect SL Composite, 30.9</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.33</current>
+            <votes>93.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant avail 3 womens road bike</name>
+        <price>$800</price>
+        <year>2010</year>
+        <frame>
+            <material> ALUXX SL-Grade Aluminum</material>
+        </frame>
+        <fork>
+            <material> Advanced-Grade Composite, Alloy OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 2300, short reach</components>
+        <components name="&lt;script language=&quot;JavaScript&quot; src=&quot;http">//lapi.ebay.com/ws/eBayISAPI.dll?EKServer&amp;#038;ai=4x%7C%22%2F%27%23%22%3A&amp;#038;bdrcolor=ffffff&amp;#038;cid=0&amp;#038;eksize=1&amp;#038;encode=UTF-8&amp;#038;endcolor=FF0000&amp;#038;endtime=y&amp;#038;fbgcolor=ffffff&amp;#038;fntcolor=000000&amp;#038;fs=0&amp;#038;hdrcolor=FFFFCC&amp;#038;hdrimage=10&amp;#038;hdrsrch=n&amp;#038;img=y&amp;#038;lnkcolor=0000FF&amp;#038;logo=12&amp;#038;minprice=800&amp;#038;num=25&amp;#038;numbid=y&amp;#038;paypal=n&amp;#038;popup=n&amp;#038;prvd=9&amp;#038;query=Giant+road+bike&amp;#038;r0=3&amp;#038;shipcost=n&amp;#038;siteid=0&amp;#038;sort=MetaEndSort&amp;#038;sortby=endtime&amp;#038;sortdir=asc&amp;#038;srchdesc=n&amp;#038;tbgcolor=FFFFFF&amp;#038;tlecolor=ffffff&amp;#038;tlefs=0&amp;#038;tlfcolor=FFFFFF&amp;#038;toolid=10004&amp;#038;track=5336640955&amp;#038;width=580"&gt;&lt;/script&gt;</components>
+        <components name="Saddle"> Giant Performance Road, Men&amp;#8217;s or Women&amp;#8217;s</components>
+        <components name="Stem"> Giant Alloy 4-bolt</components>
+        <components name="Brakes"> Tektro Giant specific TK-R710, Dual Pivot</components>
+        <components name="Handlebar"> Giant Alloy Women&amp;#8217;s, 26.0</components>
+        <components name="Brake levers"> Shimano Ultegra 6700</components>
+        <components name="Brakes Levers"> Shimano R700, short reach</components>
+        <components name="Seatpost"> Giant Alloy, 30.9</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.36</current>
+            <votes>77.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>giant dash 3 womens road bike</name>
+        <price>$600</price>
+        <year>2010</year>
+        <frame>
+            <material> ALUXX butted aluminum</material>
+        </frame>
+        <fork>
+            <material> CroMo, OverDrive Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Alloy</components>
+        <components name="&lt;script language=&quot;JavaScript&quot; src=&quot;http">//lapi.ebay.com/ws/eBayISAPI.dll?EKServer&amp;#038;ai=4x%7C%22%2F%27%23%22%3A&amp;#038;bdrcolor=ffffff&amp;#038;cid=0&amp;#038;eksize=1&amp;#038;encode=UTF-8&amp;#038;endcolor=FF0000&amp;#038;endtime=y&amp;#038;fbgcolor=ffffff&amp;#038;fntcolor=000000&amp;#038;fs=0&amp;#038;hdrcolor=FFFFCC&amp;#038;hdrimage=10&amp;#038;hdrsrch=n&amp;#038;img=y&amp;#038;lnkcolor=0000FF&amp;#038;logo=12&amp;#038;minprice=800&amp;#038;num=25&amp;#038;numbid=y&amp;#038;paypal=n&amp;#038;popup=n&amp;#038;prvd=9&amp;#038;query=Giant+road+bike&amp;#038;r0=3&amp;#038;shipcost=n&amp;#038;siteid=0&amp;#038;sort=MetaEndSort&amp;#038;sortby=endtime&amp;#038;sortdir=asc&amp;#038;srchdesc=n&amp;#038;tbgcolor=FFFFFF&amp;#038;tlecolor=ffffff&amp;#038;tlefs=0&amp;#038;tlfcolor=FFFFFF&amp;#038;toolid=10004&amp;#038;track=5336640955&amp;#038;width=580"&gt;&lt;/script&gt;</components>
+        <components name="Saddle"> Giant Performance Road</components>
+        <components name="Stem"> Alloy adjustable height</components>
+        <components name="Brakes"> Alloy Dual Pivot</components>
+        <components name="Handlebar"> Giant Connect, flat 31.8</components>
+        <components name="Brake levers"> Shimano Ultegra 6700</components>
+        <components name="Brakes Levers"> Shimano R700, short reach</components>
+        <components name="Seatpost"> Giant Connect, 30.9</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.78</current>
+            <votes>82.0</votes>
+        </rating>
+    </model>
+</brand>

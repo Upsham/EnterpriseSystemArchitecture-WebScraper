@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<brand>
+    <manufacturer>khs</manufacturer>
+    <model>
+        <name>khs flite team road bike</name>
+        <price>$5299</price>
+        <year>2010</year>
+        <frame>
+            <material> KHS Full Carbon, Motion Design, replaceable derailleur hanger</material>
+        </frame>
+        <fork>
+            <material> True Temper GS 10 Full Carbon</material>
+        </fork>
+        <components name="Brake Levers"> Dura-Ace</components>
+        <components name="Seat Post"> FSA K-Force Lite Carbon</components>
+        <components name="Stem"> 3T AR-Team 31.8</components>
+        <components name="Saddle"> Selle San Marco Zoncolan</components>
+        <components name="Brakes"> FSA Gossamer Dual Pivot</components>
+        <components name="Handlebar"> 3T Ergosum Pro 31.8</components>
+        <components name="Headset"> FSA Orbit CF Integrated</components>
+        <components name="Tape"> Cork Ribbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.75</current>
+            <votes>12.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>khs flite 900 road bike</name>
+        <price>$3299</price>
+        <year>2010</year>
+        <frame>
+            <material> KHS Full Carbon, replaceable derailleur hanger</material>
+        </frame>
+        <fork>
+            <material> True Temper GS 10 Full Carbon</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Ultegra</components>
+        <components name="Seat Post"> Q2 Carbon</components>
+        <components name="Stem"> 3T ARX Team Forged 31.8</components>
+        <components name="Saddle"> Selle San Marco Aspide</components>
+        <components name="Brakes"> FSA Gossamer Dual Pivot</components>
+        <components name="Handlebar"> 3T Ergosum Alloy Butted 31.8</components>
+        <components name="Headset"> FSA Orbit CF Integrated</components>
+        <components name="Tape"> Cork Ribbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.14</current>
+            <votes>14.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>khs flite 720 road bike</name>
+        <price>$1399</price>
+        <year>2010</year>
+        <frame>
+            <material> Fusion Carbon/Alloy double butted w/curved carbon chain stays, replaceable derailleur hanger</material>
+        </frame>
+        <fork>
+            <material> Carbon with Alloy Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105</components>
+        <components name="Seat Post"> Q2 Carbon</components>
+        <components name="Stem"> Alloy 3D Forged, 31.8</components>
+        <components name="Saddle"> KHS Slim Road</components>
+        <components name="Brakes"> Tektro dual pivot w/cartridge pads</components>
+        <components name="Handlebar"> Alloy 31.8 O/S, butted</components>
+        <components name="Headset"> Cane Creek Orbit IS-2 Integrated</components>
+        <components name="Tape"> Cushion Tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.37</current>
+            <votes>19.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>khs flite 720l womens road bike</name>
+        <price>$1399</price>
+        <year>2010</year>
+        <frame>
+            <material> Fusion Carbon/Alloy double butted w/curved carbon chain stays, replaceable derailleur hanger</material>
+        </frame>
+        <fork>
+            <material> Carbon with Alloy Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano 105</components>
+        <components name="Seat Post"> Q2 Carbon</components>
+        <components name="Stem"> Alloy 3D Forged, 31.8</components>
+        <components name="Saddle"> KHS Slim Road</components>
+        <components name="Brakes"> Tektro dual pivot w/cartridge pads</components>
+        <components name="Handlebar"> Alloy 31.8 O/S, butted</components>
+        <components name="Headset"> Cane Creek Orbit IS-2 Integrated</components>
+        <components name="Tape"> Cushion Tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>khs flite 500 road bike</name>
+        <price>$1099</price>
+        <year>2010</year>
+        <frame>
+            <material> Alloy 6061, Double Butted, Replaceable derailleur hanger w/carbon chain stays</material>
+        </frame>
+        <fork>
+            <material> Carbon with Alloy Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Microshift</components>
+        <components name="Seat Post"> Q2 Carbon Micro Adjust</components>
+        <components name="Stem"> Alloy 3D Forged, 31.8</components>
+        <components name="Saddle"> KHS Padded</components>
+        <components name="Brakes"> Tektro dual pivot</components>
+        <components name="Handlebar"> Alloy Drop 31.8 O/S, butted</components>
+        <components name="Headset"> FSA Integrated</components>
+        <components name="Tape"> Cushion Tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>2.93</current>
+            <votes>15.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>khs flite 300 road bike</name>
+        <price>$769</price>
+        <year>2010</year>
+        <frame>
+            <material> Alloy 6061Replaceable derailleur hanger</material>
+        </frame>
+        <fork>
+            <material> Carbon/Alloy Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano ST2300</components>
+        <components name="Seat Post"> Q2 Carbon Micro Adjust</components>
+        <components name="Stem"> Alloy 31.8 OS</components>
+        <components name="Saddle"> KHS Padded</components>
+        <components name="Brakes"> Tektro dual pivot</components>
+        <components name="Handlebar"> Alloy Drop 31.8 O/S, butted</components>
+        <components name="Headset"> FSA Integrated</components>
+        <components name="Tape"> Cushion Tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.89</current>
+            <votes>19.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>khs flite 250 road bike</name>
+        <price>$589</price>
+        <year>2010</year>
+        <frame>
+            <material> CrMo 4130 Double Butted 3-main w/carrier bosses</material>
+        </frame>
+        <fork>
+            <material> Carbon/Alloy Steerer</material>
+        </fork>
+        <components name="Brake Levers"> Tektro Alloy</components>
+        <components name="Seat Post"> Alloy Micro Adjust</components>
+        <components name="Stem"> Alloy 17 Degree</components>
+        <components name="Saddle"> KHS Road Padded</components>
+        <components name="Brakes"> Alloy dual pivot</components>
+        <components name="Handlebar"> Alloy Flat 580mm</components>
+        <components name="Headset"> Cane Creek A-Headset</components>
+        <components name="Grips"> KHS Road</components>
+        <components name="Tape"> Cushion Tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>khs flite 220 road bike</name>
+        <price>$549</price>
+        <year>2010</year>
+        <frame>
+            <material> CrMo 4130 Double Butted 3-main w/carrier bosses</material>
+        </frame>
+        <fork>
+            <material> CrMo w/Hi-Tensile steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano ST-2200</components>
+        <components name="Seat Post"> Alloy Micro Adjust</components>
+        <components name="Stem"> Alloy 7 Degree 31.8</components>
+        <components name="Saddle"> KHS Road Padded</components>
+        <components name="Brakes"> Alloy dual pivot, long reach</components>
+        <components name="Handlebar"> Alloy HB-CR11 Drop, 31.8</components>
+        <components name="Headset"> Cane Creek A-Headset</components>
+        <components name="Grips"> KHS Road</components>
+        <components name="Tape"> Cushion Tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.55</current>
+            <votes>44.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>khs flite 220l womens road bike</name>
+        <price>$549</price>
+        <year>2010</year>
+        <frame>
+            <material> CrMo 4130 Double Butted 3-main w/carrier bosses</material>
+        </frame>
+        <fork>
+            <material> CrMo w/Hi-Tensile steerer</material>
+        </fork>
+        <components name="Brake Levers"> Shimano ST-2200</components>
+        <components name="Seat Post"> Alloy Micro Adjust</components>
+        <components name="Stem"> Alloy 7 Degree 31.8</components>
+        <components name="Saddle"> KHS Road Padded</components>
+        <components name="Brakes"> Alloy dual pivot, long reach</components>
+        <components name="Handlebar"> Alloy HB-CR11 Drop, 38cm</components>
+        <components name="Headset"> Cane Creek A-Headset</components>
+        <components name="Grips"> KHS Road</components>
+        <components name="Tape"> Cushion Tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.75</current>
+            <votes>12.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>khs flite 220 flat bar road bike</name>
+        <price>$509</price>
+        <year>2010</year>
+        <frame>
+            <material> CrMo 4130 Double Butted 3-main</material>
+        </frame>
+        <fork>
+            <material> CrMo w/Hi-Tensile steerer</material>
+        </fork>
+        <components name="Brake Levers"> Alloy</components>
+        <components name="Seat Post"> Alloy Micro Adjust</components>
+        <components name="Stem"> Alloy Forged, 3.1.8 O/S</components>
+        <components name="Saddle"> KHS Road Padded</components>
+        <components name="Brakes"> Alloy dual pivot, long reach</components>
+        <components name="Handlebar"> Alloy Flat, 580mm</components>
+        <components name="Headset"> Cane Creek A-Headset</components>
+        <components name="Grips"> KHS Road</components>
+        <components name="Tape"> Cushion Tape</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.4</current>
+            <votes>5.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>khs cx 200 road bike</name>
+        <price>$1259</price>
+        <year>2010</year>
+        <frame>
+            <material> Alloy, Double Butted, replaceable derailleur hanger</material>
+        </frame>
+        <fork>
+            <material> Full CrMo</material>
+        </fork>
+        <components name="Brake Levers"> Shimano Tiagra w/Tektro RL721 Top Mount Lever</components>
+        <components name="Seat Post"> Alloy Micro Adjust</components>
+        <components name="Stem"> Alloy 3D Forged, 3.1.8</components>
+        <components name="Saddle"> San Marco Ponza Power</components>
+        <components name="Brakes"> Tektro Oryx Alloy Canti</components>
+        <components name="Handlebar"> Alloy 31.8 Drop</components>
+        <components name="Headset"> FSA Orbit A-Headset w/Hanger</components>
+        <components name="Grips"> KHS Road</components>
+        <components name="Tape"> Cork Ribbon</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+</brand>

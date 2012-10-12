@@ -1,0 +1,1739 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<brand>
+    <manufacturer>cannondale</manufacturer>
+    <model>
+        <name>cannondale super six hi mod ultimate road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Super Six Carbon HI-Mod</material>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+        </frame>
+        <fork>
+            <material> Cannondale Super Six HI-Mod+, Full Carbon</material>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS 99 (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> SRAM RED</components>
+        <components name="Brakes"> Zero Gravity, black</components>
+        <components name="Handlebar"> Zipp SL Ergo, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> USE Alien Cyclops Carbon, 31.6mm, 250mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.98</current>
+            <votes>65.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale super six hi mod team road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> SuperSix Hi-MOD Carbon BB30</material>
+            <size>48</size>
+            <size>50</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>60</size>
+            <size>63</size>
+        </frame>
+        <fork>
+            <material> SuperSix Hi-MOD monocoque full carbon fork, 1.5 &amp;#8211; 1.125&amp;#8243; tapered steerer, carbon dropouts</material>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI</components>
+        <components name="Brake Lever"> w/shifters</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact, 31.8</components>
+        <components name="Headset"> SuperSix, 1.5 lower bearing, 30mm carbon, w/5mm hidden alloy top cove</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon, 31.6</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.69</current>
+            <votes>13.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale super six hi mod di2 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Super Six Carbon HI- Mod</material>
+            <size>48</size>
+            <size>50</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>60</size>
+            <size>63</size>
+        </frame>
+        <fork>
+            <material> Cannondale Super Six HI-Mod+, Full Carbon</material>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Shimano Dura Ace</components>
+        <components name="Brakes"> Shimano Dura Ace</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.17</current>
+            <votes>6.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale super six hi mod 1 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> SuperSix Hi-MOD Carbon BB30</material>
+            <size>48</size>
+            <size>50</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>60</size>
+            <size>63</size>
+        </frame>
+        <fork>
+            <material> SuperSix Hi-MOD monocoque full carbon fork, 1.5 &amp;#8211; 1.125&amp;#8243; tapered steerer, carbon dropouts</material>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI</components>
+        <components name="Brake Lever"> w/shifters</components>
+        <components name="Brakes"> Shimano Dura-Ace 7900</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact, 31.8</components>
+        <components name="Headset"> SuperSix, 1.5 lower bearing, 30mm carbon, w/5mm hidden alloy top cover</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon, 31.6</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.11</current>
+            <votes>19.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale super six 2 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> SuperSix Carbon BB30</material>
+            <size>48</size>
+            <size>50</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>60</size>
+            <size>63</size>
+        </frame>
+        <fork>
+            <material> SuperSix monocoque full carbon fork, 1.5 &amp;#8211; 1.125&amp;#8243; tapered steerer</material>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99</components>
+        <components name="Brake Lever"> w/shifters</components>
+        <components name="Brakes"> SRAM Red</components>
+        <components name="Handlebar"> SA SL-K compact, 31.8</components>
+        <components name="Headset"> SuperSix, 1.5 lower bearing, 30mm carbon w/5mm hidden alloy top cover</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA SL-K SBS, 31.6</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.71</current>
+            <votes>42.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale super six 3 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> SuperSix Carbon BB30</material>
+        </frame>
+        <fork>
+            <material> SuperSix monocoque full carbon fork, 1.5 &amp;#8211; 1.125&amp;#8243; tapered steerer</material>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99</components>
+        <components name="Brake Lever"> w/shifters</components>
+        <components name="Brakes"> Shimano Ultegra 6700</components>
+        <components name="Handlebar"> FSA SL-K compact, 31.8</components>
+        <components name="Headset"> SuperSix, 1.5 lower bearing, 30mm carbon w/5mm hidden alloy top cover</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA SL-K SBS, 31.6</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.7</current>
+            <votes>139.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale super six hi mod ultimate road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Super Six Carbon HI-Mod</material>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+        </frame>
+        <fork>
+            <material> Cannondale Super Six HI-Mod+, Full Carbon</material>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS 99 (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> SRAM RED</components>
+        <components name="Brakes"> Zero Gravity, black</components>
+        <components name="Handlebar"> Zipp SL Ergo, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> USE Alien Cyclops Carbon, 31.6mm, 250mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.98</current>
+            <votes>65.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale super six hi mod super record 2010 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Super Six Carbon HI-Mod</material>
+            <size>48</size>
+            <size>50</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>60</size>
+            <size>63</size>
+        </frame>
+        <fork>
+            <material> Cannondale Super Six HI-Mod+, Full Carbon</material>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>5.0</current>
+            <votes>2.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale super six hi mod dura ace road bike</name>
+        <year>2010</year>
+        <frame>
+            <material> Super Six Carbon HI-Mod</material>
+            <size>48</size>
+            <size>50</size>
+            <size>52</size>
+            <size>54</size>
+            <size>56</size>
+            <size>58</size>
+            <size>60</size>
+            <size>63</size>
+        </frame>
+        <fork>
+            <material> Cannondale Super Six HI-Mod+, Full Carbon</material>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.89</current>
+            <votes>9.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale super six hi mod sram red road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.79</current>
+            <votes>14.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale super six ultegra compact 2010 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.4</current>
+            <votes>25.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale super six ultegra triple road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.29</current>
+            <votes>7.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale super six sram rival road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale six carbon 3 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.63</current>
+            <votes>32.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale six carbon 5 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.34</current>
+            <votes>53.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale six carbon 6 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale six carbon ultegra compact road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale six carbon 105 compact road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.65</current>
+            <votes>26.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale six carbon 105 triple road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale caad9 1 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.55</current>
+            <votes>62.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale caad9 4 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale caad9 5 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.82</current>
+            <votes>34.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale caad9 6 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale caad 9 ultegra compact road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.5</current>
+            <votes>2.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale caad 9 105 compact road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.5</current>
+            <votes>4.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale caad 9 105 triple road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.78</current>
+            <votes>51.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale caad 9 tiagra compact road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale caad 9 tiagra triple road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale caad8 s 6 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale caad8 s 8 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale caad8 105 compact road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale caad8 tiagra road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.52</current>
+            <votes>63.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale caad8 sora road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.63</current>
+            <votes>30.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse hi mod red road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse hi mod di2 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.6</current>
+            <votes>10.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse hi mod 1 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.49</current>
+            <votes>39.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse carbon 3 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.67</current>
+            <votes>57.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse carbon 4 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse carbon 5 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.3</current>
+            <votes>10.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse carbon 6 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.0</current>
+            <votes>12.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse 5 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse 6 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse hi mod dura ace road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse hi mod ultegra double road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.5</current>
+            <votes>4.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse hi mod di 2 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>0.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse carbon ultegra compact road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.22</current>
+            <votes>9.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse carbon ultegra triple road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.75</current>
+            <votes>36.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse carbon 105 compact road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.86</current>
+            <votes>22.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse carbon 105 triple road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.59</current>
+            <votes>32.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse flat bar 105 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.59</current>
+            <votes>29.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse flat bar tiagra road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.75</current>
+            <votes>4.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale cyclocross red road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale cyclocross 3 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale cyclocross 5 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale cyclocross 6 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.71</current>
+            <votes>7.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale cx9 ultegra road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.59</current>
+            <votes>27.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale cx9 ultegra road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>3.59</current>
+            <votes>27.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale cx9 tiagra road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse hi mod feminine womens road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse carbon feminine 3 womens road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse carbon feminine 4 womens road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse carbon feminine 5 womens road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse carbon feminine 6 womens road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse feminine 5 womens road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse carbon feminine 6 womens road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse feminine tiagra womens road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale synapse carbon feminine 105 womens road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale six feminine 3 womens road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>5.0</current>
+            <votes>1.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale six feminine 4 womens road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale caad9 feminine 5 womens road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale caad9 feminine 6 womens road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>4.07</current>
+            <votes>15.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale caad8 feminine 6 womens road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+    <model>
+        <name>cannondale caad8 feminine 8 womens 2010 road bike</name>
+        <year>2010</year>
+        <frame>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </frame>
+        <fork>
+            <material xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </fork>
+        <components name="Saddle"> Fi&amp;#8217;zi</components>
+        <components name="Stem"> FSA OS-99 CSI (31.8mm, 1.125&amp;#8243;)</components>
+        <components name="Brake Lever"> Campagnolo Super Record</components>
+        <components name="Brakes"> Campagnolo Super Record D-Skeleton, black</components>
+        <components name="Handlebar"> FSA K-Force Carbon Compact RK-220S, 31.8mm</components>
+        <components name="Headset"> Cannondale Super Six, 1.125-1.5&amp;#8243;, Carbon Top Cap</components>
+        <components name="Grips"> N/A</components>
+        <components name="Seatpost"> FSA K-Force Carbon SP-RK-160, 31.6mm, 350mm</components>
+        <rating>
+            <max>5.0</max>
+            <current>0.0</current>
+            <votes>0.0</votes>
+        </rating>
+    </model>
+</brand>
